@@ -1,0 +1,20 @@
+# News ingestion and publication-date parsing
+feedparser
+requests
+python-dateutil
+trafilatura
+beautifulsoup4
+
+# Data processing and machine-learning models
+pandas
+numpy
+torch
+transformers
+sentence-transformers
+faiss-cpu
+tqdm
+scikit-learn
+
+# Existing classifier and market-data helpers
+psutil
+yfinance

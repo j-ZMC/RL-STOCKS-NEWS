@@ -1,0 +1,28 @@
+# Python environments and caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local pipeline outputs and downloaded datasets
+data/*
+!data/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+
+# Model and experiment caches
+.cache/
+.hf_cache/
+
+# Large data files that shouldn't be tracked
+*.csv
+Internet Scraper/noticias.csv
+S&P500_stock_data/sp500_market_data.csv
+S&P500_stock_data/sp500_siglo21.db
+S&P500_stock_data/market_rl_data.db
+
+# Model weights (use Git LFS instead if you need to track these)
+*.safetensors
+modelo_gics_local/model.safetensors

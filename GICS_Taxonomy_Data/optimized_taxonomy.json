@@ -1,0 +1,3199 @@
+{
+  "version": "2.0",
+  "fecha_generacion": "2026-08-18T18:28:10.392581",
+  "total_categorias": 153,
+  "categorias": [
+    {
+      "id": "technology:semiconductors",
+      "sector": "Technology",
+      "categoria": "Semiconductors",
+      "descripcion": "Design, manufacturing, and supply of microchips, CPUs, GPUs, memory, ASICs, foundries, and advanced process nodes.",
+      "keywords": [
+        "semiconductor",
+        "fabless",
+        "foundry",
+        "wafer fab",
+        "chip fab",
+        "ASIC",
+        "SoC",
+        "FPGA",
+        "DRAM",
+        "NAND flash",
+        "HBM memory",
+        "chiplet",
+        "advanced packaging",
+        "CoWoS",
+        "EUV lithography",
+        "photomask",
+        "die yield",
+        "wafer start",
+        "leading-edge node",
+        "3nm process",
+        "5nm process",
+        "power semiconductor",
+        "analog chip",
+        "microcontroller unit",
+        "IGBT",
+        "silicon carbide chip",
+        "GaN semiconductor",
+        "tape-out",
+        "fab utilization",
+        "chip shortage",
+        "TSMC",
+        "capacity ramp",
+        "sub-fab",
+        "photoresist",
+        "wafer starts"
+      ],
+      "keywords_count": 35,
+      "texto_para_embedding": "[Technology]\nSemiconductors\n\nDesign, manufacturing, and supply of microchips, CPUs, GPUs, memory, ASICs, foundries, and advanced process nodes.\n\nTérminos clave: semiconductor fabless foundry wafer fab chip fab ASIC SoC FPGA DRAM NAND flash HBM memory chiplet advanced packaging CoWoS EUV lithography photomask die yield wafer start leading-edge node 3nm process 5nm process power semiconductor analog chip microcontroller unit IGBT silicon carbide chip GaN semiconductor tape-out fab utilization chip shortage TSMC capacity ramp sub-fab photoresist wafer starts\n\nRelevantes: semiconductor fabless foundry wafer fab chip fab ASIC SoC FPGA DRAM NAND flash HBM memory chiplet advanced packaging CoWoS EUV lithography photomask die yield wafer start leading-edge node 3nm process 5nm process power semiconductor analog chip microcontroller unit IGBT silicon carbide chip GaN semiconductor tape-out fab utilization chip shortage TSMC capacity ramp sub-fab photoresist wafer starts",
+      "evitar_confusion": [
+        "Hardware (finished devices)",
+        "Technology Components (passive parts)",
+        "Electronic Equipment (instruments)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:software",
+      "sector": "Technology",
+      "categoria": "Software",
+      "descripcion": "Development of operating systems, enterprise applications, SaaS, databases, developer tools, and cloud applications.",
+      "keywords": [
+        "software license",
+        "SaaS",
+        "subscription software",
+        "enterprise resource planning",
+        "middleware",
+        "API management",
+        "low-code platform",
+        "DevOps tooling",
+        "CI/CD pipeline",
+        "container orchestration",
+        "Kubernetes",
+        "database management system",
+        "on-premise deployment",
+        "software vendor",
+        "vertical software",
+        "application software",
+        "operating system vendor",
+        "open-source software",
+        "software monetization",
+        "seat-based pricing",
+        "usage-based pricing",
+        "software developer tools",
+        "IDE",
+        "codebase",
+        "software architecture"
+      ],
+      "keywords_count": 25,
+      "texto_para_embedding": "[Technology]\nSoftware\n\nDevelopment of operating systems, enterprise applications, SaaS, databases, developer tools, and cloud applications.\n\nTérminos clave: software license SaaS subscription software enterprise resource planning middleware API management low-code platform DevOps tooling CI/CD pipeline container orchestration Kubernetes database management system on-premise deployment software vendor vertical software application software operating system vendor open-source software software monetization seat-based pricing usage-based pricing software developer tools IDE codebase software architecture\n\nRelevantes: software license SaaS subscription software enterprise resource planning middleware API management low-code platform DevOps tooling CI/CD pipeline container orchestration Kubernetes database management system on-premise deployment software vendor vertical software application software operating system vendor open-source software software monetization seat-based pricing usage-based pricing software developer tools IDE codebase software architecture",
+      "evitar_confusion": [
+        "Enterprise Technology (business-process apps)",
+        "IT Services (consulting/integration)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:hardware",
+      "sector": "Technology",
+      "categoria": "Hardware",
+      "descripcion": "Manufacturing of computers, servers, electronic devices, peripherals, storage systems, and technology infrastructure.",
+      "keywords": [
+        "personal computer",
+        "laptop shipment",
+        "desktop PC",
+        "server manufacturer",
+        "rack server",
+        "blade server",
+        "solid-state drive",
+        "hard disk drive",
+        "peripheral device",
+        "motherboard",
+        "graphics card manufacturer",
+        "PC OEM",
+        "device shipment volumes",
+        "notebook unit sales",
+        "computer assembly",
+        "hardware refresh cycle",
+        "storage array",
+        "NAS device",
+        "docking station",
+        "printer hardware",
+        "monitor manufacturer"
+      ],
+      "keywords_count": 21,
+      "texto_para_embedding": "[Technology]\nHardware\n\nManufacturing of computers, servers, electronic devices, peripherals, storage systems, and technology infrastructure.\n\nTérminos clave: personal computer laptop shipment desktop PC server manufacturer rack server blade server solid-state drive hard disk drive peripheral device motherboard graphics card manufacturer PC OEM device shipment volumes notebook unit sales computer assembly hardware refresh cycle storage array NAS device docking station printer hardware monitor manufacturer\n\nRelevantes: personal computer laptop shipment desktop PC server manufacturer rack server blade server solid-state drive hard disk drive peripheral device motherboard graphics card manufacturer PC OEM device shipment volumes notebook unit sales computer assembly hardware refresh cycle storage array NAS device docking station printer hardware monitor manufacturer",
+      "evitar_confusion": [
+        "Semiconductors (chips inside devices)",
+        "Networking Equipment (routers/switches)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:networking_equipment",
+      "sector": "Technology",
+      "categoria": "Networking Equipment",
+      "descripcion": "Communication infrastructure, routers, switches, networking systems, and data center connectivity hardware.",
+      "keywords": [
+        "router",
+        "network switch",
+        "network interface card",
+        "structured cabling",
+        "optical transceiver",
+        "SD-WAN",
+        "network fabric",
+        "data center interconnect",
+        "load balancer appliance",
+        "firewall appliance",
+        "wireless access point",
+        "Ethernet switch",
+        "core network equipment",
+        "5G radio access network hardware",
+        "fiber optic equipment",
+        "network topology",
+        "spine-leaf architecture",
+        "WAN optimization"
+      ],
+      "keywords_count": 18,
+      "texto_para_embedding": "[Technology]\nNetworking Equipment\n\nCommunication infrastructure, routers, switches, networking systems, and data center connectivity hardware.\n\nTérminos clave: router network switch network interface card structured cabling optical transceiver SD-WAN network fabric data center interconnect load balancer appliance firewall appliance wireless access point Ethernet switch core network equipment 5G radio access network hardware fiber optic equipment network topology spine-leaf architecture WAN optimization\n\nRelevantes: router network switch network interface card structured cabling optical transceiver SD-WAN network fabric data center interconnect load balancer appliance firewall appliance wireless access point Ethernet switch core network equipment 5G radio access network hardware fiber optic equipment network topology spine-leaf architecture WAN optimization",
+      "evitar_confusion": [
+        "Cybersecurity (software/services, not the appliance hardware itself)",
+        "Telecommunications (carrier services)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:it_services",
+      "sector": "Technology",
+      "categoria": "IT Services",
+      "descripcion": "Technology consulting, systems integration, infrastructure management, outsourcing, and digital transformation services.",
+      "keywords": [
+        "systems integrator",
+        "IT consulting",
+        "managed services provider",
+        "business process outsourcing",
+        "application maintenance",
+        "technology staffing",
+        "digital transformation engagement",
+        "help desk services",
+        "IT outsourcing contract",
+        "professional services headcount",
+        "billable utilization rate",
+        "staff augmentation",
+        "implementation partner",
+        "system implementation project"
+      ],
+      "keywords_count": 14,
+      "texto_para_embedding": "[Technology]\nIT Services\n\nTechnology consulting, systems integration, infrastructure management, outsourcing, and digital transformation services.\n\nTérminos clave: systems integrator IT consulting managed services provider business process outsourcing application maintenance technology staffing digital transformation engagement help desk services IT outsourcing contract professional services headcount billable utilization rate staff augmentation implementation partner system implementation project\n\nRelevantes: systems integrator IT consulting managed services provider business process outsourcing application maintenance technology staffing digital transformation engagement help desk services IT outsourcing contract professional services headcount billable utilization rate staff augmentation implementation partner system implementation project",
+      "evitar_confusion": [
+        "Software (product companies)",
+        "Commercial Services (non-tech business services)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:electronic_equipment",
+      "sector": "Technology",
+      "categoria": "Electronic Equipment",
+      "descripcion": "Electronic instruments, sensors, measurement systems, and specialized technology systems for industrial and lab use.",
+      "keywords": [
+        "test and measurement equipment",
+        "electronic instrumentation",
+        "oscilloscope",
+        "signal analyzer",
+        "industrial sensor",
+        "machine vision system",
+        "precision instrument",
+        "calibration equipment",
+        "electronic component distributor",
+        "instrumentation manufacturer",
+        "metrology equipment"
+      ],
+      "keywords_count": 11,
+      "texto_para_embedding": "[Technology]\nElectronic Equipment\n\nElectronic instruments, sensors, measurement systems, and specialized technology systems for industrial and lab use.\n\nTérminos clave: test and measurement equipment electronic instrumentation oscilloscope signal analyzer industrial sensor machine vision system precision instrument calibration equipment electronic component distributor instrumentation manufacturer metrology equipment\n\nRelevantes: test and measurement equipment electronic instrumentation oscilloscope signal analyzer industrial sensor machine vision system precision instrument calibration equipment electronic component distributor instrumentation manufacturer metrology equipment",
+      "evitar_confusion": [
+        "Semiconductors",
+        "Life Sciences Tools (lab instruments for biotech)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:artificial_intelligence",
+      "sector": "Technology",
+      "categoria": "Artificial Intelligence",
+      "descripcion": "Hardware and software for model training and inference, AI accelerators, machine learning, and generative AI applications.",
+      "keywords": [
+        "large language model",
+        "generative AI",
+        "AI accelerator chip",
+        "GPU cluster",
+        "model training run",
+        "inference workload",
+        "foundation model",
+        "neural network training",
+        "AI data center buildout",
+        "machine learning pipeline",
+        "AI chip demand",
+        "compute cluster",
+        "training FLOPs",
+        "model fine-tuning",
+        "AI copilot",
+        "agentic AI",
+        "AI inference cost",
+        "tensor processing unit",
+        "AI accelerator supply",
+        "frontier model"
+      ],
+      "keywords_count": 20,
+      "texto_para_embedding": "[Technology]\nArtificial Intelligence\n\nHardware and software for model training and inference, AI accelerators, machine learning, and generative AI applications.\n\nTérminos clave: large language model generative AI AI accelerator chip GPU cluster model training run inference workload foundation model neural network training AI data center buildout machine learning pipeline AI chip demand compute cluster training FLOPs model fine-tuning AI copilot agentic AI AI inference cost tensor processing unit AI accelerator supply frontier model\n\nRelevantes: large language model generative AI AI accelerator chip GPU cluster model training run inference workload foundation model neural network training AI data center buildout machine learning pipeline AI chip demand compute cluster training FLOPs model fine-tuning AI copilot agentic AI AI inference cost tensor processing unit AI accelerator supply frontier model",
+      "evitar_confusion": [
+        "Software (generic apps)",
+        "Semiconductors (general chip market)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:cloud_computing",
+      "sector": "Technology",
+      "categoria": "Cloud Computing",
+      "descripcion": "IaaS, PaaS, SaaS infrastructure, cloud data centers, cloud storage, and distributed computing services.",
+      "keywords": [
+        "hyperscaler",
+        "cloud infrastructure spend",
+        "public cloud",
+        "private cloud",
+        "cloud migration",
+        "compute instance",
+        "cloud storage tier",
+        "data center capacity",
+        "cloud capex",
+        "multi-cloud strategy",
+        "cloud workload",
+        "colocation capacity",
+        "cloud region buildout",
+        "server virtualization",
+        "cloud consumption revenue",
+        "hybrid cloud"
+      ],
+      "keywords_count": 16,
+      "texto_para_embedding": "[Technology]\nCloud Computing\n\nIaaS, PaaS, SaaS infrastructure, cloud data centers, cloud storage, and distributed computing services.\n\nTérminos clave: hyperscaler cloud infrastructure spend public cloud private cloud cloud migration compute instance cloud storage tier data center capacity cloud capex multi-cloud strategy cloud workload colocation capacity cloud region buildout server virtualization cloud consumption revenue hybrid cloud\n\nRelevantes: hyperscaler cloud infrastructure spend public cloud private cloud cloud migration compute instance cloud storage tier data center capacity cloud capex multi-cloud strategy cloud workload colocation capacity cloud region buildout server virtualization cloud consumption revenue hybrid cloud",
+      "evitar_confusion": [
+        "Data Center REITs (real estate ownership, not the compute service)",
+        "Software"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:cybersecurity",
+      "sector": "Technology",
+      "categoria": "Cybersecurity",
+      "descripcion": "Protection of networks, systems, applications, and data through threat detection, identity management, and access control.",
+      "keywords": [
+        "endpoint detection and response",
+        "identity and access management",
+        "zero trust architecture",
+        "security operations center",
+        "threat intelligence",
+        "ransomware attack",
+        "data breach disclosure",
+        "vulnerability management",
+        "penetration testing",
+        "security information and event management",
+        "multi-factor authentication",
+        "phishing defense",
+        "cyber insurance",
+        "extended detection and response",
+        "cloud security posture",
+        "intrusion detection"
+      ],
+      "keywords_count": 16,
+      "texto_para_embedding": "[Technology]\nCybersecurity\n\nProtection of networks, systems, applications, and data through threat detection, identity management, and access control.\n\nTérminos clave: endpoint detection and response identity and access management zero trust architecture security operations center threat intelligence ransomware attack data breach disclosure vulnerability management penetration testing security information and event management multi-factor authentication phishing defense cyber insurance extended detection and response cloud security posture intrusion detection\n\nRelevantes: endpoint detection and response identity and access management zero trust architecture security operations center threat intelligence ransomware attack data breach disclosure vulnerability management penetration testing security information and event management multi-factor authentication phishing defense cyber insurance extended detection and response cloud security posture intrusion detection",
+      "evitar_confusion": [
+        "Networking Equipment (physical hardware)",
+        "IT Services"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:enterprise_technology",
+      "sector": "Technology",
+      "categoria": "Enterprise Technology",
+      "descripcion": "Enterprise applications, ERP, CRM, automation, productivity software, and digital business solutions.",
+      "keywords": [
+        "customer relationship management platform",
+        "enterprise resource planning suite",
+        "human capital management software",
+        "supply chain management software",
+        "business intelligence platform",
+        "workflow automation",
+        "robotic process automation",
+        "procurement software",
+        "enterprise data warehouse",
+        "productivity suite",
+        "collaboration software"
+      ],
+      "keywords_count": 11,
+      "texto_para_embedding": "[Technology]\nEnterprise Technology\n\nEnterprise applications, ERP, CRM, automation, productivity software, and digital business solutions.\n\nTérminos clave: customer relationship management platform enterprise resource planning suite human capital management software supply chain management software business intelligence platform workflow automation robotic process automation procurement software enterprise data warehouse productivity suite collaboration software\n\nRelevantes: customer relationship management platform enterprise resource planning suite human capital management software supply chain management software business intelligence platform workflow automation robotic process automation procurement software enterprise data warehouse productivity suite collaboration software",
+      "evitar_confusion": [
+        "Software (broad category)",
+        "IT Services"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:technology_components",
+      "sector": "Technology",
+      "categoria": "Technology Components",
+      "descripcion": "Integrated circuits, electronic components, storage devices, connectors, circuit boards, and sensors used in tech products.",
+      "keywords": [
+        "printed circuit board",
+        "passive component",
+        "capacitor manufacturer",
+        "resistor supplier",
+        "connector manufacturer",
+        "flexible circuit",
+        "component distributor",
+        "bill of materials",
+        "electronic component shortage",
+        "surface-mount device"
+      ],
+      "keywords_count": 10,
+      "texto_para_embedding": "[Technology]\nTechnology Components\n\nIntegrated circuits, electronic components, storage devices, connectors, circuit boards, and sensors used in tech products.\n\nTérminos clave: printed circuit board passive component capacitor manufacturer resistor supplier connector manufacturer flexible circuit component distributor bill of materials electronic component shortage surface-mount device\n\nRelevantes: printed circuit board passive component capacitor manufacturer resistor supplier connector manufacturer flexible circuit component distributor bill of materials electronic component shortage surface-mount device",
+      "evitar_confusion": [
+        "Semiconductors (active chips)",
+        "Hardware (finished products)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:market_catalysts",
+      "sector": "Technology",
+      "categoria": "Market Catalysts",
+      "descripcion": "Sector-specific events that move technology stocks.",
+      "keywords": [
+        "product launch event",
+        "chip export controls",
+        "AI capex guidance",
+        "hyperscaler capital expenditure",
+        "antitrust ruling against a tech company",
+        "developer conference announcement",
+        "GPU allocation constraints",
+        "technology tariffs"
+      ],
+      "keywords_count": 8,
+      "texto_para_embedding": "[Technology]\nMarket Catalysts\n\nSector-specific events that move technology stocks.\n\nTérminos clave: product launch event chip export controls AI capex guidance hyperscaler capital expenditure antitrust ruling against a tech company developer conference announcement GPU allocation constraints technology tariffs\n\nRelevantes: product launch event chip export controls AI capex guidance hyperscaler capital expenditure antitrust ruling against a tech company developer conference announcement GPU allocation constraints technology tariffs",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:operating_terminology",
+      "sector": "Technology",
+      "categoria": "Operating Terminology",
+      "descripcion": "Technology-specific operating language.",
+      "keywords": [
+        "annual recurring revenue",
+        "net revenue retention",
+        "bookings",
+        "billings",
+        "backlog",
+        "wafer yield",
+        "capacity utilization",
+        "R&D intensity",
+        "cloud migration rate",
+        "seat count",
+        "logo retention"
+      ],
+      "keywords_count": 11,
+      "texto_para_embedding": "[Technology]\nOperating Terminology\n\nTechnology-specific operating language.\n\nTérminos clave: annual recurring revenue net revenue retention bookings billings backlog wafer yield capacity utilization R&D intensity cloud migration rate seat count logo retention\n\nRelevantes: annual recurring revenue net revenue retention bookings billings backlog wafer yield capacity utilization R&D intensity cloud migration rate seat count logo retention",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "technology:financial_metrics",
+      "sector": "Technology",
+      "categoria": "Financial Metrics",
+      "descripcion": "Note: these overlap heavily with other sectors — use only in combination with sector-specific keywords above, never alone.",
+      "keywords": [
+        "ARR growth",
+        "gross margin (software vs hardware mix)",
+        "rule of 40",
+        "R&D as percent of revenue",
+        "stock-based compensation",
+        "free cash flow margin"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Technology]\nFinancial Metrics\n\nNote: these overlap heavily with other sectors — use only in combination with sector-specific keywords above, never alone.\n\nTérminos clave: ARR growth gross margin (software vs hardware mix) rule of 40 R&D as percent of revenue stock-based compensation free cash flow margin\n\nRelevantes: ARR growth gross margin (software vs hardware mix) rule of 40 R&D as percent of revenue stock-based compensation free cash flow margin",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:banking",
+      "sector": "Financials",
+      "categoria": "Banking",
+      "descripcion": "Commercial banks, regional banks, retail banking, corporate banking, deposits, mortgages, and consumer credit.",
+      "keywords": [
+        "commercial bank",
+        "regional bank",
+        "community bank",
+        "retail deposit base",
+        "checking account",
+        "savings account",
+        "commercial and industrial loan",
+        "branch network",
+        "correspondent banking",
+        "bank holding company",
+        "core deposits",
+        "loan-to-deposit ratio",
+        "interbank lending",
+        "bank charter",
+        "de novo bank"
+      ],
+      "keywords_count": 15,
+      "texto_para_embedding": "[Financials]\nBanking\n\nCommercial banks, regional banks, retail banking, corporate banking, deposits, mortgages, and consumer credit.\n\nTérminos clave: commercial bank regional bank community bank retail deposit base checking account savings account commercial and industrial loan branch network correspondent banking bank holding company core deposits loan-to-deposit ratio interbank lending bank charter de novo bank\n\nRelevantes: commercial bank regional bank community bank retail deposit base checking account savings account commercial and industrial loan branch network correspondent banking bank holding company core deposits loan-to-deposit ratio interbank lending bank charter de novo bank",
+      "evitar_confusion": [
+        "Consumer Finance (non-bank lenders)",
+        "Mortgage Finance (specialized mortgage REITs)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:investment_banking",
+      "sector": "Financials",
+      "categoria": "Investment Banking",
+      "descripcion": "M&A advisory, equity/debt underwriting, IPOs, leveraged finance, and securities issuance.",
+      "keywords": [
+        "mergers and acquisitions advisory",
+        "equity underwriting",
+        "debt underwriting",
+        "initial public offering",
+        "leveraged buyout financing",
+        "bridge loan",
+        "SPAC merger",
+        "fairness opinion",
+        "syndicated loan",
+        "high-yield bond issuance",
+        "advisory fees",
+        "deal pipeline",
+        "bulge bracket bank",
+        "boutique advisory firm"
+      ],
+      "keywords_count": 14,
+      "texto_para_embedding": "[Financials]\nInvestment Banking\n\nM&A advisory, equity/debt underwriting, IPOs, leveraged finance, and securities issuance.\n\nTérminos clave: mergers and acquisitions advisory equity underwriting debt underwriting initial public offering leveraged buyout financing bridge loan SPAC merger fairness opinion syndicated loan high-yield bond issuance advisory fees deal pipeline bulge bracket bank boutique advisory firm\n\nRelevantes: mergers and acquisitions advisory equity underwriting debt underwriting initial public offering leveraged buyout financing bridge loan SPAC merger fairness opinion syndicated loan high-yield bond issuance advisory fees deal pipeline bulge bracket bank boutique advisory firm",
+      "evitar_confusion": [
+        "Capital Markets (trading, not advisory)",
+        "Banking (deposit-taking)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:capital_markets",
+      "sector": "Financials",
+      "categoria": "Capital Markets",
+      "descripcion": "Brokerage, securities trading, stock exchanges, market making, derivatives, and fixed income.",
+      "keywords": [
+        "stock exchange operator",
+        "market maker",
+        "prime brokerage",
+        "clearinghouse",
+        "derivatives trading volume",
+        "futures exchange",
+        "options exchange",
+        "electronic trading platform",
+        "dark pool",
+        "bid-ask spread",
+        "order flow",
+        "securities lending",
+        "algorithmic trading",
+        "exchange-traded derivatives"
+      ],
+      "keywords_count": 14,
+      "texto_para_embedding": "[Financials]\nCapital Markets\n\nBrokerage, securities trading, stock exchanges, market making, derivatives, and fixed income.\n\nTérminos clave: stock exchange operator market maker prime brokerage clearinghouse derivatives trading volume futures exchange options exchange electronic trading platform dark pool bid-ask spread order flow securities lending algorithmic trading exchange-traded derivatives\n\nRelevantes: stock exchange operator market maker prime brokerage clearinghouse derivatives trading volume futures exchange options exchange electronic trading platform dark pool bid-ask spread order flow securities lending algorithmic trading exchange-traded derivatives",
+      "evitar_confusion": [
+        "Asset Management (buy-side)",
+        "Investment Banking (advisory)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:asset_management",
+      "sector": "Financials",
+      "categoria": "Asset Management",
+      "descripcion": "Mutual funds, ETFs, institutional asset management, wealth management, and alternative investments.",
+      "keywords": [
+        "assets under management",
+        "mutual fund flows",
+        "exchange-traded fund issuer",
+        "institutional mandate",
+        "private equity fund",
+        "hedge fund",
+        "fund of funds",
+        "wealth management advisor",
+        "fee-based assets",
+        "expense ratio",
+        "index fund provider",
+        "alternative asset manager",
+        "carried interest",
+        "limited partner",
+        "general partner",
+        "fund redemption"
+      ],
+      "keywords_count": 16,
+      "texto_para_embedding": "[Financials]\nAsset Management\n\nMutual funds, ETFs, institutional asset management, wealth management, and alternative investments.\n\nTérminos clave: assets under management mutual fund flows exchange-traded fund issuer institutional mandate private equity fund hedge fund fund of funds wealth management advisor fee-based assets expense ratio index fund provider alternative asset manager carried interest limited partner general partner fund redemption\n\nRelevantes: assets under management mutual fund flows exchange-traded fund issuer institutional mandate private equity fund hedge fund fund of funds wealth management advisor fee-based assets expense ratio index fund provider alternative asset manager carried interest limited partner general partner fund redemption",
+      "evitar_confusion": [
+        "Capital Markets (brokers/exchanges)",
+        "Insurance (separate account management)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:consumer_finance",
+      "sector": "Financials",
+      "categoria": "Consumer Finance",
+      "descripcion": "Credit cards, personal loans, auto finance, point-of-sale financing, and unsecured consumer credit.",
+      "keywords": [
+        "credit card issuer",
+        "personal installment loan",
+        "auto loan originator",
+        "buy now pay later",
+        "point-of-sale financing",
+        "unsecured consumer loan",
+        "subprime lending",
+        "consumer credit bureau data",
+        "revolving credit balance",
+        "loan origination volume",
+        "charge card"
+      ],
+      "keywords_count": 11,
+      "texto_para_embedding": "[Financials]\nConsumer Finance\n\nCredit cards, personal loans, auto finance, point-of-sale financing, and unsecured consumer credit.\n\nTérminos clave: credit card issuer personal installment loan auto loan originator buy now pay later point-of-sale financing unsecured consumer loan subprime lending consumer credit bureau data revolving credit balance loan origination volume charge card\n\nRelevantes: credit card issuer personal installment loan auto loan originator buy now pay later point-of-sale financing unsecured consumer loan subprime lending consumer credit bureau data revolving credit balance loan origination volume charge card",
+      "evitar_confusion": [
+        "Banking (deposit institutions)",
+        "Payments (transaction processors)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:insurance",
+      "sector": "Financials",
+      "categoria": "Insurance",
+      "descripcion": "Property and casualty, life, health-related insurance, reinsurance, annuities, and underwriting.",
+      "keywords": [
+        "property and casualty insurer",
+        "life insurance policy",
+        "reinsurance treaty",
+        "annuity product",
+        "insurance premium growth",
+        "underwriting profit",
+        "combined ratio",
+        "catastrophe losses",
+        "actuarial reserve",
+        "claims reserve",
+        "policyholder",
+        "loss ratio",
+        "insurance float",
+        "excess and surplus lines",
+        "title insurance"
+      ],
+      "keywords_count": 15,
+      "texto_para_embedding": "[Financials]\nInsurance\n\nProperty and casualty, life, health-related insurance, reinsurance, annuities, and underwriting.\n\nTérminos clave: property and casualty insurer life insurance policy reinsurance treaty annuity product insurance premium growth underwriting profit combined ratio catastrophe losses actuarial reserve claims reserve policyholder loss ratio insurance float excess and surplus lines title insurance\n\nRelevantes: property and casualty insurer life insurance policy reinsurance treaty annuity product insurance premium growth underwriting profit combined ratio catastrophe losses actuarial reserve claims reserve policyholder loss ratio insurance float excess and surplus lines title insurance",
+      "evitar_confusion": [
+        "Managed Care (health insurance, categorized under Health Care)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:mortgage_finance",
+      "sector": "Financials",
+      "categoria": "Mortgage Finance",
+      "descripcion": "Residential and commercial mortgages, mortgage servicing, refinancing, and mortgage-backed securities.",
+      "keywords": [
+        "mortgage originator",
+        "mortgage servicer",
+        "residential mortgage-backed security",
+        "mortgage refinancing volume",
+        "conforming loan",
+        "jumbo mortgage",
+        "mortgage REIT",
+        "loan-to-value ratio on mortgage",
+        "GSE (Fannie Mae/Freddie Mac)",
+        "mortgage rate lock"
+      ],
+      "keywords_count": 10,
+      "texto_para_embedding": "[Financials]\nMortgage Finance\n\nResidential and commercial mortgages, mortgage servicing, refinancing, and mortgage-backed securities.\n\nTérminos clave: mortgage originator mortgage servicer residential mortgage-backed security mortgage refinancing volume conforming loan jumbo mortgage mortgage REIT loan-to-value ratio on mortgage GSE (Fannie Mae/Freddie Mac) mortgage rate lock\n\nRelevantes: mortgage originator mortgage servicer residential mortgage-backed security mortgage refinancing volume conforming loan jumbo mortgage mortgage REIT loan-to-value ratio on mortgage GSE (Fannie Mae/Freddie Mac) mortgage rate lock",
+      "evitar_confusion": [
+        "Banking (deposit-funded mortgages)",
+        "Real Estate Development"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:diversified_financial_services",
+      "sector": "Financials",
+      "categoria": "Diversified Financial Services",
+      "descripcion": "Financial conglomerates, specialty finance, fintech, and diversified financial products.",
+      "keywords": [
+        "financial conglomerate",
+        "specialty finance company",
+        "fintech lender",
+        "diversified financial holding company",
+        "embedded finance",
+        "banking-as-a-service",
+        "non-bank financial institution"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Financials]\nDiversified Financial Services\n\nFinancial conglomerates, specialty finance, fintech, and diversified financial products.\n\nTérminos clave: financial conglomerate specialty finance company fintech lender diversified financial holding company embedded finance banking-as-a-service non-bank financial institution\n\nRelevantes: financial conglomerate specialty finance company fintech lender diversified financial holding company embedded finance banking-as-a-service non-bank financial institution",
+      "evitar_confusion": [
+        "Banking",
+        "Payments"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:payments",
+      "sector": "Financials",
+      "categoria": "Payments",
+      "descripcion": "Credit card networks, debit cards, payment processing, digital payments, and merchant acquiring.",
+      "keywords": [
+        "payment network",
+        "card network interchange",
+        "merchant acquirer",
+        "digital wallet",
+        "payment gateway",
+        "point-of-sale terminal",
+        "payment processing volume",
+        "cross-border payment",
+        "real-time payments rail",
+        "stablecoin payment rail",
+        "tokenization of payments"
+      ],
+      "keywords_count": 11,
+      "texto_para_embedding": "[Financials]\nPayments\n\nCredit card networks, debit cards, payment processing, digital payments, and merchant acquiring.\n\nTérminos clave: payment network card network interchange merchant acquirer digital wallet payment gateway point-of-sale terminal payment processing volume cross-border payment real-time payments rail stablecoin payment rail tokenization of payments\n\nRelevantes: payment network card network interchange merchant acquirer digital wallet payment gateway point-of-sale terminal payment processing volume cross-border payment real-time payments rail stablecoin payment rail tokenization of payments",
+      "evitar_confusion": [
+        "Consumer Finance (lending)",
+        "E-Commerce (Consumer Discretionary)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:operating_metrics",
+      "sector": "Financials",
+      "categoria": "Operating Metrics",
+      "descripcion": "Financials-specific operating language distinct from generic 'earnings'.",
+      "keywords": [
+        "net interest income",
+        "net interest margin",
+        "deposit beta",
+        "loan growth",
+        "nonperforming loans",
+        "charge-off rate",
+        "provision for credit losses",
+        "reserve coverage ratio",
+        "risk-weighted assets"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Financials]\nOperating Metrics\n\nFinancials-specific operating language distinct from generic 'earnings'.\n\nTérminos clave: net interest income net interest margin deposit beta loan growth nonperforming loans charge-off rate provision for credit losses reserve coverage ratio risk-weighted assets\n\nRelevantes: net interest income net interest margin deposit beta loan growth nonperforming loans charge-off rate provision for credit losses reserve coverage ratio risk-weighted assets",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:risk_and_capital",
+      "sector": "Financials",
+      "categoria": "Risk and Capital",
+      "descripcion": "Bank capital adequacy and risk terminology.",
+      "keywords": [
+        "CET1 ratio",
+        "Tier 1 capital",
+        "leverage ratio",
+        "liquidity coverage ratio",
+        "stress test results",
+        "loan-loss reserve build"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Financials]\nRisk and Capital\n\nBank capital adequacy and risk terminology.\n\nTérminos clave: CET1 ratio Tier 1 capital leverage ratio liquidity coverage ratio stress test results loan-loss reserve build\n\nRelevantes: CET1 ratio Tier 1 capital leverage ratio liquidity coverage ratio stress test results loan-loss reserve build",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:market_catalysts",
+      "sector": "Financials",
+      "categoria": "Market Catalysts",
+      "descripcion": "Financials-specific catalysts.",
+      "keywords": [
+        "Federal Reserve rate decision",
+        "FOMC statement",
+        "yield curve inversion",
+        "bank stress test results",
+        "deposit flight",
+        "regional bank failure"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Financials]\nMarket Catalysts\n\nFinancials-specific catalysts.\n\nTérminos clave: Federal Reserve rate decision FOMC statement yield curve inversion bank stress test results deposit flight regional bank failure\n\nRelevantes: Federal Reserve rate decision FOMC statement yield curve inversion bank stress test results deposit flight regional bank failure",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:financial_metrics",
+      "sector": "Financials",
+      "categoria": "Financial Metrics",
+      "descripcion": "",
+      "keywords": [
+        "return on equity",
+        "return on tangible common equity",
+        "tangible book value per share",
+        "efficiency ratio",
+        "net charge-off rate"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Financials]\nFinancial Metrics\n\n\n\nTérminos clave: return on equity return on tangible common equity tangible book value per share efficiency ratio net charge-off rate\n\nRelevantes: return on equity return on tangible common equity tangible book value per share efficiency ratio net charge-off rate",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "financials:industry_drivers",
+      "sector": "Financials",
+      "categoria": "Industry Drivers",
+      "descripcion": "",
+      "keywords": [
+        "monetary policy stance",
+        "credit cycle",
+        "yield curve shape",
+        "bank capital requirements"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Financials]\nIndustry Drivers\n\n\n\nTérminos clave: monetary policy stance credit cycle yield curve shape bank capital requirements\n\nRelevantes: monetary policy stance credit cycle yield curve shape bank capital requirements",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:telecommunications",
+      "sector": "Communication Services",
+      "categoria": "Telecommunications",
+      "descripcion": "Wireless and fixed-line telecom, mobile voice/data, broadband internet, and fiber networks.",
+      "keywords": [
+        "mobile network operator",
+        "fixed-line carrier",
+        "telecom spectrum license",
+        "fiber-to-the-home rollout",
+        "carrier billing",
+        "roaming agreement",
+        "telecom tower lease",
+        "voice minutes of use",
+        "landline subscriber",
+        "telecom regulator filing"
+      ],
+      "keywords_count": 10,
+      "texto_para_embedding": "[Communication Services]\nTelecommunications\n\nWireless and fixed-line telecom, mobile voice/data, broadband internet, and fiber networks.\n\nTérminos clave: mobile network operator fixed-line carrier telecom spectrum license fiber-to-the-home rollout carrier billing roaming agreement telecom tower lease voice minutes of use landline subscriber telecom regulator filing\n\nRelevantes: mobile network operator fixed-line carrier telecom spectrum license fiber-to-the-home rollout carrier billing roaming agreement telecom tower lease voice minutes of use landline subscriber telecom regulator filing",
+      "evitar_confusion": [
+        "Networking Equipment (Technology, hardware vendors)",
+        "Cable and Broadband"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:interactive_media",
+      "sector": "Communication Services",
+      "categoria": "Interactive Media",
+      "descripcion": "Search engines, social media platforms, digital communities, and internet-based communication services.",
+      "keywords": [
+        "search engine market share",
+        "social media platform",
+        "user-generated content platform",
+        "newsfeed algorithm",
+        "social network monthly active users",
+        "content moderation policy",
+        "online community platform",
+        "messaging app"
+      ],
+      "keywords_count": 8,
+      "texto_para_embedding": "[Communication Services]\nInteractive Media\n\nSearch engines, social media platforms, digital communities, and internet-based communication services.\n\nTérminos clave: search engine market share social media platform user-generated content platform newsfeed algorithm social network monthly active users content moderation policy online community platform messaging app\n\nRelevantes: search engine market share social media platform user-generated content platform newsfeed algorithm social network monthly active users content moderation policy online community platform messaging app",
+      "evitar_confusion": [
+        "Software (Technology)",
+        "Digital Advertising (monetization layer)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:entertainment",
+      "sector": "Communication Services",
+      "categoria": "Entertainment",
+      "descripcion": "Film, television, music, streaming platforms, video games, and content production.",
+      "keywords": [
+        "box office revenue",
+        "film studio",
+        "theatrical release",
+        "music label",
+        "concert touring revenue",
+        "content production budget",
+        "talent agency",
+        "royalty payments to artists",
+        "box office opening weekend"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Communication Services]\nEntertainment\n\nFilm, television, music, streaming platforms, video games, and content production.\n\nTérminos clave: box office revenue film studio theatrical release music label concert touring revenue content production budget talent agency royalty payments to artists box office opening weekend\n\nRelevantes: box office revenue film studio theatrical release music label concert touring revenue content production budget talent agency royalty payments to artists box office opening weekend",
+      "evitar_confusion": [
+        "Streaming (distribution)",
+        "Media (broadcast)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:media",
+      "sector": "Communication Services",
+      "categoria": "Media",
+      "descripcion": "Television networks, broadcasting, publishing, digital media, and news organizations.",
+      "keywords": [
+        "television network affiliate",
+        "broadcast ratings",
+        "cable network carriage fee",
+        "newspaper publisher",
+        "digital subscription news",
+        "affiliate fee negotiation",
+        "retransmission consent fee",
+        "linear TV audience"
+      ],
+      "keywords_count": 8,
+      "texto_para_embedding": "[Communication Services]\nMedia\n\nTelevision networks, broadcasting, publishing, digital media, and news organizations.\n\nTérminos clave: television network affiliate broadcast ratings cable network carriage fee newspaper publisher digital subscription news affiliate fee negotiation retransmission consent fee linear TV audience\n\nRelevantes: television network affiliate broadcast ratings cable network carriage fee newspaper publisher digital subscription news affiliate fee negotiation retransmission consent fee linear TV audience",
+      "evitar_confusion": [
+        "Streaming",
+        "Entertainment (production vs. distribution)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:digital_advertising",
+      "sector": "Communication Services",
+      "categoria": "Digital Advertising",
+      "descripcion": "Online advertising, search advertising, social media advertising, and programmatic ad platforms.",
+      "keywords": [
+        "programmatic advertising",
+        "cost per click",
+        "cost per mille",
+        "ad impression volume",
+        "demand-side platform",
+        "supply-side platform",
+        "retail media network",
+        "ad tech stack",
+        "third-party cookie deprecation",
+        "video advertising inventory"
+      ],
+      "keywords_count": 10,
+      "texto_para_embedding": "[Communication Services]\nDigital Advertising\n\nOnline advertising, search advertising, social media advertising, and programmatic ad platforms.\n\nTérminos clave: programmatic advertising cost per click cost per mille ad impression volume demand-side platform supply-side platform retail media network ad tech stack third-party cookie deprecation video advertising inventory\n\nRelevantes: programmatic advertising cost per click cost per mille ad impression volume demand-side platform supply-side platform retail media network ad tech stack third-party cookie deprecation video advertising inventory",
+      "evitar_confusion": [
+        "Interactive Media (platform itself vs. its ad revenue)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:cable_and_broadband",
+      "sector": "Communication Services",
+      "categoria": "Cable and Broadband",
+      "descripcion": "High-speed internet, cable television, broadband infrastructure, and residential communications.",
+      "keywords": [
+        "cable broadband subscriber",
+        "cord-cutting trend",
+        "broadband penetration rate",
+        "docsis network upgrade",
+        "cable multiple system operator",
+        "residential broadband ARPU"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Communication Services]\nCable and Broadband\n\nHigh-speed internet, cable television, broadband infrastructure, and residential communications.\n\nTérminos clave: cable broadband subscriber cord-cutting trend broadband penetration rate docsis network upgrade cable multiple system operator residential broadband ARPU\n\nRelevantes: cable broadband subscriber cord-cutting trend broadband penetration rate docsis network upgrade cable multiple system operator residential broadband ARPU",
+      "evitar_confusion": [
+        "Telecommunications (mobile carriers)",
+        "Streaming"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:wireless_services",
+      "sector": "Communication Services",
+      "categoria": "Wireless Services",
+      "descripcion": "Mobile voice/data subscriptions, 5G connectivity, and spectrum capacity.",
+      "keywords": [
+        "postpaid wireless subscriber",
+        "prepaid wireless plan",
+        "5G network coverage",
+        "spectrum auction",
+        "wireless churn rate",
+        "mobile virtual network operator",
+        "unlimited data plan"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Communication Services]\nWireless Services\n\nMobile voice/data subscriptions, 5G connectivity, and spectrum capacity.\n\nTérminos clave: postpaid wireless subscriber prepaid wireless plan 5G network coverage spectrum auction wireless churn rate mobile virtual network operator unlimited data plan\n\nRelevantes: postpaid wireless subscriber prepaid wireless plan 5G network coverage spectrum auction wireless churn rate mobile virtual network operator unlimited data plan",
+      "evitar_confusion": [
+        "Telecommunications (fixed-line)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:streaming",
+      "sector": "Communication Services",
+      "categoria": "Streaming",
+      "descripcion": "Subscription video-on-demand, ad-supported streaming, and subscriber-based media platforms.",
+      "keywords": [
+        "subscription video on demand",
+        "streaming subscriber additions",
+        "ad-supported tier",
+        "content licensing deal for streaming",
+        "password-sharing crackdown",
+        "streaming churn rate",
+        "original content spend"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Communication Services]\nStreaming\n\nSubscription video-on-demand, ad-supported streaming, and subscriber-based media platforms.\n\nTérminos clave: subscription video on demand streaming subscriber additions ad-supported tier content licensing deal for streaming password-sharing crackdown streaming churn rate original content spend\n\nRelevantes: subscription video on demand streaming subscriber additions ad-supported tier content licensing deal for streaming password-sharing crackdown streaming churn rate original content spend",
+      "evitar_confusion": [
+        "Media (linear TV)",
+        "Entertainment (production)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:gaming",
+      "sector": "Communication Services",
+      "categoria": "Gaming",
+      "descripcion": "Console games, PC games, mobile games, game publishing, and in-game purchases.",
+      "keywords": [
+        "video game publisher",
+        "console manufacturer",
+        "game studio",
+        "in-game purchase revenue",
+        "live-service game",
+        "esports tournament",
+        "game engine licensing",
+        "mobile game monetization",
+        "battle pass revenue"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Communication Services]\nGaming\n\nConsole games, PC games, mobile games, game publishing, and in-game purchases.\n\nTérminos clave: video game publisher console manufacturer game studio in-game purchase revenue live-service game esports tournament game engine licensing mobile game monetization battle pass revenue\n\nRelevantes: video game publisher console manufacturer game studio in-game purchase revenue live-service game esports tournament game engine licensing mobile game monetization battle pass revenue",
+      "evitar_confusion": [
+        "Leisure and Entertainment (casinos, theme parks — Consumer Discretionary)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:content_and_media_rights",
+      "sector": "Communication Services",
+      "categoria": "Content and Media Rights",
+      "descripcion": "Film/TV production, sports broadcasting rights, music rights, and content licensing.",
+      "keywords": [
+        "sports broadcasting rights deal",
+        "music publishing rights",
+        "content library licensing",
+        "intellectual property licensing for film",
+        "syndication rights"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Communication Services]\nContent and Media Rights\n\nFilm/TV production, sports broadcasting rights, music rights, and content licensing.\n\nTérminos clave: sports broadcasting rights deal music publishing rights content library licensing intellectual property licensing for film syndication rights\n\nRelevantes: sports broadcasting rights deal music publishing rights content library licensing intellectual property licensing for film syndication rights",
+      "evitar_confusion": [
+        "Media",
+        "Entertainment"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:operating_metrics",
+      "sector": "Communication Services",
+      "categoria": "Operating Metrics",
+      "descripcion": "",
+      "keywords": [
+        "subscriber net additions",
+        "churn rate",
+        "average revenue per user",
+        "daily active users",
+        "monthly active users",
+        "engagement time per session",
+        "ad load"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Communication Services]\nOperating Metrics\n\n\n\nTérminos clave: subscriber net additions churn rate average revenue per user daily active users monthly active users engagement time per session ad load\n\nRelevantes: subscriber net additions churn rate average revenue per user daily active users monthly active users engagement time per session ad load",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:market_catalysts",
+      "sector": "Communication Services",
+      "categoria": "Market Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "spectrum auction results",
+        "streaming subscriber miss",
+        "sports rights renewal",
+        "net neutrality ruling",
+        "content licensing dispute"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Communication Services]\nMarket Catalysts\n\n\n\nTérminos clave: spectrum auction results streaming subscriber miss sports rights renewal net neutrality ruling content licensing dispute\n\nRelevantes: spectrum auction results streaming subscriber miss sports rights renewal net neutrality ruling content licensing dispute",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:financial_metrics",
+      "sector": "Communication Services",
+      "categoria": "Financial Metrics",
+      "descripcion": "",
+      "keywords": [
+        "adjusted EBITDA margin (media)",
+        "content amortization",
+        "subscriber acquisition cost"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Communication Services]\nFinancial Metrics\n\n\n\nTérminos clave: adjusted EBITDA margin (media) content amortization subscriber acquisition cost\n\nRelevantes: adjusted EBITDA margin (media) content amortization subscriber acquisition cost",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "communication_services:industry_drivers",
+      "sector": "Communication Services",
+      "categoria": "Industry Drivers",
+      "descripcion": "",
+      "keywords": [
+        "cord-cutting",
+        "advertising cycle",
+        "content cost inflation",
+        "spectrum availability"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Communication Services]\nIndustry Drivers\n\n\n\nTérminos clave: cord-cutting advertising cycle content cost inflation spectrum availability\n\nRelevantes: cord-cutting advertising cycle content cost inflation spectrum availability",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:pharmaceuticals",
+      "sector": "Health Care",
+      "categoria": "Pharmaceuticals",
+      "descripcion": "Prescription drugs, branded medicines, generic drugs, vaccines, and pharmaceutical manufacturing.",
+      "keywords": [
+        "branded prescription drug",
+        "generic drug manufacturer",
+        "vaccine developer",
+        "drug patent cliff",
+        "active pharmaceutical ingredient",
+        "drug pricing negotiation",
+        "pharmacy benefit manager rebate",
+        "small-molecule drug",
+        "orphan drug designation",
+        "drug formulary placement"
+      ],
+      "keywords_count": 10,
+      "texto_para_embedding": "[Health Care]\nPharmaceuticals\n\nPrescription drugs, branded medicines, generic drugs, vaccines, and pharmaceutical manufacturing.\n\nTérminos clave: branded prescription drug generic drug manufacturer vaccine developer drug patent cliff active pharmaceutical ingredient drug pricing negotiation pharmacy benefit manager rebate small-molecule drug orphan drug designation drug formulary placement\n\nRelevantes: branded prescription drug generic drug manufacturer vaccine developer drug patent cliff active pharmaceutical ingredient drug pricing negotiation pharmacy benefit manager rebate small-molecule drug orphan drug designation drug formulary placement",
+      "evitar_confusion": [
+        "Biotechnology (early-stage/biologics focus)",
+        "Consumer Health (OTC)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:biotechnology",
+      "sector": "Health Care",
+      "categoria": "Biotechnology",
+      "descripcion": "Biologic drugs, gene therapies, cell therapies, immunotherapies, and biotechnology research.",
+      "keywords": [
+        "biologic therapy",
+        "gene therapy",
+        "cell therapy",
+        "monoclonal antibody",
+        "CAR-T therapy",
+        "mRNA platform",
+        "biosimilar",
+        "clinical-stage biotech",
+        "platform technology company",
+        "antibody-drug conjugate",
+        "biotech cash runway"
+      ],
+      "keywords_count": 11,
+      "texto_para_embedding": "[Health Care]\nBiotechnology\n\nBiologic drugs, gene therapies, cell therapies, immunotherapies, and biotechnology research.\n\nTérminos clave: biologic therapy gene therapy cell therapy monoclonal antibody CAR-T therapy mRNA platform biosimilar clinical-stage biotech platform technology company antibody-drug conjugate biotech cash runway\n\nRelevantes: biologic therapy gene therapy cell therapy monoclonal antibody CAR-T therapy mRNA platform biosimilar clinical-stage biotech platform technology company antibody-drug conjugate biotech cash runway",
+      "evitar_confusion": [
+        "Pharmaceuticals (commercial-stage, small molecule)",
+        "Life Sciences Tools (equipment makers)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:medical_devices",
+      "sector": "Health Care",
+      "categoria": "Medical Devices",
+      "descripcion": "Surgical instruments, implants, diagnostic equipment, cardiovascular devices, and orthopedic products.",
+      "keywords": [
+        "implantable device",
+        "surgical robot",
+        "cardiovascular stent",
+        "orthopedic implant",
+        "pacemaker",
+        "catheter",
+        "device 510(k) clearance",
+        "minimally invasive surgical device",
+        "prosthetic device",
+        "medical device recall"
+      ],
+      "keywords_count": 10,
+      "texto_para_embedding": "[Health Care]\nMedical Devices\n\nSurgical instruments, implants, diagnostic equipment, cardiovascular devices, and orthopedic products.\n\nTérminos clave: implantable device surgical robot cardiovascular stent orthopedic implant pacemaker catheter device 510(k) clearance minimally invasive surgical device prosthetic device medical device recall\n\nRelevantes: implantable device surgical robot cardiovascular stent orthopedic implant pacemaker catheter device 510(k) clearance minimally invasive surgical device prosthetic device medical device recall",
+      "evitar_confusion": [
+        "Medical Technology (imaging/monitoring platforms)",
+        "Diagnostics"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:diagnostics",
+      "sector": "Health Care",
+      "categoria": "Diagnostics",
+      "descripcion": "Diagnostic tests, laboratory testing, molecular diagnostics, and clinical laboratory services.",
+      "keywords": [
+        "molecular diagnostic test",
+        "companion diagnostic",
+        "point-of-care testing",
+        "clinical laboratory network",
+        "PCR testing",
+        "liquid biopsy",
+        "in vitro diagnostic",
+        "diagnostic test reimbursement",
+        "pathology lab"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Health Care]\nDiagnostics\n\nDiagnostic tests, laboratory testing, molecular diagnostics, and clinical laboratory services.\n\nTérminos clave: molecular diagnostic test companion diagnostic point-of-care testing clinical laboratory network PCR testing liquid biopsy in vitro diagnostic diagnostic test reimbursement pathology lab\n\nRelevantes: molecular diagnostic test companion diagnostic point-of-care testing clinical laboratory network PCR testing liquid biopsy in vitro diagnostic diagnostic test reimbursement pathology lab",
+      "evitar_confusion": [
+        "Medical Devices",
+        "Life Sciences Tools"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:managed_care",
+      "sector": "Health Care",
+      "categoria": "Managed Care",
+      "descripcion": "Health insurance, managed care organizations, Medicare, Medicaid, and reimbursement services.",
+      "keywords": [
+        "health maintenance organization",
+        "Medicare Advantage plan",
+        "Medicaid managed care",
+        "employer-sponsored health plan",
+        "health insurance exchange",
+        "medical loss ratio",
+        "prior authorization",
+        "risk-adjustment payment",
+        "capitation payment"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Health Care]\nManaged Care\n\nHealth insurance, managed care organizations, Medicare, Medicaid, and reimbursement services.\n\nTérminos clave: health maintenance organization Medicare Advantage plan Medicaid managed care employer-sponsored health plan health insurance exchange medical loss ratio prior authorization risk-adjustment payment capitation payment\n\nRelevantes: health maintenance organization Medicare Advantage plan Medicaid managed care employer-sponsored health plan health insurance exchange medical loss ratio prior authorization risk-adjustment payment capitation payment",
+      "evitar_confusion": [
+        "Insurance (P&C/life, under Financials)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:health_care_providers",
+      "sector": "Health Care",
+      "categoria": "Health Care Providers",
+      "descripcion": "Hospitals, clinics, physicians, outpatient facilities, and healthcare delivery.",
+      "keywords": [
+        "hospital system",
+        "outpatient surgery center",
+        "physician practice group",
+        "urgent care clinic",
+        "nursing home operator",
+        "hospital admission volume",
+        "patient census",
+        "value-based care contract",
+        "inpatient bed capacity"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Health Care]\nHealth Care Providers\n\nHospitals, clinics, physicians, outpatient facilities, and healthcare delivery.\n\nTérminos clave: hospital system outpatient surgery center physician practice group urgent care clinic nursing home operator hospital admission volume patient census value-based care contract inpatient bed capacity\n\nRelevantes: hospital system outpatient surgery center physician practice group urgent care clinic nursing home operator hospital admission volume patient census value-based care contract inpatient bed capacity",
+      "evitar_confusion": [
+        "Managed Care (payers, not providers)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:health_care_services",
+      "sector": "Health Care",
+      "categoria": "Health Care Services",
+      "descripcion": "Healthcare distribution, pharmacy services, clinical research, and healthcare logistics.",
+      "keywords": [
+        "pharmacy benefit management",
+        "drug wholesaler distributor",
+        "contract research organization",
+        "specialty pharmacy",
+        "healthcare revenue cycle management",
+        "home health services"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Health Care]\nHealth Care Services\n\nHealthcare distribution, pharmacy services, clinical research, and healthcare logistics.\n\nTérminos clave: pharmacy benefit management drug wholesaler distributor contract research organization specialty pharmacy healthcare revenue cycle management home health services\n\nRelevantes: pharmacy benefit management drug wholesaler distributor contract research organization specialty pharmacy healthcare revenue cycle management home health services",
+      "evitar_confusion": [
+        "Health Care Providers"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:life_sciences_tools",
+      "sector": "Health Care",
+      "categoria": "Life Sciences Tools",
+      "descripcion": "Laboratory equipment, research instruments, reagents, and scientific research technologies.",
+      "keywords": [
+        "lab instrument manufacturer",
+        "gene sequencing platform",
+        "mass spectrometer",
+        "flow cytometer",
+        "reagent kit",
+        "bioprocessing equipment",
+        "cell culture media",
+        "lab automation system",
+        "next-generation sequencing"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Health Care]\nLife Sciences Tools\n\nLaboratory equipment, research instruments, reagents, and scientific research technologies.\n\nTérminos clave: lab instrument manufacturer gene sequencing platform mass spectrometer flow cytometer reagent kit bioprocessing equipment cell culture media lab automation system next-generation sequencing\n\nRelevantes: lab instrument manufacturer gene sequencing platform mass spectrometer flow cytometer reagent kit bioprocessing equipment cell culture media lab automation system next-generation sequencing",
+      "evitar_confusion": [
+        "Electronic Equipment (Technology)",
+        "Diagnostics (clinical use vs research use)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:drug_development",
+      "sector": "Health Care",
+      "categoria": "Drug Development",
+      "descripcion": "Drug discovery, preclinical research, clinical trials, and regulatory submissions.",
+      "keywords": [
+        "Phase I clinical trial",
+        "Phase II clinical trial",
+        "Phase III clinical trial",
+        "new drug application",
+        "biologics license application",
+        "clinical trial endpoint",
+        "drug candidate pipeline",
+        "regulatory submission to FDA",
+        "trial enrollment"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Health Care]\nDrug Development\n\nDrug discovery, preclinical research, clinical trials, and regulatory submissions.\n\nTérminos clave: Phase I clinical trial Phase II clinical trial Phase III clinical trial new drug application biologics license application clinical trial endpoint drug candidate pipeline regulatory submission to FDA trial enrollment\n\nRelevantes: Phase I clinical trial Phase II clinical trial Phase III clinical trial new drug application biologics license application clinical trial endpoint drug candidate pipeline regulatory submission to FDA trial enrollment",
+      "evitar_confusion": [
+        "Biotechnology (broader company category)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:medical_technology",
+      "sector": "Health Care",
+      "categoria": "Medical Technology",
+      "descripcion": "Diagnostic platforms, imaging systems, robotic surgery, and connected medical equipment.",
+      "keywords": [
+        "MRI system",
+        "CT scanner",
+        "robotic-assisted surgery platform",
+        "remote patient monitoring device",
+        "digital health platform",
+        "wearable medical sensor",
+        "telehealth platform"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Health Care]\nMedical Technology\n\nDiagnostic platforms, imaging systems, robotic surgery, and connected medical equipment.\n\nTérminos clave: MRI system CT scanner robotic-assisted surgery platform remote patient monitoring device digital health platform wearable medical sensor telehealth platform\n\nRelevantes: MRI system CT scanner robotic-assisted surgery platform remote patient monitoring device digital health platform wearable medical sensor telehealth platform",
+      "evitar_confusion": [
+        "Medical Devices (implants vs. capital equipment)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:operating_metrics",
+      "sector": "Health Care",
+      "categoria": "Operating Metrics",
+      "descripcion": "",
+      "keywords": [
+        "prescription volume",
+        "medical loss ratio",
+        "enrollment growth",
+        "procedure volume",
+        "reimbursement rate change"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Health Care]\nOperating Metrics\n\n\n\nTérminos clave: prescription volume medical loss ratio enrollment growth procedure volume reimbursement rate change\n\nRelevantes: prescription volume medical loss ratio enrollment growth procedure volume reimbursement rate change",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:regulatory_and_clinical_catalysts",
+      "sector": "Health Care",
+      "categoria": "Regulatory and Clinical Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "FDA approval decision",
+        "FDA complete response letter",
+        "clinical trial readout",
+        "patent litigation ruling",
+        "patent cliff",
+        "drug pricing negotiation outcome"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Health Care]\nRegulatory and Clinical Catalysts\n\n\n\nTérminos clave: FDA approval decision FDA complete response letter clinical trial readout patent litigation ruling patent cliff drug pricing negotiation outcome\n\nRelevantes: FDA approval decision FDA complete response letter clinical trial readout patent litigation ruling patent cliff drug pricing negotiation outcome",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:market_catalysts",
+      "sector": "Health Care",
+      "categoria": "Market Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "clinical trial data release",
+        "drug launch",
+        "biotech licensing deal",
+        "FDA advisory committee vote"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Health Care]\nMarket Catalysts\n\n\n\nTérminos clave: clinical trial data release drug launch biotech licensing deal FDA advisory committee vote\n\nRelevantes: clinical trial data release drug launch biotech licensing deal FDA advisory committee vote",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:financial_metrics",
+      "sector": "Health Care",
+      "categoria": "Financial Metrics",
+      "descripcion": "",
+      "keywords": [
+        "R&D as percent of revenue (pharma)",
+        "royalty revenue",
+        "milestone payment"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Health Care]\nFinancial Metrics\n\n\n\nTérminos clave: R&D as percent of revenue (pharma) royalty revenue milestone payment\n\nRelevantes: R&D as percent of revenue (pharma) royalty revenue milestone payment",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "health_care:industry_drivers",
+      "sector": "Health Care",
+      "categoria": "Industry Drivers",
+      "descripcion": "",
+      "keywords": [
+        "aging population demand",
+        "drug pricing reform",
+        "patent expiration cycle",
+        "healthcare utilization trend"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Health Care]\nIndustry Drivers\n\n\n\nTérminos clave: aging population demand drug pricing reform patent expiration cycle healthcare utilization trend\n\nRelevantes: aging population demand drug pricing reform patent expiration cycle healthcare utilization trend",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:aerospace",
+      "sector": "Industrials",
+      "categoria": "Aerospace",
+      "descripcion": "Commercial aircraft, aircraft engines, aviation systems, and aircraft manufacturing.",
+      "keywords": [
+        "aircraft manufacturer",
+        "jet engine maker",
+        "commercial aircraft order backlog",
+        "aircraft delivery rate",
+        "airframe production",
+        "aircraft MRO (maintenance repair overhaul)",
+        "narrowbody aircraft",
+        "widebody aircraft",
+        "aviation supply chain"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Industrials]\nAerospace\n\nCommercial aircraft, aircraft engines, aviation systems, and aircraft manufacturing.\n\nTérminos clave: aircraft manufacturer jet engine maker commercial aircraft order backlog aircraft delivery rate airframe production aircraft MRO (maintenance repair overhaul) narrowbody aircraft widebody aircraft aviation supply chain\n\nRelevantes: aircraft manufacturer jet engine maker commercial aircraft order backlog aircraft delivery rate airframe production aircraft MRO (maintenance repair overhaul) narrowbody aircraft widebody aircraft aviation supply chain",
+      "evitar_confusion": [
+        "Defense (military aircraft)",
+        "Transportation (airlines, the operators)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:defense",
+      "sector": "Industrials",
+      "categoria": "Defense",
+      "descripcion": "Defense systems, military aircraft, missiles, radar, weapons platforms, and government contracts.",
+      "keywords": [
+        "defense contractor",
+        "missile system",
+        "military aircraft program",
+        "radar system",
+        "unmanned aerial vehicle",
+        "defense procurement budget",
+        "government defense contract award",
+        "munitions manufacturer",
+        "naval shipbuilding"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Industrials]\nDefense\n\nDefense systems, military aircraft, missiles, radar, weapons platforms, and government contracts.\n\nTérminos clave: defense contractor missile system military aircraft program radar system unmanned aerial vehicle defense procurement budget government defense contract award munitions manufacturer naval shipbuilding\n\nRelevantes: defense contractor missile system military aircraft program radar system unmanned aerial vehicle defense procurement budget government defense contract award munitions manufacturer naval shipbuilding",
+      "evitar_confusion": [
+        "Aerospace (commercial)",
+        "Electrical Equipment"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:industrial_machinery",
+      "sector": "Industrials",
+      "categoria": "Industrial Machinery",
+      "descripcion": "Heavy machinery, industrial equipment, turbines, pumps, compressors, and production systems.",
+      "keywords": [
+        "industrial pump manufacturer",
+        "gas turbine maker",
+        "compressor manufacturer",
+        "heavy equipment OEM",
+        "factory production line equipment",
+        "machine tool manufacturer",
+        "capital goods order book"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Industrials]\nIndustrial Machinery\n\nHeavy machinery, industrial equipment, turbines, pumps, compressors, and production systems.\n\nTérminos clave: industrial pump manufacturer gas turbine maker compressor manufacturer heavy equipment OEM factory production line equipment machine tool manufacturer capital goods order book\n\nRelevantes: industrial pump manufacturer gas turbine maker compressor manufacturer heavy equipment OEM factory production line equipment machine tool manufacturer capital goods order book",
+      "evitar_confusion": [
+        "Construction Equipment",
+        "Electrical Equipment"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:construction_equipment",
+      "sector": "Industrials",
+      "categoria": "Construction Equipment",
+      "descripcion": "Excavators, bulldozers, cranes, loaders, and mining machinery.",
+      "keywords": [
+        "excavator manufacturer",
+        "bulldozer",
+        "crane manufacturer",
+        "wheel loader",
+        "mining truck",
+        "earthmoving equipment",
+        "construction equipment rental fleet",
+        "heavy equipment dealer"
+      ],
+      "keywords_count": 8,
+      "texto_para_embedding": "[Industrials]\nConstruction Equipment\n\nExcavators, bulldozers, cranes, loaders, and mining machinery.\n\nTérminos clave: excavator manufacturer bulldozer crane manufacturer wheel loader mining truck earthmoving equipment construction equipment rental fleet heavy equipment dealer\n\nRelevantes: excavator manufacturer bulldozer crane manufacturer wheel loader mining truck earthmoving equipment construction equipment rental fleet heavy equipment dealer",
+      "evitar_confusion": [
+        "Industrial Machinery",
+        "Metals and Mining (the mines themselves)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:electrical_equipment",
+      "sector": "Industrials",
+      "categoria": "Electrical Equipment",
+      "descripcion": "Electrical components, power systems, transformers, generators, motors, and industrial controls.",
+      "keywords": [
+        "power transformer manufacturer",
+        "electric generator maker",
+        "industrial motor",
+        "switchgear",
+        "circuit breaker manufacturer",
+        "electrical distribution equipment",
+        "grid transformer backlog"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Industrials]\nElectrical Equipment\n\nElectrical components, power systems, transformers, generators, motors, and industrial controls.\n\nTérminos clave: power transformer manufacturer electric generator maker industrial motor switchgear circuit breaker manufacturer electrical distribution equipment grid transformer backlog\n\nRelevantes: power transformer manufacturer electric generator maker industrial motor switchgear circuit breaker manufacturer electrical distribution equipment grid transformer backlog",
+      "evitar_confusion": [
+        "Grid Infrastructure (Utilities, the network itself)",
+        "Technology Components"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:building_products",
+      "sector": "Industrials",
+      "categoria": "Building Products",
+      "descripcion": "Construction materials, HVAC equipment, electrical products, and architectural components.",
+      "keywords": [
+        "HVAC equipment manufacturer",
+        "roofing products maker",
+        "insulation manufacturer",
+        "windows and doors manufacturer",
+        "plumbing fixtures maker",
+        "building products distributor"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Industrials]\nBuilding Products\n\nConstruction materials, HVAC equipment, electrical products, and architectural components.\n\nTérminos clave: HVAC equipment manufacturer roofing products maker insulation manufacturer windows and doors manufacturer plumbing fixtures maker building products distributor\n\nRelevantes: HVAC equipment manufacturer roofing products maker insulation manufacturer windows and doors manufacturer plumbing fixtures maker building products distributor",
+      "evitar_confusion": [
+        "Construction Materials (Materials sector, raw cement/aggregates)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:engineering_and_construction",
+      "sector": "Industrials",
+      "categoria": "Engineering and Construction",
+      "descripcion": "Engineering services, infrastructure development, civil engineering, and project management.",
+      "keywords": [
+        "engineering and construction firm",
+        "infrastructure project contractor",
+        "civil engineering contract",
+        "EPC contract (engineering, procurement, construction)",
+        "construction project backlog",
+        "design-build contractor"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Industrials]\nEngineering and Construction\n\nEngineering services, infrastructure development, civil engineering, and project management.\n\nTérminos clave: engineering and construction firm infrastructure project contractor civil engineering contract EPC contract (engineering, procurement, construction) construction project backlog design-build contractor\n\nRelevantes: engineering and construction firm infrastructure project contractor civil engineering contract EPC contract (engineering, procurement, construction) construction project backlog design-build contractor",
+      "evitar_confusion": [
+        "Real Estate Development (property developers)",
+        "Building Products"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:transportation",
+      "sector": "Industrials",
+      "categoria": "Transportation",
+      "descripcion": "Railroads, airlines, trucking, shipping, logistics, and fleet services.",
+      "keywords": [
+        "Class I railroad",
+        "airline carrier",
+        "trucking fleet operator",
+        "ocean freight carrier",
+        "logistics provider",
+        "freight rate",
+        "intermodal shipping",
+        "rail carload volume",
+        "trucking spot rate",
+        "airline load factor"
+      ],
+      "keywords_count": 10,
+      "texto_para_embedding": "[Industrials]\nTransportation\n\nRailroads, airlines, trucking, shipping, logistics, and fleet services.\n\nTérminos clave: Class I railroad airline carrier trucking fleet operator ocean freight carrier logistics provider freight rate intermodal shipping rail carload volume trucking spot rate airline load factor\n\nRelevantes: Class I railroad airline carrier trucking fleet operator ocean freight carrier logistics provider freight rate intermodal shipping rail carload volume trucking spot rate airline load factor",
+      "evitar_confusion": [
+        "Aerospace (aircraft makers, not airlines)",
+        "Industrial Distribution"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:commercial_services",
+      "sector": "Industrials",
+      "categoria": "Commercial Services",
+      "descripcion": "Business services, environmental services, staffing, facility management, and waste management.",
+      "keywords": [
+        "staffing agency",
+        "waste management company",
+        "environmental remediation services",
+        "facility management provider",
+        "commercial cleaning services",
+        "security services provider",
+        "temp labor placement"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Industrials]\nCommercial Services\n\nBusiness services, environmental services, staffing, facility management, and waste management.\n\nTérminos clave: staffing agency waste management company environmental remediation services facility management provider commercial cleaning services security services provider temp labor placement\n\nRelevantes: staffing agency waste management company environmental remediation services facility management provider commercial cleaning services security services provider temp labor placement",
+      "evitar_confusion": [
+        "IT Services (Technology sector)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:industrial_distribution",
+      "sector": "Industrials",
+      "categoria": "Industrial Distribution",
+      "descripcion": "Distribution of industrial equipment, machinery, electrical components, and maintenance supplies.",
+      "keywords": [
+        "industrial distributor",
+        "MRO supplies distributor",
+        "fastener distributor",
+        "electrical parts distributor",
+        "wholesale industrial parts"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Industrials]\nIndustrial Distribution\n\nDistribution of industrial equipment, machinery, electrical components, and maintenance supplies.\n\nTérminos clave: industrial distributor MRO supplies distributor fastener distributor electrical parts distributor wholesale industrial parts\n\nRelevantes: industrial distributor MRO supplies distributor fastener distributor electrical parts distributor wholesale industrial parts",
+      "evitar_confusion": [
+        "Transportation (movement vs. distribution/resale)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:automation_and_robotics",
+      "sector": "Industrials",
+      "categoria": "Automation and Robotics",
+      "descripcion": "Industrial robots, factory automation, control systems, and automated production systems.",
+      "keywords": [
+        "industrial robot arm",
+        "factory automation system",
+        "programmable logic controller",
+        "machine vision for manufacturing",
+        "collaborative robot (cobot)",
+        "automated guided vehicle",
+        "manufacturing execution system"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Industrials]\nAutomation and Robotics\n\nIndustrial robots, factory automation, control systems, and automated production systems.\n\nTérminos clave: industrial robot arm factory automation system programmable logic controller machine vision for manufacturing collaborative robot (cobot) automated guided vehicle manufacturing execution system\n\nRelevantes: industrial robot arm factory automation system programmable logic controller machine vision for manufacturing collaborative robot (cobot) automated guided vehicle manufacturing execution system",
+      "evitar_confusion": [
+        "Artificial Intelligence (Technology, software-centric)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:operating_metrics",
+      "sector": "Industrials",
+      "categoria": "Operating Metrics",
+      "descripcion": "",
+      "keywords": [
+        "backlog growth",
+        "book-to-bill ratio",
+        "order intake",
+        "aftermarket parts revenue",
+        "capacity utilization (industrial)",
+        "on-time delivery rate"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Industrials]\nOperating Metrics\n\n\n\nTérminos clave: backlog growth book-to-bill ratio order intake aftermarket parts revenue capacity utilization (industrial) on-time delivery rate\n\nRelevantes: backlog growth book-to-bill ratio order intake aftermarket parts revenue capacity utilization (industrial) on-time delivery rate",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:market_catalysts",
+      "sector": "Industrials",
+      "categoria": "Market Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "infrastructure spending bill",
+        "defense budget appropriation",
+        "aircraft delivery delay",
+        "manufacturing PMI reading",
+        "tariffs on industrial goods"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Industrials]\nMarket Catalysts\n\n\n\nTérminos clave: infrastructure spending bill defense budget appropriation aircraft delivery delay manufacturing PMI reading tariffs on industrial goods\n\nRelevantes: infrastructure spending bill defense budget appropriation aircraft delivery delay manufacturing PMI reading tariffs on industrial goods",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:financial_metrics",
+      "sector": "Industrials",
+      "categoria": "Financial Metrics",
+      "descripcion": "",
+      "keywords": [
+        "return on invested capital (industrial)",
+        "backlog coverage ratio",
+        "book-to-bill"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Industrials]\nFinancial Metrics\n\n\n\nTérminos clave: return on invested capital (industrial) backlog coverage ratio book-to-bill\n\nRelevantes: return on invested capital (industrial) backlog coverage ratio book-to-bill",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "industrials:industry_drivers",
+      "sector": "Industrials",
+      "categoria": "Industry Drivers",
+      "descripcion": "",
+      "keywords": [
+        "manufacturing activity index",
+        "infrastructure investment cycle",
+        "industrial production growth"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Industrials]\nIndustry Drivers\n\n\n\nTérminos clave: manufacturing activity index infrastructure investment cycle industrial production growth\n\nRelevantes: manufacturing activity index infrastructure investment cycle industrial production growth",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:automobiles",
+      "sector": "Consumer Discretionary",
+      "categoria": "Automobiles",
+      "descripcion": "Passenger vehicles, electric vehicles, automotive components, dealerships, and vehicle financing.",
+      "keywords": [
+        "automaker",
+        "electric vehicle maker",
+        "vehicle production volume",
+        "auto dealership network",
+        "car incentive spending",
+        "vehicle inventory days supply",
+        "battery electric vehicle",
+        "internal combustion engine vehicle",
+        "auto parts supplier",
+        "vehicle recall"
+      ],
+      "keywords_count": 10,
+      "texto_para_embedding": "[Consumer Discretionary]\nAutomobiles\n\nPassenger vehicles, electric vehicles, automotive components, dealerships, and vehicle financing.\n\nTérminos clave: automaker electric vehicle maker vehicle production volume auto dealership network car incentive spending vehicle inventory days supply battery electric vehicle internal combustion engine vehicle auto parts supplier vehicle recall\n\nRelevantes: automaker electric vehicle maker vehicle production volume auto dealership network car incentive spending vehicle inventory days supply battery electric vehicle internal combustion engine vehicle auto parts supplier vehicle recall",
+      "evitar_confusion": [
+        "Construction Equipment (Industrials)",
+        "Transportation (fleets/carriers)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:apparel_and_footwear",
+      "sector": "Consumer Discretionary",
+      "categoria": "Apparel and Footwear",
+      "descripcion": "Clothing, footwear, accessories, sportswear, and fashion brands.",
+      "keywords": [
+        "apparel brand",
+        "footwear manufacturer",
+        "athletic apparel",
+        "fast fashion retailer",
+        "sportswear brand",
+        "clothing wholesale",
+        "sneaker resale market",
+        "apparel wholesale order"
+      ],
+      "keywords_count": 8,
+      "texto_para_embedding": "[Consumer Discretionary]\nApparel and Footwear\n\nClothing, footwear, accessories, sportswear, and fashion brands.\n\nTérminos clave: apparel brand footwear manufacturer athletic apparel fast fashion retailer sportswear brand clothing wholesale sneaker resale market apparel wholesale order\n\nRelevantes: apparel brand footwear manufacturer athletic apparel fast fashion retailer sportswear brand clothing wholesale sneaker resale market apparel wholesale order",
+      "evitar_confusion": [
+        "Luxury Goods (premium tier)",
+        "Retail (the channel, not the brand)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:household_durables",
+      "sector": "Consumer Discretionary",
+      "categoria": "Household Durables",
+      "descripcion": "Furniture, appliances, home electronics, and home furnishings.",
+      "keywords": [
+        "home appliance manufacturer",
+        "furniture maker",
+        "consumer electronics brand",
+        "home furnishings retailer",
+        "white goods (appliances)",
+        "mattress manufacturer",
+        "smart home device"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Consumer Discretionary]\nHousehold Durables\n\nFurniture, appliances, home electronics, and home furnishings.\n\nTérminos clave: home appliance manufacturer furniture maker consumer electronics brand home furnishings retailer white goods (appliances) mattress manufacturer smart home device\n\nRelevantes: home appliance manufacturer furniture maker consumer electronics brand home furnishings retailer white goods (appliances) mattress manufacturer smart home device",
+      "evitar_confusion": [
+        "Building Products (Industrials, construction-stage)",
+        "Hardware (Technology, computing devices)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:leisure_and_entertainment",
+      "sector": "Consumer Discretionary",
+      "categoria": "Leisure and Entertainment",
+      "descripcion": "Theme parks, casinos, recreational products, entertainment venues, and cruises.",
+      "keywords": [
+        "theme park operator",
+        "casino gaming revenue",
+        "cruise line",
+        "amusement park attendance",
+        "recreational vehicle manufacturer",
+        "gambling revenue",
+        "sports equipment brand"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Consumer Discretionary]\nLeisure and Entertainment\n\nTheme parks, casinos, recreational products, entertainment venues, and cruises.\n\nTérminos clave: theme park operator casino gaming revenue cruise line amusement park attendance recreational vehicle manufacturer gambling revenue sports equipment brand\n\nRelevantes: theme park operator casino gaming revenue cruise line amusement park attendance recreational vehicle manufacturer gambling revenue sports equipment brand",
+      "evitar_confusion": [
+        "Gaming (video games, Communication Services)",
+        "Hotels and Resorts"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:hotels_and_resorts",
+      "sector": "Consumer Discretionary",
+      "categoria": "Hotels and Resorts",
+      "descripcion": "Hotels, resorts, lodging, vacation properties, and hospitality.",
+      "keywords": [
+        "hotel chain operator",
+        "resort property",
+        "hotel occupancy rate",
+        "average daily rate (hotel)",
+        "hotel franchise agreement",
+        "timeshare company",
+        "vacation rental platform"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Consumer Discretionary]\nHotels and Resorts\n\nHotels, resorts, lodging, vacation properties, and hospitality.\n\nTérminos clave: hotel chain operator resort property hotel occupancy rate average daily rate (hotel) hotel franchise agreement timeshare company vacation rental platform\n\nRelevantes: hotel chain operator resort property hotel occupancy rate average daily rate (hotel) hotel franchise agreement timeshare company vacation rental platform",
+      "evitar_confusion": [
+        "Hotel and Resort REITs (Real Estate, ownership vs. operation)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:restaurants",
+      "sector": "Consumer Discretionary",
+      "categoria": "Restaurants",
+      "descripcion": "Quick-service restaurants, casual dining, fast-casual, and franchised restaurants.",
+      "keywords": [
+        "quick-service restaurant chain",
+        "casual dining chain",
+        "fast-casual restaurant",
+        "restaurant franchisee",
+        "same-store sales at restaurants",
+        "delivery aggregator",
+        "menu price increase",
+        "restaurant traffic decline"
+      ],
+      "keywords_count": 8,
+      "texto_para_embedding": "[Consumer Discretionary]\nRestaurants\n\nQuick-service restaurants, casual dining, fast-casual, and franchised restaurants.\n\nTérminos clave: quick-service restaurant chain casual dining chain fast-casual restaurant restaurant franchisee same-store sales at restaurants delivery aggregator menu price increase restaurant traffic decline\n\nRelevantes: quick-service restaurant chain casual dining chain fast-casual restaurant restaurant franchisee same-store sales at restaurants delivery aggregator menu price increase restaurant traffic decline",
+      "evitar_confusion": [
+        "Food Products (Consumer Staples, packaged food makers)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:retail",
+      "sector": "Consumer Discretionary",
+      "categoria": "Retail",
+      "descripcion": "Specialty retail, department stores, home improvement, discount stores, and e-commerce.",
+      "keywords": [
+        "department store chain",
+        "specialty retailer",
+        "discount retailer",
+        "big-box retailer",
+        "home improvement retailer",
+        "omnichannel retail strategy",
+        "retail foot traffic",
+        "store closures"
+      ],
+      "keywords_count": 8,
+      "texto_para_embedding": "[Consumer Discretionary]\nRetail\n\nSpecialty retail, department stores, home improvement, discount stores, and e-commerce.\n\nTérminos clave: department store chain specialty retailer discount retailer big-box retailer home improvement retailer omnichannel retail strategy retail foot traffic store closures\n\nRelevantes: department store chain specialty retailer discount retailer big-box retailer home improvement retailer omnichannel retail strategy retail foot traffic store closures",
+      "evitar_confusion": [
+        "Food Retail (Consumer Staples, grocery)",
+        "E-Commerce"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:luxury_goods",
+      "sector": "Consumer Discretionary",
+      "categoria": "Luxury Goods",
+      "descripcion": "Luxury apparel, accessories, watches, jewelry, and premium consumer products.",
+      "keywords": [
+        "luxury fashion house",
+        "high-end jewelry brand",
+        "luxury watch maker",
+        "premium handbag brand",
+        "luxury conglomerate",
+        "duty-free luxury sales",
+        "luxury consumer spending in China"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Consumer Discretionary]\nLuxury Goods\n\nLuxury apparel, accessories, watches, jewelry, and premium consumer products.\n\nTérminos clave: luxury fashion house high-end jewelry brand luxury watch maker premium handbag brand luxury conglomerate duty-free luxury sales luxury consumer spending in China\n\nRelevantes: luxury fashion house high-end jewelry brand luxury watch maker premium handbag brand luxury conglomerate duty-free luxury sales luxury consumer spending in China",
+      "evitar_confusion": [
+        "Apparel and Footwear (mass market)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:e-commerce",
+      "sector": "Consumer Discretionary",
+      "categoria": "E-Commerce",
+      "descripcion": "Online marketplaces, digital retail platforms, and direct-to-consumer commerce.",
+      "keywords": [
+        "online marketplace",
+        "direct-to-consumer brand",
+        "e-commerce fulfillment center",
+        "online order volume",
+        "digital storefront",
+        "cart abandonment rate",
+        "online penetration rate of retail sales"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Consumer Discretionary]\nE-Commerce\n\nOnline marketplaces, digital retail platforms, and direct-to-consumer commerce.\n\nTérminos clave: online marketplace direct-to-consumer brand e-commerce fulfillment center online order volume digital storefront cart abandonment rate online penetration rate of retail sales\n\nRelevantes: online marketplace direct-to-consumer brand e-commerce fulfillment center online order volume digital storefront cart abandonment rate online penetration rate of retail sales",
+      "evitar_confusion": [
+        "Payments (Financials, the transaction layer)",
+        "Retail (physical channel)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:home_improvement",
+      "sector": "Consumer Discretionary",
+      "categoria": "Home Improvement",
+      "descripcion": "Building materials, tools, hardware, renovation products, and DIY products.",
+      "keywords": [
+        "home renovation spending",
+        "DIY hardware store",
+        "power tool brand",
+        "home improvement project volume",
+        "contractor supply store"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Consumer Discretionary]\nHome Improvement\n\nBuilding materials, tools, hardware, renovation products, and DIY products.\n\nTérminos clave: home renovation spending DIY hardware store power tool brand home improvement project volume contractor supply store\n\nRelevantes: home renovation spending DIY hardware store power tool brand home improvement project volume contractor supply store",
+      "evitar_confusion": [
+        "Building Products (Industrials, manufacturers vs. retail)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:operating_metrics",
+      "sector": "Consumer Discretionary",
+      "categoria": "Operating Metrics",
+      "descripcion": "",
+      "keywords": [
+        "same-store sales growth",
+        "comparable sales",
+        "customer traffic",
+        "conversion rate (retail)",
+        "average transaction value",
+        "inventory turnover",
+        "markdown rate"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Consumer Discretionary]\nOperating Metrics\n\n\n\nTérminos clave: same-store sales growth comparable sales customer traffic conversion rate (retail) average transaction value inventory turnover markdown rate\n\nRelevantes: same-store sales growth comparable sales customer traffic conversion rate (retail) average transaction value inventory turnover markdown rate",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:market_catalysts",
+      "sector": "Consumer Discretionary",
+      "categoria": "Market Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "holiday shopping season results",
+        "consumer confidence index",
+        "back-to-school spending",
+        "auto incentive spending",
+        "tariffs on consumer goods"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Consumer Discretionary]\nMarket Catalysts\n\n\n\nTérminos clave: holiday shopping season results consumer confidence index back-to-school spending auto incentive spending tariffs on consumer goods\n\nRelevantes: holiday shopping season results consumer confidence index back-to-school spending auto incentive spending tariffs on consumer goods",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:financial_metrics",
+      "sector": "Consumer Discretionary",
+      "categoria": "Financial Metrics",
+      "descripcion": "",
+      "keywords": [
+        "merchandise margin",
+        "inventory days outstanding",
+        "FCF conversion (retail)"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Consumer Discretionary]\nFinancial Metrics\n\n\n\nTérminos clave: merchandise margin inventory days outstanding FCF conversion (retail)\n\nRelevantes: merchandise margin inventory days outstanding FCF conversion (retail)",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_discretionary:industry_drivers",
+      "sector": "Consumer Discretionary",
+      "categoria": "Industry Drivers",
+      "descripcion": "",
+      "keywords": [
+        "household disposable income",
+        "consumer sentiment index",
+        "wage growth",
+        "consumer credit availability"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Consumer Discretionary]\nIndustry Drivers\n\n\n\nTérminos clave: household disposable income consumer sentiment index wage growth consumer credit availability\n\nRelevantes: household disposable income consumer sentiment index wage growth consumer credit availability",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:beverages",
+      "sector": "Consumer Staples",
+      "categoria": "Beverages",
+      "descripcion": "Soft drinks, bottled water, alcoholic beverages, coffee, and packaged beverages.",
+      "keywords": [
+        "soft drink bottler",
+        "brewery",
+        "distillery",
+        "wine producer",
+        "bottled water brand",
+        "coffee roaster",
+        "beverage concentrate maker",
+        "energy drink brand",
+        "non-alcoholic beverage volume"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Consumer Staples]\nBeverages\n\nSoft drinks, bottled water, alcoholic beverages, coffee, and packaged beverages.\n\nTérminos clave: soft drink bottler brewery distillery wine producer bottled water brand coffee roaster beverage concentrate maker energy drink brand non-alcoholic beverage volume\n\nRelevantes: soft drink bottler brewery distillery wine producer bottled water brand coffee roaster beverage concentrate maker energy drink brand non-alcoholic beverage volume",
+      "evitar_confusion": [
+        "Restaurants (Consumer Discretionary, on-premise consumption)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:food_products",
+      "sector": "Consumer Staples",
+      "categoria": "Food Products",
+      "descripcion": "Packaged foods, snacks, dairy, frozen foods, cereals, and prepared foods.",
+      "keywords": [
+        "packaged food manufacturer",
+        "snack food brand",
+        "dairy processor",
+        "frozen food maker",
+        "cereal brand",
+        "condiment manufacturer",
+        "protein/meat processor",
+        "food commodity input cost",
+        "private-label food"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Consumer Staples]\nFood Products\n\nPackaged foods, snacks, dairy, frozen foods, cereals, and prepared foods.\n\nTérminos clave: packaged food manufacturer snack food brand dairy processor frozen food maker cereal brand condiment manufacturer protein/meat processor food commodity input cost private-label food\n\nRelevantes: packaged food manufacturer snack food brand dairy processor frozen food maker cereal brand condiment manufacturer protein/meat processor food commodity input cost private-label food",
+      "evitar_confusion": [
+        "Restaurants (prepared on-premise vs. packaged)",
+        "Food Retail (channel, not maker)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:household_products",
+      "sector": "Consumer Staples",
+      "categoria": "Household Products",
+      "descripcion": "Household cleaners, detergents, paper products, and laundry products.",
+      "keywords": [
+        "laundry detergent brand",
+        "household cleaner manufacturer",
+        "paper towel brand",
+        "toilet paper manufacturer",
+        "dish soap brand",
+        "surface cleaner"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Consumer Staples]\nHousehold Products\n\nHousehold cleaners, detergents, paper products, and laundry products.\n\nTérminos clave: laundry detergent brand household cleaner manufacturer paper towel brand toilet paper manufacturer dish soap brand surface cleaner\n\nRelevantes: laundry detergent brand household cleaner manufacturer paper towel brand toilet paper manufacturer dish soap brand surface cleaner",
+      "evitar_confusion": [
+        "Personal Care (body/hygiene vs. home)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:personal_care",
+      "sector": "Consumer Staples",
+      "categoria": "Personal Care",
+      "descripcion": "Cosmetics, skincare, haircare, toiletries, and oral care.",
+      "keywords": [
+        "cosmetics brand",
+        "skincare brand",
+        "haircare product line",
+        "toothpaste brand",
+        "deodorant brand",
+        "personal hygiene product",
+        "beauty product distribution"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Consumer Staples]\nPersonal Care\n\nCosmetics, skincare, haircare, toiletries, and oral care.\n\nTérminos clave: cosmetics brand skincare brand haircare product line toothpaste brand deodorant brand personal hygiene product beauty product distribution\n\nRelevantes: cosmetics brand skincare brand haircare product line toothpaste brand deodorant brand personal hygiene product beauty product distribution",
+      "evitar_confusion": [
+        "Luxury Goods (prestige beauty vs. mass beauty)",
+        "Consumer Health"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:tobacco",
+      "sector": "Consumer Staples",
+      "categoria": "Tobacco",
+      "descripcion": "Cigarettes, cigars, smokeless tobacco, and nicotine products.",
+      "keywords": [
+        "cigarette manufacturer",
+        "vaping product",
+        "smokeless tobacco brand",
+        "nicotine pouch",
+        "tobacco excise tax",
+        "tobacco volume decline"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Consumer Staples]\nTobacco\n\nCigarettes, cigars, smokeless tobacco, and nicotine products.\n\nTérminos clave: cigarette manufacturer vaping product smokeless tobacco brand nicotine pouch tobacco excise tax tobacco volume decline\n\nRelevantes: cigarette manufacturer vaping product smokeless tobacco brand nicotine pouch tobacco excise tax tobacco volume decline",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:food_retail",
+      "sector": "Consumer Staples",
+      "categoria": "Food Retail",
+      "descripcion": "Supermarkets, grocery stores, discount grocers, and convenience stores.",
+      "keywords": [
+        "supermarket chain",
+        "grocery retailer",
+        "convenience store chain",
+        "discount grocer",
+        "grocery same-store sales",
+        "private-label grocery penetration"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Consumer Staples]\nFood Retail\n\nSupermarkets, grocery stores, discount grocers, and convenience stores.\n\nTérminos clave: supermarket chain grocery retailer convenience store chain discount grocer grocery same-store sales private-label grocery penetration\n\nRelevantes: supermarket chain grocery retailer convenience store chain discount grocer grocery same-store sales private-label grocery penetration",
+      "evitar_confusion": [
+        "Retail (Consumer Discretionary, general merchandise)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:consumer_health",
+      "sector": "Consumer Staples",
+      "categoria": "Consumer Health",
+      "descripcion": "Over-the-counter healthcare products, vitamins, and non-prescription wellness products.",
+      "keywords": [
+        "over-the-counter medication brand",
+        "vitamin and supplement brand",
+        "OTC pain reliever",
+        "wellness supplement",
+        "cough and cold remedy"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Consumer Staples]\nConsumer Health\n\nOver-the-counter healthcare products, vitamins, and non-prescription wellness products.\n\nTérminos clave: over-the-counter medication brand vitamin and supplement brand OTC pain reliever wellness supplement cough and cold remedy\n\nRelevantes: over-the-counter medication brand vitamin and supplement brand OTC pain reliever wellness supplement cough and cold remedy",
+      "evitar_confusion": [
+        "Pharmaceuticals (prescription drugs, Health Care sector)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:pet_products",
+      "sector": "Consumer Staples",
+      "categoria": "Pet Products",
+      "descripcion": "Pet food, pet care products, and animal health products.",
+      "keywords": [
+        "pet food brand",
+        "pet treat manufacturer",
+        "pet care product line",
+        "veterinary retail product",
+        "pet nutrition"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Consumer Staples]\nPet Products\n\nPet food, pet care products, and animal health products.\n\nTérminos clave: pet food brand pet treat manufacturer pet care product line veterinary retail product pet nutrition\n\nRelevantes: pet food brand pet treat manufacturer pet care product line veterinary retail product pet nutrition",
+      "evitar_confusion": [
+        "Health Care Providers (human vs. animal health)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:packaged_consumer_goods",
+      "sector": "Consumer Staples",
+      "categoria": "Packaged Consumer Goods",
+      "descripcion": "Branded packaged products, private-label products, and fast-moving consumer goods.",
+      "keywords": [
+        "fast-moving consumer goods company",
+        "branded packaged goods portfolio",
+        "private-label manufacturer",
+        "consumer packaged goods distribution"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Consumer Staples]\nPackaged Consumer Goods\n\nBranded packaged products, private-label products, and fast-moving consumer goods.\n\nTérminos clave: fast-moving consumer goods company branded packaged goods portfolio private-label manufacturer consumer packaged goods distribution\n\nRelevantes: fast-moving consumer goods company branded packaged goods portfolio private-label manufacturer consumer packaged goods distribution",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:operating_metrics",
+      "sector": "Consumer Staples",
+      "categoria": "Operating Metrics",
+      "descripcion": "",
+      "keywords": [
+        "organic sales growth",
+        "volume growth",
+        "price/mix",
+        "shelf space allocation",
+        "promotional intensity",
+        "private-label penetration"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Consumer Staples]\nOperating Metrics\n\n\n\nTérminos clave: organic sales growth volume growth price/mix shelf space allocation promotional intensity private-label penetration\n\nRelevantes: organic sales growth volume growth price/mix shelf space allocation promotional intensity private-label penetration",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:market_catalysts",
+      "sector": "Consumer Staples",
+      "categoria": "Market Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "food and beverage inflation",
+        "agricultural commodity cost spike",
+        "product recall",
+        "tobacco regulation change"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Consumer Staples]\nMarket Catalysts\n\n\n\nTérminos clave: food and beverage inflation agricultural commodity cost spike product recall tobacco regulation change\n\nRelevantes: food and beverage inflation agricultural commodity cost spike product recall tobacco regulation change",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:financial_metrics",
+      "sector": "Consumer Staples",
+      "categoria": "Financial Metrics",
+      "descripcion": "",
+      "keywords": [
+        "pricing power (staples)",
+        "cost savings program",
+        "productivity initiative"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Consumer Staples]\nFinancial Metrics\n\n\n\nTérminos clave: pricing power (staples) cost savings program productivity initiative\n\nRelevantes: pricing power (staples) cost savings program productivity initiative",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "consumer_staples:industry_drivers",
+      "sector": "Consumer Staples",
+      "categoria": "Industry Drivers",
+      "descripcion": "",
+      "keywords": [
+        "consumer trade-down to private label",
+        "input cost inflation",
+        "brand loyalty trend"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Consumer Staples]\nIndustry Drivers\n\n\n\nTérminos clave: consumer trade-down to private label input cost inflation brand loyalty trend\n\nRelevantes: consumer trade-down to private label input cost inflation brand loyalty trend",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:upstream_exploration_and_production",
+      "sector": "Energy",
+      "categoria": "Upstream Exploration and Production",
+      "descripcion": "Oil and gas exploration, drilling, crude oil and natural gas production, and reserves.",
+      "keywords": [
+        "exploration and production company",
+        "shale oil producer",
+        "crude oil well",
+        "natural gas well",
+        "proved reserves",
+        "drilling rig count",
+        "well completion",
+        "hydrocarbon extraction",
+        "offshore drilling platform",
+        "production decline rate"
+      ],
+      "keywords_count": 10,
+      "texto_para_embedding": "[Energy]\nUpstream Exploration and Production\n\nOil and gas exploration, drilling, crude oil and natural gas production, and reserves.\n\nTérminos clave: exploration and production company shale oil producer crude oil well natural gas well proved reserves drilling rig count well completion hydrocarbon extraction offshore drilling platform production decline rate\n\nRelevantes: exploration and production company shale oil producer crude oil well natural gas well proved reserves drilling rig count well completion hydrocarbon extraction offshore drilling platform production decline rate",
+      "evitar_confusion": [
+        "Oilfield Services (service providers, not producers)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:integrated_oil_and_gas",
+      "sector": "Energy",
+      "categoria": "Integrated Oil and Gas",
+      "descripcion": "Integrated majors combining exploration, refining, marketing, and petrochemicals.",
+      "keywords": [
+        "integrated oil major",
+        "upstream-downstream integration",
+        "supermajor oil company",
+        "vertically integrated energy company"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Energy]\nIntegrated Oil and Gas\n\nIntegrated majors combining exploration, refining, marketing, and petrochemicals.\n\nTérminos clave: integrated oil major upstream-downstream integration supermajor oil company vertically integrated energy company\n\nRelevantes: integrated oil major upstream-downstream integration supermajor oil company vertically integrated energy company",
+      "evitar_confusion": [
+        "Upstream Exploration and Production (pure-play)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:midstream",
+      "sector": "Energy",
+      "categoria": "Midstream",
+      "descripcion": "Oil and gas pipelines, gathering systems, storage terminals, and energy logistics.",
+      "keywords": [
+        "pipeline operator",
+        "gathering system",
+        "natural gas processing plant",
+        "storage terminal operator",
+        "pipeline tariff",
+        "midstream MLP (master limited partnership)",
+        "crude oil transportation"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Energy]\nMidstream\n\nOil and gas pipelines, gathering systems, storage terminals, and energy logistics.\n\nTérminos clave: pipeline operator gathering system natural gas processing plant storage terminal operator pipeline tariff midstream MLP (master limited partnership) crude oil transportation\n\nRelevantes: pipeline operator gathering system natural gas processing plant storage terminal operator pipeline tariff midstream MLP (master limited partnership) crude oil transportation",
+      "evitar_confusion": [
+        "Natural Gas and LNG (production/export vs. transport)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:oilfield_services",
+      "sector": "Energy",
+      "categoria": "Oilfield Services",
+      "descripcion": "Drilling services, well completion, hydraulic fracturing, and production support.",
+      "keywords": [
+        "oilfield services company",
+        "hydraulic fracturing provider",
+        "drilling contractor",
+        "well completion services",
+        "seismic survey company",
+        "pressure pumping",
+        "directional drilling services"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Energy]\nOilfield Services\n\nDrilling services, well completion, hydraulic fracturing, and production support.\n\nTérminos clave: oilfield services company hydraulic fracturing provider drilling contractor well completion services seismic survey company pressure pumping directional drilling services\n\nRelevantes: oilfield services company hydraulic fracturing provider drilling contractor well completion services seismic survey company pressure pumping directional drilling services",
+      "evitar_confusion": [
+        "Upstream Exploration and Production",
+        "Energy Equipment (equipment maker vs. service provider)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:refining",
+      "sector": "Energy",
+      "categoria": "Refining",
+      "descripcion": "Crude oil refining, gasoline, diesel, jet fuel, and refined fuel production.",
+      "keywords": [
+        "oil refinery",
+        "refining margin",
+        "crack spread",
+        "gasoline production",
+        "diesel production",
+        "refinery utilization rate",
+        "refinery turnaround maintenance"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Energy]\nRefining\n\nCrude oil refining, gasoline, diesel, jet fuel, and refined fuel production.\n\nTérminos clave: oil refinery refining margin crack spread gasoline production diesel production refinery utilization rate refinery turnaround maintenance\n\nRelevantes: oil refinery refining margin crack spread gasoline production diesel production refinery utilization rate refinery turnaround maintenance",
+      "evitar_confusion": [
+        "Petrochemicals (further downstream processing)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:energy_marketing",
+      "sector": "Energy",
+      "categoria": "Energy Marketing",
+      "descripcion": "Wholesale fuel distribution, petroleum marketing, fuel retailing, and commodity trading.",
+      "keywords": [
+        "fuel retailer",
+        "wholesale fuel distributor",
+        "gas station operator",
+        "commodity trading desk (energy)",
+        "fuel marketing margin"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Energy]\nEnergy Marketing\n\nWholesale fuel distribution, petroleum marketing, fuel retailing, and commodity trading.\n\nTérminos clave: fuel retailer wholesale fuel distributor gas station operator commodity trading desk (energy) fuel marketing margin\n\nRelevantes: fuel retailer wholesale fuel distributor gas station operator commodity trading desk (energy) fuel marketing margin",
+      "evitar_confusion": [
+        "Refining (production vs. distribution)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:natural_gas_and_lng",
+      "sector": "Energy",
+      "categoria": "Natural Gas and LNG",
+      "descripcion": "Natural gas production, liquefaction, LNG exports, and regasification.",
+      "keywords": [
+        "LNG export terminal",
+        "natural gas liquefaction facility",
+        "LNG carrier shipment",
+        "regasification terminal",
+        "natural gas spot price",
+        "LNG offtake agreement"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Energy]\nNatural Gas and LNG\n\nNatural gas production, liquefaction, LNG exports, and regasification.\n\nTérminos clave: LNG export terminal natural gas liquefaction facility LNG carrier shipment regasification terminal natural gas spot price LNG offtake agreement\n\nRelevantes: LNG export terminal natural gas liquefaction facility LNG carrier shipment regasification terminal natural gas spot price LNG offtake agreement",
+      "evitar_confusion": [
+        "Midstream (pipelines vs. LNG facilities)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:petrochemicals",
+      "sector": "Energy",
+      "categoria": "Petrochemicals",
+      "descripcion": "Chemical feedstocks, plastics, olefins, aromatics, and petroleum-derived chemical products.",
+      "keywords": [
+        "ethylene cracker",
+        "petrochemical feedstock",
+        "polyethylene production",
+        "olefins plant",
+        "aromatics production",
+        "naphtha feedstock"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Energy]\nPetrochemicals\n\nChemical feedstocks, plastics, olefins, aromatics, and petroleum-derived chemical products.\n\nTérminos clave: ethylene cracker petrochemical feedstock polyethylene production olefins plant aromatics production naphtha feedstock\n\nRelevantes: ethylene cracker petrochemical feedstock polyethylene production olefins plant aromatics production naphtha feedstock",
+      "evitar_confusion": [
+        "Chemicals (Materials sector, broader industrial chemicals)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:energy_equipment",
+      "sector": "Energy",
+      "categoria": "Energy Equipment",
+      "descripcion": "Drilling rigs, pumps, compressors, valves, and specialized energy machinery.",
+      "keywords": [
+        "drilling rig manufacturer",
+        "wellhead equipment maker",
+        "energy sector pump manufacturer",
+        "subsea equipment",
+        "blowout preventer"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Energy]\nEnergy Equipment\n\nDrilling rigs, pumps, compressors, valves, and specialized energy machinery.\n\nTérminos clave: drilling rig manufacturer wellhead equipment maker energy sector pump manufacturer subsea equipment blowout preventer\n\nRelevantes: drilling rig manufacturer wellhead equipment maker energy sector pump manufacturer subsea equipment blowout preventer",
+      "evitar_confusion": [
+        "Oilfield Services (service vs. equipment manufacturing)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:operating_metrics",
+      "sector": "Energy",
+      "categoria": "Operating Metrics",
+      "descripcion": "",
+      "keywords": [
+        "production guidance (barrels per day)",
+        "rig count",
+        "well completions",
+        "refinery utilization",
+        "crack spread",
+        "lifting cost per barrel"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Energy]\nOperating Metrics\n\n\n\nTérminos clave: production guidance (barrels per day) rig count well completions refinery utilization crack spread lifting cost per barrel\n\nRelevantes: production guidance (barrels per day) rig count well completions refinery utilization crack spread lifting cost per barrel",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:market_catalysts",
+      "sector": "Energy",
+      "categoria": "Market Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "OPEC+ production decision",
+        "crude oil inventory report",
+        "geopolitical supply disruption",
+        "hurricane shutting in production",
+        "LNG export policy change"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Energy]\nMarket Catalysts\n\n\n\nTérminos clave: OPEC+ production decision crude oil inventory report geopolitical supply disruption hurricane shutting in production LNG export policy change\n\nRelevantes: OPEC+ production decision crude oil inventory report geopolitical supply disruption hurricane shutting in production LNG export policy change",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:financial_metrics",
+      "sector": "Energy",
+      "categoria": "Financial Metrics",
+      "descripcion": "",
+      "keywords": [
+        "free cash flow yield (energy)",
+        "breakeven oil price",
+        "reserve replacement ratio"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Energy]\nFinancial Metrics\n\n\n\nTérminos clave: free cash flow yield (energy) breakeven oil price reserve replacement ratio\n\nRelevantes: free cash flow yield (energy) breakeven oil price reserve replacement ratio",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "energy:industry_drivers",
+      "sector": "Energy",
+      "categoria": "Industry Drivers",
+      "descripcion": "",
+      "keywords": [
+        "global oil demand",
+        "OPEC spare capacity",
+        "energy transition policy",
+        "geopolitical risk premium"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Energy]\nIndustry Drivers\n\n\n\nTérminos clave: global oil demand OPEC spare capacity energy transition policy geopolitical risk premium\n\nRelevantes: global oil demand OPEC spare capacity energy transition policy geopolitical risk premium",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:chemicals",
+      "sector": "Materials",
+      "categoria": "Chemicals",
+      "descripcion": "Commodity chemicals, specialty chemicals, industrial gases, coatings, and agricultural chemicals.",
+      "keywords": [
+        "commodity chemical producer",
+        "specialty chemical maker",
+        "industrial gas supplier",
+        "coatings manufacturer",
+        "adhesives producer",
+        "agrochemical company",
+        "chemical plant capacity utilization"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Materials]\nChemicals\n\nCommodity chemicals, specialty chemicals, industrial gases, coatings, and agricultural chemicals.\n\nTérminos clave: commodity chemical producer specialty chemical maker industrial gas supplier coatings manufacturer adhesives producer agrochemical company chemical plant capacity utilization\n\nRelevantes: commodity chemical producer specialty chemical maker industrial gas supplier coatings manufacturer adhesives producer agrochemical company chemical plant capacity utilization",
+      "evitar_confusion": [
+        "Petrochemicals (Energy sector, feedstock-adjacent)",
+        "Fertilizers"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:metals_and_mining",
+      "sector": "Materials",
+      "categoria": "Metals and Mining",
+      "descripcion": "Mining and processing of copper, gold, silver, aluminum, iron ore, nickel, zinc, and lithium.",
+      "keywords": [
+        "copper miner",
+        "gold miner",
+        "iron ore producer",
+        "lithium mining company",
+        "nickel producer",
+        "base metals mining",
+        "mine production guidance",
+        "ore grade",
+        "mineral exploration"
+      ],
+      "keywords_count": 9,
+      "texto_para_embedding": "[Materials]\nMetals and Mining\n\nMining and processing of copper, gold, silver, aluminum, iron ore, nickel, zinc, and lithium.\n\nTérminos clave: copper miner gold miner iron ore producer lithium mining company nickel producer base metals mining mine production guidance ore grade mineral exploration\n\nRelevantes: copper miner gold miner iron ore producer lithium mining company nickel producer base metals mining mine production guidance ore grade mineral exploration",
+      "evitar_confusion": [
+        "Precious Metals (subset)",
+        "Steel/Aluminum (processing, not extraction)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:steel",
+      "sector": "Materials",
+      "categoria": "Steel",
+      "descripcion": "Steel production, flat-rolled steel, long steel products, and metal fabrication.",
+      "keywords": [
+        "steel mill",
+        "flat-rolled steel producer",
+        "electric arc furnace steelmaker",
+        "steel plate manufacturer",
+        "hot-rolled coil price",
+        "steel tariff"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Materials]\nSteel\n\nSteel production, flat-rolled steel, long steel products, and metal fabrication.\n\nTérminos clave: steel mill flat-rolled steel producer electric arc furnace steelmaker steel plate manufacturer hot-rolled coil price steel tariff\n\nRelevantes: steel mill flat-rolled steel producer electric arc furnace steelmaker steel plate manufacturer hot-rolled coil price steel tariff",
+      "evitar_confusion": [
+        "Metals and Mining (iron ore vs. finished steel)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:aluminum",
+      "sector": "Materials",
+      "categoria": "Aluminum",
+      "descripcion": "Aluminum mining, alumina refining, smelting, and rolled products.",
+      "keywords": [
+        "aluminum smelter",
+        "alumina refinery",
+        "bauxite mining",
+        "aluminum rolling mill",
+        "aluminum extrusion producer"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Materials]\nAluminum\n\nAluminum mining, alumina refining, smelting, and rolled products.\n\nTérminos clave: aluminum smelter alumina refinery bauxite mining aluminum rolling mill aluminum extrusion producer\n\nRelevantes: aluminum smelter alumina refinery bauxite mining aluminum rolling mill aluminum extrusion producer",
+      "evitar_confusion": [
+        "Metals and Mining (broader), Packaging (aluminum cans)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:precious_metals",
+      "sector": "Materials",
+      "categoria": "Precious Metals",
+      "descripcion": "Gold, silver, platinum-group metals, and bullion-related products.",
+      "keywords": [
+        "gold bullion",
+        "silver mining company",
+        "platinum group metals miner",
+        "precious metals refiner",
+        "gold price hedge"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Materials]\nPrecious Metals\n\nGold, silver, platinum-group metals, and bullion-related products.\n\nTérminos clave: gold bullion silver mining company platinum group metals miner precious metals refiner gold price hedge\n\nRelevantes: gold bullion silver mining company platinum group metals miner precious metals refiner gold price hedge",
+      "evitar_confusion": [
+        "Metals and Mining (base metals)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:fertilizers",
+      "sector": "Materials",
+      "categoria": "Fertilizers",
+      "descripcion": "Nitrogen, phosphate, potash fertilizers, and agricultural chemicals.",
+      "keywords": [
+        "potash producer",
+        "nitrogen fertilizer plant",
+        "phosphate mining",
+        "crop nutrient pricing",
+        "urea fertilizer",
+        "fertilizer application season"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Materials]\nFertilizers\n\nNitrogen, phosphate, potash fertilizers, and agricultural chemicals.\n\nTérminos clave: potash producer nitrogen fertilizer plant phosphate mining crop nutrient pricing urea fertilizer fertilizer application season\n\nRelevantes: potash producer nitrogen fertilizer plant phosphate mining crop nutrient pricing urea fertilizer fertilizer application season",
+      "evitar_confusion": [
+        "Chemicals (broader industrial vs. agricultural)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:construction_materials",
+      "sector": "Materials",
+      "categoria": "Construction Materials",
+      "descripcion": "Cement, aggregates, concrete, asphalt, and infrastructure-related materials.",
+      "keywords": [
+        "cement producer",
+        "aggregates quarry",
+        "ready-mix concrete supplier",
+        "asphalt producer",
+        "cement plant capacity"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Materials]\nConstruction Materials\n\nCement, aggregates, concrete, asphalt, and infrastructure-related materials.\n\nTérminos clave: cement producer aggregates quarry ready-mix concrete supplier asphalt producer cement plant capacity\n\nRelevantes: cement producer aggregates quarry ready-mix concrete supplier asphalt producer cement plant capacity",
+      "evitar_confusion": [
+        "Building Products (Industrials, finished construction products)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:packaging",
+      "sector": "Materials",
+      "categoria": "Packaging",
+      "descripcion": "Paper packaging, cardboard, containers, bottles, cans, and consumer packaging.",
+      "keywords": [
+        "corrugated cardboard maker",
+        "aluminum can manufacturer",
+        "glass bottle producer",
+        "flexible packaging company",
+        "packaging converter"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Materials]\nPackaging\n\nPaper packaging, cardboard, containers, bottles, cans, and consumer packaging.\n\nTérminos clave: corrugated cardboard maker aluminum can manufacturer glass bottle producer flexible packaging company packaging converter\n\nRelevantes: corrugated cardboard maker aluminum can manufacturer glass bottle producer flexible packaging company packaging converter",
+      "evitar_confusion": [
+        "Forest Products and Paper (raw pulp vs. finished packaging)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:forest_products_and_paper",
+      "sector": "Materials",
+      "categoria": "Forest Products and Paper",
+      "descripcion": "Pulp, paper, tissue products, and wood products.",
+      "keywords": [
+        "pulp mill",
+        "paper mill",
+        "tissue product manufacturer",
+        "lumber producer",
+        "timberland owner",
+        "wood products company"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Materials]\nForest Products and Paper\n\nPulp, paper, tissue products, and wood products.\n\nTérminos clave: pulp mill paper mill tissue product manufacturer lumber producer timberland owner wood products company\n\nRelevantes: pulp mill paper mill tissue product manufacturer lumber producer timberland owner wood products company",
+      "evitar_confusion": [
+        "Packaging (converted products)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:operating_metrics",
+      "sector": "Materials",
+      "categoria": "Operating Metrics",
+      "descripcion": "",
+      "keywords": [
+        "production volume (materials)",
+        "realized price per ton",
+        "capacity utilization (materials)",
+        "all-in sustaining cost",
+        "ore grade",
+        "cash cost per unit"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Materials]\nOperating Metrics\n\n\n\nTérminos clave: production volume (materials) realized price per ton capacity utilization (materials) all-in sustaining cost ore grade cash cost per unit\n\nRelevantes: production volume (materials) realized price per ton capacity utilization (materials) all-in sustaining cost ore grade cash cost per unit",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:market_catalysts",
+      "sector": "Materials",
+      "categoria": "Market Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "China demand for commodities",
+        "mine supply disruption",
+        "metals inventory data",
+        "commodity price spike",
+        "labor strike at mine"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Materials]\nMarket Catalysts\n\n\n\nTérminos clave: China demand for commodities mine supply disruption metals inventory data commodity price spike labor strike at mine\n\nRelevantes: China demand for commodities mine supply disruption metals inventory data commodity price spike labor strike at mine",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:financial_metrics",
+      "sector": "Materials",
+      "categoria": "Financial Metrics",
+      "descripcion": "",
+      "keywords": [
+        "commodity price sensitivity",
+        "EBITDA margin (materials)",
+        "return on capital employed (materials)"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Materials]\nFinancial Metrics\n\n\n\nTérminos clave: commodity price sensitivity EBITDA margin (materials) return on capital employed (materials)\n\nRelevantes: commodity price sensitivity EBITDA margin (materials) return on capital employed (materials)",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "materials:industry_drivers",
+      "sector": "Materials",
+      "categoria": "Industry Drivers",
+      "descripcion": "",
+      "keywords": [
+        "global industrial production",
+        "Chinese construction demand",
+        "commodity supercycle"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Materials]\nIndustry Drivers\n\n\n\nTérminos clave: global industrial production Chinese construction demand commodity supercycle\n\nRelevantes: global industrial production Chinese construction demand commodity supercycle",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:electric_utilities",
+      "sector": "Utilities",
+      "categoria": "Electric Utilities",
+      "descripcion": "Electricity generation, transmission, distribution, and regulated utility infrastructure.",
+      "keywords": [
+        "regulated electric utility",
+        "investor-owned utility",
+        "electricity transmission line",
+        "distribution substation",
+        "electric rate case",
+        "regulated rate base"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Utilities]\nElectric Utilities\n\nElectricity generation, transmission, distribution, and regulated utility infrastructure.\n\nTérminos clave: regulated electric utility investor-owned utility electricity transmission line distribution substation electric rate case regulated rate base\n\nRelevantes: regulated electric utility investor-owned utility electricity transmission line distribution substation electric rate case regulated rate base",
+      "evitar_confusion": [
+        "Independent Power Producers (unregulated merchant generation)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:natural_gas_utilities",
+      "sector": "Utilities",
+      "categoria": "Natural Gas Utilities",
+      "descripcion": "Natural gas distribution, transmission, storage, and regulated gas services.",
+      "keywords": [
+        "gas utility distribution network",
+        "local distribution company (gas)",
+        "gas storage facility",
+        "gas utility rate case"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Utilities]\nNatural Gas Utilities\n\nNatural gas distribution, transmission, storage, and regulated gas services.\n\nTérminos clave: gas utility distribution network local distribution company (gas) gas storage facility gas utility rate case\n\nRelevantes: gas utility distribution network local distribution company (gas) gas storage facility gas utility rate case",
+      "evitar_confusion": [
+        "Natural Gas and LNG (Energy sector, production/export)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:water_utilities",
+      "sector": "Utilities",
+      "categoria": "Water Utilities",
+      "descripcion": "Water supply, wastewater treatment, and regulated water systems.",
+      "keywords": [
+        "water utility company",
+        "wastewater treatment plant",
+        "water infrastructure investment",
+        "regulated water rate case"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Utilities]\nWater Utilities\n\nWater supply, wastewater treatment, and regulated water systems.\n\nTérminos clave: water utility company wastewater treatment plant water infrastructure investment regulated water rate case\n\nRelevantes: water utility company wastewater treatment plant water infrastructure investment regulated water rate case",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:multi-utilities",
+      "sector": "Utilities",
+      "categoria": "Multi-Utilities",
+      "descripcion": "Companies providing combinations of electricity, gas, water, and wastewater services.",
+      "keywords": [
+        "multi-utility holding company",
+        "combined electric and gas utility"
+      ],
+      "keywords_count": 2,
+      "texto_para_embedding": "[Utilities]\nMulti-Utilities\n\nCompanies providing combinations of electricity, gas, water, and wastewater services.\n\nTérminos clave: multi-utility holding company combined electric and gas utility\n\nRelevantes: multi-utility holding company combined electric and gas utility",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:independent_power_producers",
+      "sector": "Utilities",
+      "categoria": "Independent Power Producers",
+      "descripcion": "Merchant electricity generation, wholesale power markets, and power purchase agreements.",
+      "keywords": [
+        "merchant power generator",
+        "wholesale electricity market",
+        "power purchase agreement",
+        "capacity market auction",
+        "unregulated generation fleet"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Utilities]\nIndependent Power Producers\n\nMerchant electricity generation, wholesale power markets, and power purchase agreements.\n\nTérminos clave: merchant power generator wholesale electricity market power purchase agreement capacity market auction unregulated generation fleet\n\nRelevantes: merchant power generator wholesale electricity market power purchase agreement capacity market auction unregulated generation fleet",
+      "evitar_confusion": [
+        "Electric Utilities (regulated)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:renewable_energy",
+      "sector": "Utilities",
+      "categoria": "Renewable Energy",
+      "descripcion": "Solar, wind, hydroelectric generation, battery storage, and clean energy infrastructure.",
+      "keywords": [
+        "solar farm developer",
+        "wind farm operator",
+        "battery energy storage system",
+        "renewable energy credit",
+        "utility-scale solar project",
+        "offshore wind project",
+        "power purchase agreement for renewables"
+      ],
+      "keywords_count": 7,
+      "texto_para_embedding": "[Utilities]\nRenewable Energy\n\nSolar, wind, hydroelectric generation, battery storage, and clean energy infrastructure.\n\nTérminos clave: solar farm developer wind farm operator battery energy storage system renewable energy credit utility-scale solar project offshore wind project power purchase agreement for renewables\n\nRelevantes: solar farm developer wind farm operator battery energy storage system renewable energy credit utility-scale solar project offshore wind project power purchase agreement for renewables",
+      "evitar_confusion": [
+        "Electrical Equipment (Industrials, component makers)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:nuclear_power",
+      "sector": "Utilities",
+      "categoria": "Nuclear Power",
+      "descripcion": "Nuclear electricity generation, reactor operations, and long-term power contracts.",
+      "keywords": [
+        "nuclear power plant",
+        "nuclear reactor operator",
+        "small modular reactor",
+        "nuclear fuel management",
+        "nuclear plant license renewal"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Utilities]\nNuclear Power\n\nNuclear electricity generation, reactor operations, and long-term power contracts.\n\nTérminos clave: nuclear power plant nuclear reactor operator small modular reactor nuclear fuel management nuclear plant license renewal\n\nRelevantes: nuclear power plant nuclear reactor operator small modular reactor nuclear fuel management nuclear plant license renewal",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:grid_infrastructure",
+      "sector": "Utilities",
+      "categoria": "Grid Infrastructure",
+      "descripcion": "Transmission lines, distribution networks, smart grids, and grid reliability infrastructure.",
+      "keywords": [
+        "transmission grid operator",
+        "smart grid technology",
+        "grid modernization investment",
+        "grid reliability standard",
+        "grid interconnection queue"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Utilities]\nGrid Infrastructure\n\nTransmission lines, distribution networks, smart grids, and grid reliability infrastructure.\n\nTérminos clave: transmission grid operator smart grid technology grid modernization investment grid reliability standard grid interconnection queue\n\nRelevantes: transmission grid operator smart grid technology grid modernization investment grid reliability standard grid interconnection queue",
+      "evitar_confusion": [
+        "Electrical Equipment (Industrials, the hardware makers)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:operating_metrics",
+      "sector": "Utilities",
+      "categoria": "Operating Metrics",
+      "descripcion": "",
+      "keywords": [
+        "rate base growth",
+        "allowed return on equity",
+        "load growth",
+        "peak demand forecast",
+        "generation mix",
+        "capacity factor"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Utilities]\nOperating Metrics\n\n\n\nTérminos clave: rate base growth allowed return on equity load growth peak demand forecast generation mix capacity factor\n\nRelevantes: rate base growth allowed return on equity load growth peak demand forecast generation mix capacity factor",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:regulatory_catalysts",
+      "sector": "Utilities",
+      "categoria": "Regulatory Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "utility commission rate case decision",
+        "regulatory lag",
+        "renewable portfolio standard mandate"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Utilities]\nRegulatory Catalysts\n\n\n\nTérminos clave: utility commission rate case decision regulatory lag renewable portfolio standard mandate\n\nRelevantes: utility commission rate case decision regulatory lag renewable portfolio standard mandate",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:market_catalysts",
+      "sector": "Utilities",
+      "categoria": "Market Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "extreme weather grid impact",
+        "data center power demand growth",
+        "wildfire liability",
+        "nuclear plant restart"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Utilities]\nMarket Catalysts\n\n\n\nTérminos clave: extreme weather grid impact data center power demand growth wildfire liability nuclear plant restart\n\nRelevantes: extreme weather grid impact data center power demand growth wildfire liability nuclear plant restart",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:financial_metrics",
+      "sector": "Utilities",
+      "categoria": "Financial Metrics",
+      "descripcion": "",
+      "keywords": [
+        "funds from operations (utility)",
+        "rate-base growth rate",
+        "regulated return on equity"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Utilities]\nFinancial Metrics\n\n\n\nTérminos clave: funds from operations (utility) rate-base growth rate regulated return on equity\n\nRelevantes: funds from operations (utility) rate-base growth rate regulated return on equity",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "utilities:industry_drivers",
+      "sector": "Utilities",
+      "categoria": "Industry Drivers",
+      "descripcion": "",
+      "keywords": [
+        "electrification trend",
+        "data center electricity demand",
+        "grid modernization need"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Utilities]\nIndustry Drivers\n\n\n\nTérminos clave: electrification trend data center electricity demand grid modernization need\n\nRelevantes: electrification trend data center electricity demand grid modernization need",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:residential_reits",
+      "sector": "Real Estate",
+      "categoria": "Residential REITs",
+      "descripcion": "Apartment buildings, single-family rentals, manufactured housing, and student housing.",
+      "keywords": [
+        "apartment REIT",
+        "single-family rental operator",
+        "manufactured housing community",
+        "student housing REIT",
+        "multifamily occupancy rate"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Real Estate]\nResidential REITs\n\nApartment buildings, single-family rentals, manufactured housing, and student housing.\n\nTérminos clave: apartment REIT single-family rental operator manufactured housing community student housing REIT multifamily occupancy rate\n\nRelevantes: apartment REIT single-family rental operator manufactured housing community student housing REIT multifamily occupancy rate",
+      "evitar_confusion": [
+        "Real Estate Development (building vs. owning/operating)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:office_reits",
+      "sector": "Real Estate",
+      "categoria": "Office REITs",
+      "descripcion": "Office buildings, corporate properties, and commercial office leasing.",
+      "keywords": [
+        "office REIT",
+        "central business district office tower",
+        "office leasing activity",
+        "office vacancy rate",
+        "return-to-office trend impact on leasing"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Real Estate]\nOffice REITs\n\nOffice buildings, corporate properties, and commercial office leasing.\n\nTérminos clave: office REIT central business district office tower office leasing activity office vacancy rate return-to-office trend impact on leasing\n\nRelevantes: office REIT central business district office tower office leasing activity office vacancy rate return-to-office trend impact on leasing",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:retail_reits",
+      "sector": "Real Estate",
+      "categoria": "Retail REITs",
+      "descripcion": "Shopping centers, malls, and commercial retail real estate.",
+      "keywords": [
+        "shopping center REIT",
+        "mall operator",
+        "grocery-anchored shopping center",
+        "retail REIT occupancy",
+        "anchor tenant lease"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Real Estate]\nRetail REITs\n\nShopping centers, malls, and commercial retail real estate.\n\nTérminos clave: shopping center REIT mall operator grocery-anchored shopping center retail REIT occupancy anchor tenant lease\n\nRelevantes: shopping center REIT mall operator grocery-anchored shopping center retail REIT occupancy anchor tenant lease",
+      "evitar_confusion": [
+        "Retail (Consumer Discretionary, the tenants themselves)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:industrial_and_logistics_reits",
+      "sector": "Real Estate",
+      "categoria": "Industrial and Logistics REITs",
+      "descripcion": "Warehouses, distribution centers, and supply-chain real estate.",
+      "keywords": [
+        "warehouse REIT",
+        "logistics real estate",
+        "last-mile distribution facility",
+        "fulfillment center lease",
+        "industrial REIT rent growth"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Real Estate]\nIndustrial and Logistics REITs\n\nWarehouses, distribution centers, and supply-chain real estate.\n\nTérminos clave: warehouse REIT logistics real estate last-mile distribution facility fulfillment center lease industrial REIT rent growth\n\nRelevantes: warehouse REIT logistics real estate last-mile distribution facility fulfillment center lease industrial REIT rent growth",
+      "evitar_confusion": [
+        "E-Commerce (Consumer Discretionary, the tenant operations)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:data_center_reits",
+      "sector": "Real Estate",
+      "categoria": "Data Center REITs",
+      "descripcion": "Data centers, colocation facilities, and digital infrastructure real estate ownership.",
+      "keywords": [
+        "data center REIT",
+        "colocation provider",
+        "hyperscale data center lease",
+        "data center power capacity",
+        "data center REIT development pipeline"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Real Estate]\nData Center REITs\n\nData centers, colocation facilities, and digital infrastructure real estate ownership.\n\nTérminos clave: data center REIT colocation provider hyperscale data center lease data center power capacity data center REIT development pipeline\n\nRelevantes: data center REIT colocation provider hyperscale data center lease data center power capacity data center REIT development pipeline",
+      "evitar_confusion": [
+        "Cloud Computing (Technology, the compute service, not the building)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:hotel_and_resort_reits",
+      "sector": "Real Estate",
+      "categoria": "Hotel and Resort REITs",
+      "descripcion": "Hotels, resorts, and lodging properties held by REITs.",
+      "keywords": [
+        "hotel REIT",
+        "lodging REIT",
+        "hotel property portfolio",
+        "RevPAR for REIT-owned hotels"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Real Estate]\nHotel and Resort REITs\n\nHotels, resorts, and lodging properties held by REITs.\n\nTérminos clave: hotel REIT lodging REIT hotel property portfolio RevPAR for REIT-owned hotels\n\nRelevantes: hotel REIT lodging REIT hotel property portfolio RevPAR for REIT-owned hotels",
+      "evitar_confusion": [
+        "Hotels and Resorts (Consumer Discretionary, the operating brands)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:healthcare_reits",
+      "sector": "Real Estate",
+      "categoria": "Healthcare REITs",
+      "descripcion": "Hospitals, senior housing, skilled nursing, and medical office buildings held by REITs.",
+      "keywords": [
+        "senior housing REIT",
+        "medical office building REIT",
+        "skilled nursing facility REIT",
+        "healthcare REIT lease"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Real Estate]\nHealthcare REITs\n\nHospitals, senior housing, skilled nursing, and medical office buildings held by REITs.\n\nTérminos clave: senior housing REIT medical office building REIT skilled nursing facility REIT healthcare REIT lease\n\nRelevantes: senior housing REIT medical office building REIT skilled nursing facility REIT healthcare REIT lease",
+      "evitar_confusion": [
+        "Health Care Providers (operators, not landlords)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:self-storage_reits",
+      "sector": "Real Estate",
+      "categoria": "Self-Storage REITs",
+      "descripcion": "Self-storage facilities and rental storage properties.",
+      "keywords": [
+        "self-storage REIT",
+        "storage unit occupancy",
+        "self-storage same-store revenue"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Real Estate]\nSelf-Storage REITs\n\nSelf-storage facilities and rental storage properties.\n\nTérminos clave: self-storage REIT storage unit occupancy self-storage same-store revenue\n\nRelevantes: self-storage REIT storage unit occupancy self-storage same-store revenue",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:specialized_reits",
+      "sector": "Real Estate",
+      "categoria": "Specialized REITs",
+      "descripcion": "Cell towers, timberland, casinos, labs, and other specialized real estate assets.",
+      "keywords": [
+        "cell tower REIT",
+        "timberland REIT",
+        "gaming REIT (casino real estate)",
+        "lab space REIT",
+        "billboard REIT"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Real Estate]\nSpecialized REITs\n\nCell towers, timberland, casinos, labs, and other specialized real estate assets.\n\nTérminos clave: cell tower REIT timberland REIT gaming REIT (casino real estate) lab space REIT billboard REIT\n\nRelevantes: cell tower REIT timberland REIT gaming REIT (casino real estate) lab space REIT billboard REIT",
+      "evitar_confusion": [
+        "Telecommunications (tower tenants vs. tower REIT landlords)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:real_estate_development",
+      "sector": "Real Estate",
+      "categoria": "Real Estate Development",
+      "descripcion": "Property development, land acquisition, and construction of residential/commercial projects.",
+      "keywords": [
+        "property developer",
+        "land acquisition for development",
+        "mixed-use development project",
+        "residential subdivision developer",
+        "development pipeline"
+      ],
+      "keywords_count": 5,
+      "texto_para_embedding": "[Real Estate]\nReal Estate Development\n\nProperty development, land acquisition, and construction of residential/commercial projects.\n\nTérminos clave: property developer land acquisition for development mixed-use development project residential subdivision developer development pipeline\n\nRelevantes: property developer land acquisition for development mixed-use development project residential subdivision developer development pipeline",
+      "evitar_confusion": [
+        "Engineering and Construction (Industrials, the contractor vs. the developer/owner)"
+      ],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:property_management",
+      "sector": "Real Estate",
+      "categoria": "Property Management",
+      "descripcion": "Property operations, leasing, tenant management, and real estate administration.",
+      "keywords": [
+        "third-party property manager",
+        "tenant leasing services",
+        "facility maintenance for property owners",
+        "rent collection services"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Real Estate]\nProperty Management\n\nProperty operations, leasing, tenant management, and real estate administration.\n\nTérminos clave: third-party property manager tenant leasing services facility maintenance for property owners rent collection services\n\nRelevantes: third-party property manager tenant leasing services facility maintenance for property owners rent collection services",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:operating_metrics",
+      "sector": "Real Estate",
+      "categoria": "Operating Metrics",
+      "descripcion": "",
+      "keywords": [
+        "occupancy rate",
+        "same-store net operating income",
+        "leasing spread",
+        "tenant retention rate",
+        "capitalization rate",
+        "funds from operations"
+      ],
+      "keywords_count": 6,
+      "texto_para_embedding": "[Real Estate]\nOperating Metrics\n\n\n\nTérminos clave: occupancy rate same-store net operating income leasing spread tenant retention rate capitalization rate funds from operations\n\nRelevantes: occupancy rate same-store net operating income leasing spread tenant retention rate capitalization rate funds from operations",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:market_catalysts",
+      "sector": "Real Estate",
+      "categoria": "Market Catalysts",
+      "descripcion": "",
+      "keywords": [
+        "Treasury yield movement impact on REITs",
+        "commercial property transaction volume",
+        "office vacancy trend",
+        "REIT refinancing wall"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Real Estate]\nMarket Catalysts\n\n\n\nTérminos clave: Treasury yield movement impact on REITs commercial property transaction volume office vacancy trend REIT refinancing wall\n\nRelevantes: Treasury yield movement impact on REITs commercial property transaction volume office vacancy trend REIT refinancing wall",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:financial_metrics",
+      "sector": "Real Estate",
+      "categoria": "Financial Metrics",
+      "descripcion": "",
+      "keywords": [
+        "adjusted funds from operations",
+        "net asset value (REIT)",
+        "loan-to-value (REIT)",
+        "price-to-FFO"
+      ],
+      "keywords_count": 4,
+      "texto_para_embedding": "[Real Estate]\nFinancial Metrics\n\n\n\nTérminos clave: adjusted funds from operations net asset value (REIT) loan-to-value (REIT) price-to-FFO\n\nRelevantes: adjusted funds from operations net asset value (REIT) loan-to-value (REIT) price-to-FFO",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    },
+    {
+      "id": "real_estate:industry_drivers",
+      "sector": "Real Estate",
+      "categoria": "Industry Drivers",
+      "descripcion": "",
+      "keywords": [
+        "interest rate impact on cap rates",
+        "tenant demand trends",
+        "construction cost inflation for real estate"
+      ],
+      "keywords_count": 3,
+      "texto_para_embedding": "[Real Estate]\nIndustry Drivers\n\n\n\nTérminos clave: interest rate impact on cap rates tenant demand trends construction cost inflation for real estate\n\nRelevantes: interest rate impact on cap rates tenant demand trends construction cost inflation for real estate",
+      "evitar_confusion": [],
+      "nivel": "CATEGORIA"
+    }
+  ]
+}

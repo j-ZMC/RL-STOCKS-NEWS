@@ -1,0 +1,2223 @@
+{
+    "Technology": {
+        "_sector_notes": "Distinguish from Communication Services (media/telecom/ad-tech) and Industrials (industrial automation hardware). Avoid using bare words like 'platform', 'digital', 'innovation', 'solution' as signals — they appear everywhere and add no discriminating power.",
+        "Semiconductors": {
+        "description": "Design, manufacturing, and supply of microchips, CPUs, GPUs, memory, ASICs, foundries, and advanced process nodes.",
+        "keywords": [
+            "semiconductor",
+            "fabless",
+            "foundry",
+            "wafer fab",
+            "chip fab",
+            "ASIC",
+            "SoC",
+            "FPGA",
+            "DRAM",
+            "NAND flash",
+            "HBM memory",
+            "chiplet",
+            "advanced packaging",
+            "CoWoS",
+            "EUV lithography",
+            "photomask",
+            "die yield",
+            "wafer start",
+            "leading-edge node",
+            "3nm process",
+            "5nm process",
+            "power semiconductor",
+            "analog chip",
+            "microcontroller unit",
+            "IGBT",
+            "silicon carbide chip",
+            "GaN semiconductor",
+            "tape-out",
+            "fab utilization",
+            "chip shortage",
+            "TSMC",
+            "capacity ramp",
+            "sub-fab",
+            "photoresist",
+            "wafer starts"
+        ],
+        "avoid_confusion_with": [
+            "Hardware (finished devices)",
+            "Technology Components (passive parts)",
+            "Electronic Equipment (instruments)"
+        ]
+        },
+        "Software": {
+        "description": "Development of operating systems, enterprise applications, SaaS, databases, developer tools, and cloud applications.",
+        "keywords": [
+            "software license",
+            "SaaS",
+            "subscription software",
+            "enterprise resource planning",
+            "middleware",
+            "API management",
+            "low-code platform",
+            "DevOps tooling",
+            "CI/CD pipeline",
+            "container orchestration",
+            "Kubernetes",
+            "database management system",
+            "on-premise deployment",
+            "software vendor",
+            "vertical software",
+            "application software",
+            "operating system vendor",
+            "open-source software",
+            "software monetization",
+            "seat-based pricing",
+            "usage-based pricing",
+            "software developer tools",
+            "IDE",
+            "codebase",
+            "software architecture"
+        ],
+        "avoid_confusion_with": [
+            "Enterprise Technology (business-process apps)",
+            "IT Services (consulting/integration)"
+        ]
+        },
+        "Hardware": {
+        "description": "Manufacturing of computers, servers, electronic devices, peripherals, storage systems, and technology infrastructure.",
+        "keywords": [
+            "personal computer",
+            "laptop shipment",
+            "desktop PC",
+            "server manufacturer",
+            "rack server",
+            "blade server",
+            "solid-state drive",
+            "hard disk drive",
+            "peripheral device",
+            "motherboard",
+            "graphics card manufacturer",
+            "PC OEM",
+            "device shipment volumes",
+            "notebook unit sales",
+            "computer assembly",
+            "hardware refresh cycle",
+            "storage array",
+            "NAS device",
+            "docking station",
+            "printer hardware",
+            "monitor manufacturer"
+        ],
+        "avoid_confusion_with": [
+            "Semiconductors (chips inside devices)",
+            "Networking Equipment (routers/switches)"
+        ]
+        },
+        "Networking Equipment": {
+        "description": "Communication infrastructure, routers, switches, networking systems, and data center connectivity hardware.",
+        "keywords": [
+            "router",
+            "network switch",
+            "network interface card",
+            "structured cabling",
+            "optical transceiver",
+            "SD-WAN",
+            "network fabric",
+            "data center interconnect",
+            "load balancer appliance",
+            "firewall appliance",
+            "wireless access point",
+            "Ethernet switch",
+            "core network equipment",
+            "5G radio access network hardware",
+            "fiber optic equipment",
+            "network topology",
+            "spine-leaf architecture",
+            "WAN optimization"
+        ],
+        "avoid_confusion_with": [
+            "Cybersecurity (software/services, not the appliance hardware itself)",
+            "Telecommunications (carrier services)"
+        ]
+        },
+        "IT Services": {
+        "description": "Technology consulting, systems integration, infrastructure management, outsourcing, and digital transformation services.",
+        "keywords": [
+            "systems integrator",
+            "IT consulting",
+            "managed services provider",
+            "business process outsourcing",
+            "application maintenance",
+            "technology staffing",
+            "digital transformation engagement",
+            "help desk services",
+            "IT outsourcing contract",
+            "professional services headcount",
+            "billable utilization rate",
+            "staff augmentation",
+            "implementation partner",
+            "system implementation project"
+        ],
+        "avoid_confusion_with": [
+            "Software (product companies)",
+            "Commercial Services (non-tech business services)"
+        ]
+        },
+        "Electronic Equipment": {
+        "description": "Electronic instruments, sensors, measurement systems, and specialized technology systems for industrial and lab use.",
+        "keywords": [
+            "test and measurement equipment",
+            "electronic instrumentation",
+            "oscilloscope",
+            "signal analyzer",
+            "industrial sensor",
+            "machine vision system",
+            "precision instrument",
+            "calibration equipment",
+            "electronic component distributor",
+            "instrumentation manufacturer",
+            "metrology equipment"
+        ],
+        "avoid_confusion_with": [
+            "Semiconductors",
+            "Life Sciences Tools (lab instruments for biotech)"
+        ]
+        },
+        "Artificial Intelligence": {
+        "description": "Hardware and software for model training and inference, AI accelerators, machine learning, and generative AI applications.",
+        "keywords": [
+            "large language model",
+            "generative AI",
+            "AI accelerator chip",
+            "GPU cluster",
+            "model training run",
+            "inference workload",
+            "foundation model",
+            "neural network training",
+            "AI data center buildout",
+            "machine learning pipeline",
+            "AI chip demand",
+            "compute cluster",
+            "training FLOPs",
+            "model fine-tuning",
+            "AI copilot",
+            "agentic AI",
+            "AI inference cost",
+            "tensor processing unit",
+            "AI accelerator supply",
+            "frontier model"
+        ],
+        "avoid_confusion_with": [
+            "Software (generic apps)",
+            "Semiconductors (general chip market)"
+        ]
+        },
+        "Cloud Computing": {
+        "description": "IaaS, PaaS, SaaS infrastructure, cloud data centers, cloud storage, and distributed computing services.",
+        "keywords": [
+            "hyperscaler",
+            "cloud infrastructure spend",
+            "public cloud",
+            "private cloud",
+            "cloud migration",
+            "compute instance",
+            "cloud storage tier",
+            "data center capacity",
+            "cloud capex",
+            "multi-cloud strategy",
+            "cloud workload",
+            "colocation capacity",
+            "cloud region buildout",
+            "server virtualization",
+            "cloud consumption revenue",
+            "hybrid cloud"
+        ],
+        "avoid_confusion_with": [
+            "Data Center REITs (real estate ownership, not the compute service)",
+            "Software"
+        ]
+        },
+        "Cybersecurity": {
+        "description": "Protection of networks, systems, applications, and data through threat detection, identity management, and access control.",
+        "keywords": [
+            "endpoint detection and response",
+            "identity and access management",
+            "zero trust architecture",
+            "security operations center",
+            "threat intelligence",
+            "ransomware attack",
+            "data breach disclosure",
+            "vulnerability management",
+            "penetration testing",
+            "security information and event management",
+            "multi-factor authentication",
+            "phishing defense",
+            "cyber insurance",
+            "extended detection and response",
+            "cloud security posture",
+            "intrusion detection"
+        ],
+        "avoid_confusion_with": [
+            "Networking Equipment (physical hardware)",
+            "IT Services"
+        ]
+        },
+        "Enterprise Technology": {
+        "description": "Enterprise applications, ERP, CRM, automation, productivity software, and digital business solutions.",
+        "keywords": [
+            "customer relationship management platform",
+            "enterprise resource planning suite",
+            "human capital management software",
+            "supply chain management software",
+            "business intelligence platform",
+            "workflow automation",
+            "robotic process automation",
+            "procurement software",
+            "enterprise data warehouse",
+            "productivity suite",
+            "collaboration software"
+        ],
+        "avoid_confusion_with": [
+            "Software (broad category)",
+            "IT Services"
+        ]
+        },
+        "Technology Components": {
+        "description": "Integrated circuits, electronic components, storage devices, connectors, circuit boards, and sensors used in tech products.",
+        "keywords": [
+            "printed circuit board",
+            "passive component",
+            "capacitor manufacturer",
+            "resistor supplier",
+            "connector manufacturer",
+            "flexible circuit",
+            "component distributor",
+            "bill of materials",
+            "electronic component shortage",
+            "surface-mount device"
+        ],
+        "avoid_confusion_with": [
+            "Semiconductors (active chips)",
+            "Hardware (finished products)"
+        ]
+        },
+        "Market Catalysts": {
+        "description": "Sector-specific events that move technology stocks.",
+        "keywords": [
+            "product launch event",
+            "chip export controls",
+            "AI capex guidance",
+            "hyperscaler capital expenditure",
+            "antitrust ruling against a tech company",
+            "developer conference announcement",
+            "GPU allocation constraints",
+            "technology tariffs"
+        ]
+        },
+        "Operating Terminology": {
+        "description": "Technology-specific operating language.",
+        "keywords": [
+            "annual recurring revenue",
+            "net revenue retention",
+            "bookings",
+            "billings",
+            "backlog",
+            "wafer yield",
+            "capacity utilization",
+            "R&D intensity",
+            "cloud migration rate",
+            "seat count",
+            "logo retention"
+        ]
+        },
+        "Financial Metrics": {
+        "description": "Note: these overlap heavily with other sectors — use only in combination with sector-specific keywords above, never alone.",
+        "keywords": [
+            "ARR growth",
+            "gross margin (software vs hardware mix)",
+            "rule of 40",
+            "R&D as percent of revenue",
+            "stock-based compensation",
+            "free cash flow margin"
+        ]
+        }
+    },
+    "Financials": {
+        "_sector_notes": "Distinguish from Real Estate (mortgage REITs) and Consumer Discretionary (retail credit cards issued by retailers). Avoid generic 'growth', 'earnings', 'guidance' as sole signals.",
+        "Banking": {
+        "description": "Commercial banks, regional banks, retail banking, corporate banking, deposits, mortgages, and consumer credit.",
+        "keywords": [
+            "commercial bank",
+            "regional bank",
+            "community bank",
+            "retail deposit base",
+            "checking account",
+            "savings account",
+            "commercial and industrial loan",
+            "branch network",
+            "correspondent banking",
+            "bank holding company",
+            "core deposits",
+            "loan-to-deposit ratio",
+            "interbank lending",
+            "bank charter",
+            "de novo bank"
+        ],
+        "avoid_confusion_with": [
+            "Consumer Finance (non-bank lenders)",
+            "Mortgage Finance (specialized mortgage REITs)"
+        ]
+        },
+        "Investment Banking": {
+        "description": "M&A advisory, equity/debt underwriting, IPOs, leveraged finance, and securities issuance.",
+        "keywords": [
+            "mergers and acquisitions advisory",
+            "equity underwriting",
+            "debt underwriting",
+            "initial public offering",
+            "leveraged buyout financing",
+            "bridge loan",
+            "SPAC merger",
+            "fairness opinion",
+            "syndicated loan",
+            "high-yield bond issuance",
+            "advisory fees",
+            "deal pipeline",
+            "bulge bracket bank",
+            "boutique advisory firm"
+        ],
+        "avoid_confusion_with": [
+            "Capital Markets (trading, not advisory)",
+            "Banking (deposit-taking)"
+        ]
+        },
+        "Capital Markets": {
+        "description": "Brokerage, securities trading, stock exchanges, market making, derivatives, and fixed income.",
+        "keywords": [
+            "stock exchange operator",
+            "market maker",
+            "prime brokerage",
+            "clearinghouse",
+            "derivatives trading volume",
+            "futures exchange",
+            "options exchange",
+            "electronic trading platform",
+            "dark pool",
+            "bid-ask spread",
+            "order flow",
+            "securities lending",
+            "algorithmic trading",
+            "exchange-traded derivatives"
+        ],
+        "avoid_confusion_with": [
+            "Asset Management (buy-side)",
+            "Investment Banking (advisory)"
+        ]
+        },
+        "Asset Management": {
+        "description": "Mutual funds, ETFs, institutional asset management, wealth management, and alternative investments.",
+        "keywords": [
+            "assets under management",
+            "mutual fund flows",
+            "exchange-traded fund issuer",
+            "institutional mandate",
+            "private equity fund",
+            "hedge fund",
+            "fund of funds",
+            "wealth management advisor",
+            "fee-based assets",
+            "expense ratio",
+            "index fund provider",
+            "alternative asset manager",
+            "carried interest",
+            "limited partner",
+            "general partner",
+            "fund redemption"
+        ],
+        "avoid_confusion_with": [
+            "Capital Markets (brokers/exchanges)",
+            "Insurance (separate account management)"
+        ]
+        },
+        "Consumer Finance": {
+        "description": "Credit cards, personal loans, auto finance, point-of-sale financing, and unsecured consumer credit.",
+        "keywords": [
+            "credit card issuer",
+            "personal installment loan",
+            "auto loan originator",
+            "buy now pay later",
+            "point-of-sale financing",
+            "unsecured consumer loan",
+            "subprime lending",
+            "consumer credit bureau data",
+            "revolving credit balance",
+            "loan origination volume",
+            "charge card"
+        ],
+        "avoid_confusion_with": [
+            "Banking (deposit institutions)",
+            "Payments (transaction processors)"
+        ]
+        },
+        "Insurance": {
+        "description": "Property and casualty, life, health-related insurance, reinsurance, annuities, and underwriting.",
+        "keywords": [
+            "property and casualty insurer",
+            "life insurance policy",
+            "reinsurance treaty",
+            "annuity product",
+            "insurance premium growth",
+            "underwriting profit",
+            "combined ratio",
+            "catastrophe losses",
+            "actuarial reserve",
+            "claims reserve",
+            "policyholder",
+            "loss ratio",
+            "insurance float",
+            "excess and surplus lines",
+            "title insurance"
+        ],
+        "avoid_confusion_with": [
+            "Managed Care (health insurance, categorized under Health Care)"
+        ]
+        },
+        "Mortgage Finance": {
+        "description": "Residential and commercial mortgages, mortgage servicing, refinancing, and mortgage-backed securities.",
+        "keywords": [
+            "mortgage originator",
+            "mortgage servicer",
+            "residential mortgage-backed security",
+            "mortgage refinancing volume",
+            "conforming loan",
+            "jumbo mortgage",
+            "mortgage REIT",
+            "loan-to-value ratio on mortgage",
+            "GSE (Fannie Mae/Freddie Mac)",
+            "mortgage rate lock"
+        ],
+        "avoid_confusion_with": [
+            "Banking (deposit-funded mortgages)",
+            "Real Estate Development"
+        ]
+        },
+        "Diversified Financial Services": {
+        "description": "Financial conglomerates, specialty finance, fintech, and diversified financial products.",
+        "keywords": [
+            "financial conglomerate",
+            "specialty finance company",
+            "fintech lender",
+            "diversified financial holding company",
+            "embedded finance",
+            "banking-as-a-service",
+            "non-bank financial institution"
+        ],
+        "avoid_confusion_with": [
+            "Banking",
+            "Payments"
+        ]
+        },
+        "Payments": {
+        "description": "Credit card networks, debit cards, payment processing, digital payments, and merchant acquiring.",
+        "keywords": [
+            "payment network",
+            "card network interchange",
+            "merchant acquirer",
+            "digital wallet",
+            "payment gateway",
+            "point-of-sale terminal",
+            "payment processing volume",
+            "cross-border payment",
+            "real-time payments rail",
+            "stablecoin payment rail",
+            "tokenization of payments"
+        ],
+        "avoid_confusion_with": [
+            "Consumer Finance (lending)",
+            "E-Commerce (Consumer Discretionary)"
+        ]
+        },
+        "Operating Metrics": {
+        "description": "Financials-specific operating language distinct from generic 'earnings'.",
+        "keywords": [
+            "net interest income",
+            "net interest margin",
+            "deposit beta",
+            "loan growth",
+            "nonperforming loans",
+            "charge-off rate",
+            "provision for credit losses",
+            "reserve coverage ratio",
+            "risk-weighted assets"
+        ]
+        },
+        "Risk and Capital": {
+        "description": "Bank capital adequacy and risk terminology.",
+        "keywords": [
+            "CET1 ratio",
+            "Tier 1 capital",
+            "leverage ratio",
+            "liquidity coverage ratio",
+            "stress test results",
+            "loan-loss reserve build"
+        ]
+        },
+        "Market Catalysts": {
+        "description": "Financials-specific catalysts.",
+        "keywords": [
+            "Federal Reserve rate decision",
+            "FOMC statement",
+            "yield curve inversion",
+            "bank stress test results",
+            "deposit flight",
+            "regional bank failure"
+        ]
+        },
+        "Financial Metrics": {
+        "keywords": [
+            "return on equity",
+            "return on tangible common equity",
+            "tangible book value per share",
+            "efficiency ratio",
+            "net charge-off rate"
+        ]
+        },
+        "Industry Drivers": {
+        "keywords": [
+            "monetary policy stance",
+            "credit cycle",
+            "yield curve shape",
+            "bank capital requirements"
+        ]
+        }
+    },
+    "Communication Services": {
+        "_sector_notes": "Distinguish from Technology (Software/Cloud) — Communication Services covers content, telecom carriage, and ad-supported platforms, not enterprise software. Distinguish 'Gaming' here (video games/publishers) from 'Leisure and Entertainment' casinos under Consumer Discretionary.",
+        "Telecommunications": {
+        "description": "Wireless and fixed-line telecom, mobile voice/data, broadband internet, and fiber networks.",
+        "keywords": [
+            "mobile network operator",
+            "fixed-line carrier",
+            "telecom spectrum license",
+            "fiber-to-the-home rollout",
+            "carrier billing",
+            "roaming agreement",
+            "telecom tower lease",
+            "voice minutes of use",
+            "landline subscriber",
+            "telecom regulator filing"
+        ],
+        "avoid_confusion_with": [
+            "Networking Equipment (Technology, hardware vendors)",
+            "Cable and Broadband"
+        ]
+        },
+        "Interactive Media": {
+        "description": "Search engines, social media platforms, digital communities, and internet-based communication services.",
+        "keywords": [
+            "search engine market share",
+            "social media platform",
+            "user-generated content platform",
+            "newsfeed algorithm",
+            "social network monthly active users",
+            "content moderation policy",
+            "online community platform",
+            "messaging app"
+        ],
+        "avoid_confusion_with": [
+            "Software (Technology)",
+            "Digital Advertising (monetization layer)"
+        ]
+        },
+        "Entertainment": {
+        "description": "Film, television, music, streaming platforms, video games, and content production.",
+        "keywords": [
+            "box office revenue",
+            "film studio",
+            "theatrical release",
+            "music label",
+            "concert touring revenue",
+            "content production budget",
+            "talent agency",
+            "royalty payments to artists",
+            "box office opening weekend"
+        ],
+        "avoid_confusion_with": [
+            "Streaming (distribution)",
+            "Media (broadcast)"
+        ]
+        },
+        "Media": {
+        "description": "Television networks, broadcasting, publishing, digital media, and news organizations.",
+        "keywords": [
+            "television network affiliate",
+            "broadcast ratings",
+            "cable network carriage fee",
+            "newspaper publisher",
+            "digital subscription news",
+            "affiliate fee negotiation",
+            "retransmission consent fee",
+            "linear TV audience"
+        ],
+        "avoid_confusion_with": [
+            "Streaming",
+            "Entertainment (production vs. distribution)"
+        ]
+        },
+        "Digital Advertising": {
+        "description": "Online advertising, search advertising, social media advertising, and programmatic ad platforms.",
+        "keywords": [
+            "programmatic advertising",
+            "cost per click",
+            "cost per mille",
+            "ad impression volume",
+            "demand-side platform",
+            "supply-side platform",
+            "retail media network",
+            "ad tech stack",
+            "third-party cookie deprecation",
+            "video advertising inventory"
+        ],
+        "avoid_confusion_with": [
+            "Interactive Media (platform itself vs. its ad revenue)"
+        ]
+        },
+        "Cable and Broadband": {
+        "description": "High-speed internet, cable television, broadband infrastructure, and residential communications.",
+        "keywords": [
+            "cable broadband subscriber",
+            "cord-cutting trend",
+            "broadband penetration rate",
+            "docsis network upgrade",
+            "cable multiple system operator",
+            "residential broadband ARPU"
+        ],
+        "avoid_confusion_with": [
+            "Telecommunications (mobile carriers)",
+            "Streaming"
+        ]
+        },
+        "Wireless Services": {
+        "description": "Mobile voice/data subscriptions, 5G connectivity, and spectrum capacity.",
+        "keywords": [
+            "postpaid wireless subscriber",
+            "prepaid wireless plan",
+            "5G network coverage",
+            "spectrum auction",
+            "wireless churn rate",
+            "mobile virtual network operator",
+            "unlimited data plan"
+        ],
+        "avoid_confusion_with": [
+            "Telecommunications (fixed-line)"
+        ]
+        },
+        "Streaming": {
+        "description": "Subscription video-on-demand, ad-supported streaming, and subscriber-based media platforms.",
+        "keywords": [
+            "subscription video on demand",
+            "streaming subscriber additions",
+            "ad-supported tier",
+            "content licensing deal for streaming",
+            "password-sharing crackdown",
+            "streaming churn rate",
+            "original content spend"
+        ],
+        "avoid_confusion_with": [
+            "Media (linear TV)",
+            "Entertainment (production)"
+        ]
+        },
+        "Gaming": {
+        "description": "Console games, PC games, mobile games, game publishing, and in-game purchases.",
+        "keywords": [
+            "video game publisher",
+            "console manufacturer",
+            "game studio",
+            "in-game purchase revenue",
+            "live-service game",
+            "esports tournament",
+            "game engine licensing",
+            "mobile game monetization",
+            "battle pass revenue"
+        ],
+        "avoid_confusion_with": [
+            "Leisure and Entertainment (casinos, theme parks — Consumer Discretionary)"
+        ]
+        },
+        "Content and Media Rights": {
+        "description": "Film/TV production, sports broadcasting rights, music rights, and content licensing.",
+        "keywords": [
+            "sports broadcasting rights deal",
+            "music publishing rights",
+            "content library licensing",
+            "intellectual property licensing for film",
+            "syndication rights"
+        ],
+        "avoid_confusion_with": [
+            "Media",
+            "Entertainment"
+        ]
+        },
+        "Operating Metrics": {
+        "keywords": [
+            "subscriber net additions",
+            "churn rate",
+            "average revenue per user",
+            "daily active users",
+            "monthly active users",
+            "engagement time per session",
+            "ad load"
+        ]
+        },
+        "Market Catalysts": {
+        "keywords": [
+            "spectrum auction results",
+            "streaming subscriber miss",
+            "sports rights renewal",
+            "net neutrality ruling",
+            "content licensing dispute"
+        ]
+        },
+        "Financial Metrics": {
+        "keywords": [
+            "adjusted EBITDA margin (media)",
+            "content amortization",
+            "subscriber acquisition cost"
+        ]
+        },
+        "Industry Drivers": {
+        "keywords": [
+            "cord-cutting",
+            "advertising cycle",
+            "content cost inflation",
+            "spectrum availability"
+        ]
+        }
+    },
+    "Health Care": {
+        "_sector_notes": "Distinguish from Consumer Staples 'Consumer Health' (OTC products sold via retail) and Materials 'Chemicals' (industrial chemistry vs. pharma chemistry).",
+        "Pharmaceuticals": {
+        "description": "Prescription drugs, branded medicines, generic drugs, vaccines, and pharmaceutical manufacturing.",
+        "keywords": [
+            "branded prescription drug",
+            "generic drug manufacturer",
+            "vaccine developer",
+            "drug patent cliff",
+            "active pharmaceutical ingredient",
+            "drug pricing negotiation",
+            "pharmacy benefit manager rebate",
+            "small-molecule drug",
+            "orphan drug designation",
+            "drug formulary placement"
+        ],
+        "avoid_confusion_with": [
+            "Biotechnology (early-stage/biologics focus)",
+            "Consumer Health (OTC)"
+        ]
+        },
+        "Biotechnology": {
+        "description": "Biologic drugs, gene therapies, cell therapies, immunotherapies, and biotechnology research.",
+        "keywords": [
+            "biologic therapy",
+            "gene therapy",
+            "cell therapy",
+            "monoclonal antibody",
+            "CAR-T therapy",
+            "mRNA platform",
+            "biosimilar",
+            "clinical-stage biotech",
+            "platform technology company",
+            "antibody-drug conjugate",
+            "biotech cash runway"
+        ],
+        "avoid_confusion_with": [
+            "Pharmaceuticals (commercial-stage, small molecule)",
+            "Life Sciences Tools (equipment makers)"
+        ]
+        },
+        "Medical Devices": {
+        "description": "Surgical instruments, implants, diagnostic equipment, cardiovascular devices, and orthopedic products.",
+        "keywords": [
+            "implantable device",
+            "surgical robot",
+            "cardiovascular stent",
+            "orthopedic implant",
+            "pacemaker",
+            "catheter",
+            "device 510(k) clearance",
+            "minimally invasive surgical device",
+            "prosthetic device",
+            "medical device recall"
+        ],
+        "avoid_confusion_with": [
+            "Medical Technology (imaging/monitoring platforms)",
+            "Diagnostics"
+        ]
+        },
+        "Diagnostics": {
+        "description": "Diagnostic tests, laboratory testing, molecular diagnostics, and clinical laboratory services.",
+        "keywords": [
+            "molecular diagnostic test",
+            "companion diagnostic",
+            "point-of-care testing",
+            "clinical laboratory network",
+            "PCR testing",
+            "liquid biopsy",
+            "in vitro diagnostic",
+            "diagnostic test reimbursement",
+            "pathology lab"
+        ],
+        "avoid_confusion_with": [
+            "Medical Devices",
+            "Life Sciences Tools"
+        ]
+        },
+        "Managed Care": {
+        "description": "Health insurance, managed care organizations, Medicare, Medicaid, and reimbursement services.",
+        "keywords": [
+            "health maintenance organization",
+            "Medicare Advantage plan",
+            "Medicaid managed care",
+            "employer-sponsored health plan",
+            "health insurance exchange",
+            "medical loss ratio",
+            "prior authorization",
+            "risk-adjustment payment",
+            "capitation payment"
+        ],
+        "avoid_confusion_with": [
+            "Insurance (P&C/life, under Financials)"
+        ]
+        },
+        "Health Care Providers": {
+        "description": "Hospitals, clinics, physicians, outpatient facilities, and healthcare delivery.",
+        "keywords": [
+            "hospital system",
+            "outpatient surgery center",
+            "physician practice group",
+            "urgent care clinic",
+            "nursing home operator",
+            "hospital admission volume",
+            "patient census",
+            "value-based care contract",
+            "inpatient bed capacity"
+        ],
+        "avoid_confusion_with": [
+            "Managed Care (payers, not providers)"
+        ]
+        },
+        "Health Care Services": {
+        "description": "Healthcare distribution, pharmacy services, clinical research, and healthcare logistics.",
+        "keywords": [
+            "pharmacy benefit management",
+            "drug wholesaler distributor",
+            "contract research organization",
+            "specialty pharmacy",
+            "healthcare revenue cycle management",
+            "home health services"
+        ],
+        "avoid_confusion_with": [
+            "Health Care Providers"
+        ]
+        },
+        "Life Sciences Tools": {
+        "description": "Laboratory equipment, research instruments, reagents, and scientific research technologies.",
+        "keywords": [
+            "lab instrument manufacturer",
+            "gene sequencing platform",
+            "mass spectrometer",
+            "flow cytometer",
+            "reagent kit",
+            "bioprocessing equipment",
+            "cell culture media",
+            "lab automation system",
+            "next-generation sequencing"
+        ],
+        "avoid_confusion_with": [
+            "Electronic Equipment (Technology)",
+            "Diagnostics (clinical use vs research use)"
+        ]
+        },
+        "Drug Development": {
+        "description": "Drug discovery, preclinical research, clinical trials, and regulatory submissions.",
+        "keywords": [
+            "Phase I clinical trial",
+            "Phase II clinical trial",
+            "Phase III clinical trial",
+            "new drug application",
+            "biologics license application",
+            "clinical trial endpoint",
+            "drug candidate pipeline",
+            "regulatory submission to FDA",
+            "trial enrollment"
+        ],
+        "avoid_confusion_with": [
+            "Biotechnology (broader company category)"
+        ]
+        },
+        "Medical Technology": {
+        "description": "Diagnostic platforms, imaging systems, robotic surgery, and connected medical equipment.",
+        "keywords": [
+            "MRI system",
+            "CT scanner",
+            "robotic-assisted surgery platform",
+            "remote patient monitoring device",
+            "digital health platform",
+            "wearable medical sensor",
+            "telehealth platform"
+        ],
+        "avoid_confusion_with": [
+            "Medical Devices (implants vs. capital equipment)"
+        ]
+        },
+        "Operating Metrics": {
+        "keywords": [
+            "prescription volume",
+            "medical loss ratio",
+            "enrollment growth",
+            "procedure volume",
+            "reimbursement rate change"
+        ]
+        },
+        "Regulatory and Clinical Catalysts": {
+        "keywords": [
+            "FDA approval decision",
+            "FDA complete response letter",
+            "clinical trial readout",
+            "patent litigation ruling",
+            "patent cliff",
+            "drug pricing negotiation outcome"
+        ]
+        },
+        "Market Catalysts": {
+        "keywords": [
+            "clinical trial data release",
+            "drug launch",
+            "biotech licensing deal",
+            "FDA advisory committee vote"
+        ]
+        },
+        "Financial Metrics": {
+        "keywords": [
+            "R&D as percent of revenue (pharma)",
+            "royalty revenue",
+            "milestone payment"
+        ]
+        },
+        "Industry Drivers": {
+        "keywords": [
+            "aging population demand",
+            "drug pricing reform",
+            "patent expiration cycle",
+            "healthcare utilization trend"
+        ]
+        }
+    },
+    "Industrials": {
+        "_sector_notes": "Distinguish from Technology 'Automation and Robotics' (industrial robots here vs. software automation in Tech) and Materials (raw inputs vs. finished equipment).",
+        "Aerospace": {
+        "description": "Commercial aircraft, aircraft engines, aviation systems, and aircraft manufacturing.",
+        "keywords": [
+            "aircraft manufacturer",
+            "jet engine maker",
+            "commercial aircraft order backlog",
+            "aircraft delivery rate",
+            "airframe production",
+            "aircraft MRO (maintenance repair overhaul)",
+            "narrowbody aircraft",
+            "widebody aircraft",
+            "aviation supply chain"
+        ],
+        "avoid_confusion_with": [
+            "Defense (military aircraft)",
+            "Transportation (airlines, the operators)"
+        ]
+        },
+        "Defense": {
+        "description": "Defense systems, military aircraft, missiles, radar, weapons platforms, and government contracts.",
+        "keywords": [
+            "defense contractor",
+            "missile system",
+            "military aircraft program",
+            "radar system",
+            "unmanned aerial vehicle",
+            "defense procurement budget",
+            "government defense contract award",
+            "munitions manufacturer",
+            "naval shipbuilding"
+        ],
+        "avoid_confusion_with": [
+            "Aerospace (commercial)",
+            "Electrical Equipment"
+        ]
+        },
+        "Industrial Machinery": {
+        "description": "Heavy machinery, industrial equipment, turbines, pumps, compressors, and production systems.",
+        "keywords": [
+            "industrial pump manufacturer",
+            "gas turbine maker",
+            "compressor manufacturer",
+            "heavy equipment OEM",
+            "factory production line equipment",
+            "machine tool manufacturer",
+            "capital goods order book"
+        ],
+        "avoid_confusion_with": [
+            "Construction Equipment",
+            "Electrical Equipment"
+        ]
+        },
+        "Construction Equipment": {
+        "description": "Excavators, bulldozers, cranes, loaders, and mining machinery.",
+        "keywords": [
+            "excavator manufacturer",
+            "bulldozer",
+            "crane manufacturer",
+            "wheel loader",
+            "mining truck",
+            "earthmoving equipment",
+            "construction equipment rental fleet",
+            "heavy equipment dealer"
+        ],
+        "avoid_confusion_with": [
+            "Industrial Machinery",
+            "Metals and Mining (the mines themselves)"
+        ]
+        },
+        "Electrical Equipment": {
+        "description": "Electrical components, power systems, transformers, generators, motors, and industrial controls.",
+        "keywords": [
+            "power transformer manufacturer",
+            "electric generator maker",
+            "industrial motor",
+            "switchgear",
+            "circuit breaker manufacturer",
+            "electrical distribution equipment",
+            "grid transformer backlog"
+        ],
+        "avoid_confusion_with": [
+            "Grid Infrastructure (Utilities, the network itself)",
+            "Technology Components"
+        ]
+        },
+        "Building Products": {
+        "description": "Construction materials, HVAC equipment, electrical products, and architectural components.",
+        "keywords": [
+            "HVAC equipment manufacturer",
+            "roofing products maker",
+            "insulation manufacturer",
+            "windows and doors manufacturer",
+            "plumbing fixtures maker",
+            "building products distributor"
+        ],
+        "avoid_confusion_with": [
+            "Construction Materials (Materials sector, raw cement/aggregates)"
+        ]
+        },
+        "Engineering and Construction": {
+        "description": "Engineering services, infrastructure development, civil engineering, and project management.",
+        "keywords": [
+            "engineering and construction firm",
+            "infrastructure project contractor",
+            "civil engineering contract",
+            "EPC contract (engineering, procurement, construction)",
+            "construction project backlog",
+            "design-build contractor"
+        ],
+        "avoid_confusion_with": [
+            "Real Estate Development (property developers)",
+            "Building Products"
+        ]
+        },
+        "Transportation": {
+        "description": "Railroads, airlines, trucking, shipping, logistics, and fleet services.",
+        "keywords": [
+            "Class I railroad",
+            "airline carrier",
+            "trucking fleet operator",
+            "ocean freight carrier",
+            "logistics provider",
+            "freight rate",
+            "intermodal shipping",
+            "rail carload volume",
+            "trucking spot rate",
+            "airline load factor"
+        ],
+        "avoid_confusion_with": [
+            "Aerospace (aircraft makers, not airlines)",
+            "Industrial Distribution"
+        ]
+        },
+        "Commercial Services": {
+        "description": "Business services, environmental services, staffing, facility management, and waste management.",
+        "keywords": [
+            "staffing agency",
+            "waste management company",
+            "environmental remediation services",
+            "facility management provider",
+            "commercial cleaning services",
+            "security services provider",
+            "temp labor placement"
+        ],
+        "avoid_confusion_with": [
+            "IT Services (Technology sector)"
+        ]
+        },
+        "Industrial Distribution": {
+        "description": "Distribution of industrial equipment, machinery, electrical components, and maintenance supplies.",
+        "keywords": [
+            "industrial distributor",
+            "MRO supplies distributor",
+            "fastener distributor",
+            "electrical parts distributor",
+            "wholesale industrial parts"
+        ],
+        "avoid_confusion_with": [
+            "Transportation (movement vs. distribution/resale)"
+        ]
+        },
+        "Automation and Robotics": {
+        "description": "Industrial robots, factory automation, control systems, and automated production systems.",
+        "keywords": [
+            "industrial robot arm",
+            "factory automation system",
+            "programmable logic controller",
+            "machine vision for manufacturing",
+            "collaborative robot (cobot)",
+            "automated guided vehicle",
+            "manufacturing execution system"
+        ],
+        "avoid_confusion_with": [
+            "Artificial Intelligence (Technology, software-centric)"
+        ]
+        },
+        "Operating Metrics": {
+        "keywords": [
+            "backlog growth",
+            "book-to-bill ratio",
+            "order intake",
+            "aftermarket parts revenue",
+            "capacity utilization (industrial)",
+            "on-time delivery rate"
+        ]
+        },
+        "Market Catalysts": {
+        "keywords": [
+            "infrastructure spending bill",
+            "defense budget appropriation",
+            "aircraft delivery delay",
+            "manufacturing PMI reading",
+            "tariffs on industrial goods"
+        ]
+        },
+        "Financial Metrics": {
+        "keywords": [
+            "return on invested capital (industrial)",
+            "backlog coverage ratio",
+            "book-to-bill"
+        ]
+        },
+        "Industry Drivers": {
+        "keywords": [
+            "manufacturing activity index",
+            "infrastructure investment cycle",
+            "industrial production growth"
+        ]
+        }
+    },
+    "Consumer Discretionary": {
+        "_sector_notes": "Distinguish from Consumer Staples (discretionary/non-essential purchases vs. necessities) and Communication Services 'Gaming' (video games vs. casinos here).",
+        "Automobiles": {
+        "description": "Passenger vehicles, electric vehicles, automotive components, dealerships, and vehicle financing.",
+        "keywords": [
+            "automaker",
+            "electric vehicle maker",
+            "vehicle production volume",
+            "auto dealership network",
+            "car incentive spending",
+            "vehicle inventory days supply",
+            "battery electric vehicle",
+            "internal combustion engine vehicle",
+            "auto parts supplier",
+            "vehicle recall"
+        ],
+        "avoid_confusion_with": [
+            "Construction Equipment (Industrials)",
+            "Transportation (fleets/carriers)"
+        ]
+        },
+        "Apparel and Footwear": {
+        "description": "Clothing, footwear, accessories, sportswear, and fashion brands.",
+        "keywords": [
+            "apparel brand",
+            "footwear manufacturer",
+            "athletic apparel",
+            "fast fashion retailer",
+            "sportswear brand",
+            "clothing wholesale",
+            "sneaker resale market",
+            "apparel wholesale order"
+        ],
+        "avoid_confusion_with": [
+            "Luxury Goods (premium tier)",
+            "Retail (the channel, not the brand)"
+        ]
+        },
+        "Household Durables": {
+        "description": "Furniture, appliances, home electronics, and home furnishings.",
+        "keywords": [
+            "home appliance manufacturer",
+            "furniture maker",
+            "consumer electronics brand",
+            "home furnishings retailer",
+            "white goods (appliances)",
+            "mattress manufacturer",
+            "smart home device"
+        ],
+        "avoid_confusion_with": [
+            "Building Products (Industrials, construction-stage)",
+            "Hardware (Technology, computing devices)"
+        ]
+        },
+        "Leisure and Entertainment": {
+        "description": "Theme parks, casinos, recreational products, entertainment venues, and cruises.",
+        "keywords": [
+            "theme park operator",
+            "casino gaming revenue",
+            "cruise line",
+            "amusement park attendance",
+            "recreational vehicle manufacturer",
+            "gambling revenue",
+            "sports equipment brand"
+        ],
+        "avoid_confusion_with": [
+            "Gaming (video games, Communication Services)",
+            "Hotels and Resorts"
+        ]
+        },
+        "Hotels and Resorts": {
+        "description": "Hotels, resorts, lodging, vacation properties, and hospitality.",
+        "keywords": [
+            "hotel chain operator",
+            "resort property",
+            "hotel occupancy rate",
+            "average daily rate (hotel)",
+            "hotel franchise agreement",
+            "timeshare company",
+            "vacation rental platform"
+        ],
+        "avoid_confusion_with": [
+            "Hotel and Resort REITs (Real Estate, ownership vs. operation)"
+        ]
+        },
+        "Restaurants": {
+        "description": "Quick-service restaurants, casual dining, fast-casual, and franchised restaurants.",
+        "keywords": [
+            "quick-service restaurant chain",
+            "casual dining chain",
+            "fast-casual restaurant",
+            "restaurant franchisee",
+            "same-store sales at restaurants",
+            "delivery aggregator",
+            "menu price increase",
+            "restaurant traffic decline"
+        ],
+        "avoid_confusion_with": [
+            "Food Products (Consumer Staples, packaged food makers)"
+        ]
+        },
+        "Retail": {
+        "description": "Specialty retail, department stores, home improvement, discount stores, and e-commerce.",
+        "keywords": [
+            "department store chain",
+            "specialty retailer",
+            "discount retailer",
+            "big-box retailer",
+            "home improvement retailer",
+            "omnichannel retail strategy",
+            "retail foot traffic",
+            "store closures"
+        ],
+        "avoid_confusion_with": [
+            "Food Retail (Consumer Staples, grocery)",
+            "E-Commerce"
+        ]
+        },
+        "Luxury Goods": {
+        "description": "Luxury apparel, accessories, watches, jewelry, and premium consumer products.",
+        "keywords": [
+            "luxury fashion house",
+            "high-end jewelry brand",
+            "luxury watch maker",
+            "premium handbag brand",
+            "luxury conglomerate",
+            "duty-free luxury sales",
+            "luxury consumer spending in China"
+        ],
+        "avoid_confusion_with": [
+            "Apparel and Footwear (mass market)"
+        ]
+        },
+        "E-Commerce": {
+        "description": "Online marketplaces, digital retail platforms, and direct-to-consumer commerce.",
+        "keywords": [
+            "online marketplace",
+            "direct-to-consumer brand",
+            "e-commerce fulfillment center",
+            "online order volume",
+            "digital storefront",
+            "cart abandonment rate",
+            "online penetration rate of retail sales"
+        ],
+        "avoid_confusion_with": [
+            "Payments (Financials, the transaction layer)",
+            "Retail (physical channel)"
+        ]
+        },
+        "Home Improvement": {
+        "description": "Building materials, tools, hardware, renovation products, and DIY products.",
+        "keywords": [
+            "home renovation spending",
+            "DIY hardware store",
+            "power tool brand",
+            "home improvement project volume",
+            "contractor supply store"
+        ],
+        "avoid_confusion_with": [
+            "Building Products (Industrials, manufacturers vs. retail)"
+        ]
+        },
+        "Operating Metrics": {
+        "keywords": [
+            "same-store sales growth",
+            "comparable sales",
+            "customer traffic",
+            "conversion rate (retail)",
+            "average transaction value",
+            "inventory turnover",
+            "markdown rate"
+        ]
+        },
+        "Market Catalysts": {
+        "keywords": [
+            "holiday shopping season results",
+            "consumer confidence index",
+            "back-to-school spending",
+            "auto incentive spending",
+            "tariffs on consumer goods"
+        ]
+        },
+        "Financial Metrics": {
+        "keywords": [
+            "merchandise margin",
+            "inventory days outstanding",
+            "FCF conversion (retail)"
+        ]
+        },
+        "Industry Drivers": {
+        "keywords": [
+            "household disposable income",
+            "consumer sentiment index",
+            "wage growth",
+            "consumer credit availability"
+        ]
+        }
+    },
+    "Consumer Staples": {
+        "_sector_notes": "Distinguish from Consumer Discretionary (necessities vs. discretionary spend) and Health Care 'Consumer Health' vs. this sector's 'Consumer Health' subcategory — keep OTC wellness distinct from prescription pharma.",
+        "Beverages": {
+        "description": "Soft drinks, bottled water, alcoholic beverages, coffee, and packaged beverages.",
+        "keywords": [
+            "soft drink bottler",
+            "brewery",
+            "distillery",
+            "wine producer",
+            "bottled water brand",
+            "coffee roaster",
+            "beverage concentrate maker",
+            "energy drink brand",
+            "non-alcoholic beverage volume"
+        ],
+        "avoid_confusion_with": [
+            "Restaurants (Consumer Discretionary, on-premise consumption)"
+        ]
+        },
+        "Food Products": {
+        "description": "Packaged foods, snacks, dairy, frozen foods, cereals, and prepared foods.",
+        "keywords": [
+            "packaged food manufacturer",
+            "snack food brand",
+            "dairy processor",
+            "frozen food maker",
+            "cereal brand",
+            "condiment manufacturer",
+            "protein/meat processor",
+            "food commodity input cost",
+            "private-label food"
+        ],
+        "avoid_confusion_with": [
+            "Restaurants (prepared on-premise vs. packaged)",
+            "Food Retail (channel, not maker)"
+        ]
+        },
+        "Household Products": {
+        "description": "Household cleaners, detergents, paper products, and laundry products.",
+        "keywords": [
+            "laundry detergent brand",
+            "household cleaner manufacturer",
+            "paper towel brand",
+            "toilet paper manufacturer",
+            "dish soap brand",
+            "surface cleaner"
+        ],
+        "avoid_confusion_with": [
+            "Personal Care (body/hygiene vs. home)"
+        ]
+        },
+        "Personal Care": {
+        "description": "Cosmetics, skincare, haircare, toiletries, and oral care.",
+        "keywords": [
+            "cosmetics brand",
+            "skincare brand",
+            "haircare product line",
+            "toothpaste brand",
+            "deodorant brand",
+            "personal hygiene product",
+            "beauty product distribution"
+        ],
+        "avoid_confusion_with": [
+            "Luxury Goods (prestige beauty vs. mass beauty)",
+            "Consumer Health"
+        ]
+        },
+        "Tobacco": {
+        "description": "Cigarettes, cigars, smokeless tobacco, and nicotine products.",
+        "keywords": [
+            "cigarette manufacturer",
+            "vaping product",
+            "smokeless tobacco brand",
+            "nicotine pouch",
+            "tobacco excise tax",
+            "tobacco volume decline"
+        ],
+        "avoid_confusion_with": []
+        },
+        "Food Retail": {
+        "description": "Supermarkets, grocery stores, discount grocers, and convenience stores.",
+        "keywords": [
+            "supermarket chain",
+            "grocery retailer",
+            "convenience store chain",
+            "discount grocer",
+            "grocery same-store sales",
+            "private-label grocery penetration"
+        ],
+        "avoid_confusion_with": [
+            "Retail (Consumer Discretionary, general merchandise)"
+        ]
+        },
+        "Consumer Health": {
+        "description": "Over-the-counter healthcare products, vitamins, and non-prescription wellness products.",
+        "keywords": [
+            "over-the-counter medication brand",
+            "vitamin and supplement brand",
+            "OTC pain reliever",
+            "wellness supplement",
+            "cough and cold remedy"
+        ],
+        "avoid_confusion_with": [
+            "Pharmaceuticals (prescription drugs, Health Care sector)"
+        ]
+        },
+        "Pet Products": {
+        "description": "Pet food, pet care products, and animal health products.",
+        "keywords": [
+            "pet food brand",
+            "pet treat manufacturer",
+            "pet care product line",
+            "veterinary retail product",
+            "pet nutrition"
+        ],
+        "avoid_confusion_with": [
+            "Health Care Providers (human vs. animal health)"
+        ]
+        },
+        "Packaged Consumer Goods": {
+        "description": "Branded packaged products, private-label products, and fast-moving consumer goods.",
+        "keywords": [
+            "fast-moving consumer goods company",
+            "branded packaged goods portfolio",
+            "private-label manufacturer",
+            "consumer packaged goods distribution"
+        ],
+        "avoid_confusion_with": []
+        },
+        "Operating Metrics": {
+        "keywords": [
+            "organic sales growth",
+            "volume growth",
+            "price/mix",
+            "shelf space allocation",
+            "promotional intensity",
+            "private-label penetration"
+        ]
+        },
+        "Market Catalysts": {
+        "keywords": [
+            "food and beverage inflation",
+            "agricultural commodity cost spike",
+            "product recall",
+            "tobacco regulation change"
+        ]
+        },
+        "Financial Metrics": {
+        "keywords": [
+            "pricing power (staples)",
+            "cost savings program",
+            "productivity initiative"
+        ]
+        },
+        "Industry Drivers": {
+        "keywords": [
+            "consumer trade-down to private label",
+            "input cost inflation",
+            "brand loyalty trend"
+        ]
+        }
+    },
+    "Energy": {
+        "_sector_notes": "Distinguish from Utilities (regulated power delivery vs. commodity extraction/production) and Materials/Petrochemicals overlap.",
+        "Upstream Exploration and Production": {
+        "description": "Oil and gas exploration, drilling, crude oil and natural gas production, and reserves.",
+        "keywords": [
+            "exploration and production company",
+            "shale oil producer",
+            "crude oil well",
+            "natural gas well",
+            "proved reserves",
+            "drilling rig count",
+            "well completion",
+            "hydrocarbon extraction",
+            "offshore drilling platform",
+            "production decline rate"
+        ],
+        "avoid_confusion_with": [
+            "Oilfield Services (service providers, not producers)"
+        ]
+        },
+        "Integrated Oil and Gas": {
+        "description": "Integrated majors combining exploration, refining, marketing, and petrochemicals.",
+        "keywords": [
+            "integrated oil major",
+            "upstream-downstream integration",
+            "supermajor oil company",
+            "vertically integrated energy company"
+        ],
+        "avoid_confusion_with": [
+            "Upstream Exploration and Production (pure-play)"
+        ]
+        },
+        "Midstream": {
+        "description": "Oil and gas pipelines, gathering systems, storage terminals, and energy logistics.",
+        "keywords": [
+            "pipeline operator",
+            "gathering system",
+            "natural gas processing plant",
+            "storage terminal operator",
+            "pipeline tariff",
+            "midstream MLP (master limited partnership)",
+            "crude oil transportation"
+        ],
+        "avoid_confusion_with": [
+            "Natural Gas and LNG (production/export vs. transport)"
+        ]
+        },
+        "Oilfield Services": {
+        "description": "Drilling services, well completion, hydraulic fracturing, and production support.",
+        "keywords": [
+            "oilfield services company",
+            "hydraulic fracturing provider",
+            "drilling contractor",
+            "well completion services",
+            "seismic survey company",
+            "pressure pumping",
+            "directional drilling services"
+        ],
+        "avoid_confusion_with": [
+            "Upstream Exploration and Production",
+            "Energy Equipment (equipment maker vs. service provider)"
+        ]
+        },
+        "Refining": {
+        "description": "Crude oil refining, gasoline, diesel, jet fuel, and refined fuel production.",
+        "keywords": [
+            "oil refinery",
+            "refining margin",
+            "crack spread",
+            "gasoline production",
+            "diesel production",
+            "refinery utilization rate",
+            "refinery turnaround maintenance"
+        ],
+        "avoid_confusion_with": [
+            "Petrochemicals (further downstream processing)"
+        ]
+        },
+        "Energy Marketing": {
+        "description": "Wholesale fuel distribution, petroleum marketing, fuel retailing, and commodity trading.",
+        "keywords": [
+            "fuel retailer",
+            "wholesale fuel distributor",
+            "gas station operator",
+            "commodity trading desk (energy)",
+            "fuel marketing margin"
+        ],
+        "avoid_confusion_with": [
+            "Refining (production vs. distribution)"
+        ]
+        },
+        "Natural Gas and LNG": {
+        "description": "Natural gas production, liquefaction, LNG exports, and regasification.",
+        "keywords": [
+            "LNG export terminal",
+            "natural gas liquefaction facility",
+            "LNG carrier shipment",
+            "regasification terminal",
+            "natural gas spot price",
+            "LNG offtake agreement"
+        ],
+        "avoid_confusion_with": [
+            "Midstream (pipelines vs. LNG facilities)"
+        ]
+        },
+        "Petrochemicals": {
+        "description": "Chemical feedstocks, plastics, olefins, aromatics, and petroleum-derived chemical products.",
+        "keywords": [
+            "ethylene cracker",
+            "petrochemical feedstock",
+            "polyethylene production",
+            "olefins plant",
+            "aromatics production",
+            "naphtha feedstock"
+        ],
+        "avoid_confusion_with": [
+            "Chemicals (Materials sector, broader industrial chemicals)"
+        ]
+        },
+        "Energy Equipment": {
+        "description": "Drilling rigs, pumps, compressors, valves, and specialized energy machinery.",
+        "keywords": [
+            "drilling rig manufacturer",
+            "wellhead equipment maker",
+            "energy sector pump manufacturer",
+            "subsea equipment",
+            "blowout preventer"
+        ],
+        "avoid_confusion_with": [
+            "Oilfield Services (service vs. equipment manufacturing)"
+        ]
+        },
+        "Operating Metrics": {
+        "keywords": [
+            "production guidance (barrels per day)",
+            "rig count",
+            "well completions",
+            "refinery utilization",
+            "crack spread",
+            "lifting cost per barrel"
+        ]
+        },
+        "Market Catalysts": {
+        "keywords": [
+            "OPEC+ production decision",
+            "crude oil inventory report",
+            "geopolitical supply disruption",
+            "hurricane shutting in production",
+            "LNG export policy change"
+        ]
+        },
+        "Financial Metrics": {
+        "keywords": [
+            "free cash flow yield (energy)",
+            "breakeven oil price",
+            "reserve replacement ratio"
+        ]
+        },
+        "Industry Drivers": {
+        "keywords": [
+            "global oil demand",
+            "OPEC spare capacity",
+            "energy transition policy",
+            "geopolitical risk premium"
+        ]
+        }
+    },
+    "Materials": {
+        "_sector_notes": "Distinguish from Energy 'Petrochemicals' (feedstock chemistry) and Industrials 'Building Products' (finished construction products vs. raw materials here).",
+        "Chemicals": {
+        "description": "Commodity chemicals, specialty chemicals, industrial gases, coatings, and agricultural chemicals.",
+        "keywords": [
+            "commodity chemical producer",
+            "specialty chemical maker",
+            "industrial gas supplier",
+            "coatings manufacturer",
+            "adhesives producer",
+            "agrochemical company",
+            "chemical plant capacity utilization"
+        ],
+        "avoid_confusion_with": [
+            "Petrochemicals (Energy sector, feedstock-adjacent)",
+            "Fertilizers"
+        ]
+        },
+        "Metals and Mining": {
+        "description": "Mining and processing of copper, gold, silver, aluminum, iron ore, nickel, zinc, and lithium.",
+        "keywords": [
+            "copper miner",
+            "gold miner",
+            "iron ore producer",
+            "lithium mining company",
+            "nickel producer",
+            "base metals mining",
+            "mine production guidance",
+            "ore grade",
+            "mineral exploration"
+        ],
+        "avoid_confusion_with": [
+            "Precious Metals (subset)",
+            "Steel/Aluminum (processing, not extraction)"
+        ]
+        },
+        "Steel": {
+        "description": "Steel production, flat-rolled steel, long steel products, and metal fabrication.",
+        "keywords": [
+            "steel mill",
+            "flat-rolled steel producer",
+            "electric arc furnace steelmaker",
+            "steel plate manufacturer",
+            "hot-rolled coil price",
+            "steel tariff"
+        ],
+        "avoid_confusion_with": [
+            "Metals and Mining (iron ore vs. finished steel)"
+        ]
+        },
+        "Aluminum": {
+        "description": "Aluminum mining, alumina refining, smelting, and rolled products.",
+        "keywords": [
+            "aluminum smelter",
+            "alumina refinery",
+            "bauxite mining",
+            "aluminum rolling mill",
+            "aluminum extrusion producer"
+        ],
+        "avoid_confusion_with": [
+            "Metals and Mining (broader), Packaging (aluminum cans)"
+        ]
+        },
+        "Precious Metals": {
+        "description": "Gold, silver, platinum-group metals, and bullion-related products.",
+        "keywords": [
+            "gold bullion",
+            "silver mining company",
+            "platinum group metals miner",
+            "precious metals refiner",
+            "gold price hedge"
+        ],
+        "avoid_confusion_with": [
+            "Metals and Mining (base metals)"
+        ]
+        },
+        "Fertilizers": {
+        "description": "Nitrogen, phosphate, potash fertilizers, and agricultural chemicals.",
+        "keywords": [
+            "potash producer",
+            "nitrogen fertilizer plant",
+            "phosphate mining",
+            "crop nutrient pricing",
+            "urea fertilizer",
+            "fertilizer application season"
+        ],
+        "avoid_confusion_with": [
+            "Chemicals (broader industrial vs. agricultural)"
+        ]
+        },
+        "Construction Materials": {
+        "description": "Cement, aggregates, concrete, asphalt, and infrastructure-related materials.",
+        "keywords": [
+            "cement producer",
+            "aggregates quarry",
+            "ready-mix concrete supplier",
+            "asphalt producer",
+            "cement plant capacity"
+        ],
+        "avoid_confusion_with": [
+            "Building Products (Industrials, finished construction products)"
+        ]
+        },
+        "Packaging": {
+        "description": "Paper packaging, cardboard, containers, bottles, cans, and consumer packaging.",
+        "keywords": [
+            "corrugated cardboard maker",
+            "aluminum can manufacturer",
+            "glass bottle producer",
+            "flexible packaging company",
+            "packaging converter"
+        ],
+        "avoid_confusion_with": [
+            "Forest Products and Paper (raw pulp vs. finished packaging)"
+        ]
+        },
+        "Forest Products and Paper": {
+        "description": "Pulp, paper, tissue products, and wood products.",
+        "keywords": [
+            "pulp mill",
+            "paper mill",
+            "tissue product manufacturer",
+            "lumber producer",
+            "timberland owner",
+            "wood products company"
+        ],
+        "avoid_confusion_with": [
+            "Packaging (converted products)"
+        ]
+        },
+        "Operating Metrics": {
+        "keywords": [
+            "production volume (materials)",
+            "realized price per ton",
+            "capacity utilization (materials)",
+            "all-in sustaining cost",
+            "ore grade",
+            "cash cost per unit"
+        ]
+        },
+        "Market Catalysts": {
+        "keywords": [
+            "China demand for commodities",
+            "mine supply disruption",
+            "metals inventory data",
+            "commodity price spike",
+            "labor strike at mine"
+        ]
+        },
+        "Financial Metrics": {
+        "keywords": [
+            "commodity price sensitivity",
+            "EBITDA margin (materials)",
+            "return on capital employed (materials)"
+        ]
+        },
+        "Industry Drivers": {
+        "keywords": [
+            "global industrial production",
+            "Chinese construction demand",
+            "commodity supercycle"
+        ]
+        }
+    },
+    "Utilities": {
+        "_sector_notes": "Distinguish from Energy (regulated delivery/generation vs. commodity extraction) and Real Estate 'Data Center REITs' (power demand driver, not the utility itself).",
+        "Electric Utilities": {
+        "description": "Electricity generation, transmission, distribution, and regulated utility infrastructure.",
+        "keywords": [
+            "regulated electric utility",
+            "investor-owned utility",
+            "electricity transmission line",
+            "distribution substation",
+            "electric rate case",
+            "regulated rate base"
+        ],
+        "avoid_confusion_with": [
+            "Independent Power Producers (unregulated merchant generation)"
+        ]
+        },
+        "Natural Gas Utilities": {
+        "description": "Natural gas distribution, transmission, storage, and regulated gas services.",
+        "keywords": [
+            "gas utility distribution network",
+            "local distribution company (gas)",
+            "gas storage facility",
+            "gas utility rate case"
+        ],
+        "avoid_confusion_with": [
+            "Natural Gas and LNG (Energy sector, production/export)"
+        ]
+        },
+        "Water Utilities": {
+        "description": "Water supply, wastewater treatment, and regulated water systems.",
+        "keywords": [
+            "water utility company",
+            "wastewater treatment plant",
+            "water infrastructure investment",
+            "regulated water rate case"
+        ],
+        "avoid_confusion_with": []
+        },
+        "Multi-Utilities": {
+        "description": "Companies providing combinations of electricity, gas, water, and wastewater services.",
+        "keywords": [
+            "multi-utility holding company",
+            "combined electric and gas utility"
+        ],
+        "avoid_confusion_with": []
+        },
+        "Independent Power Producers": {
+        "description": "Merchant electricity generation, wholesale power markets, and power purchase agreements.",
+        "keywords": [
+            "merchant power generator",
+            "wholesale electricity market",
+            "power purchase agreement",
+            "capacity market auction",
+            "unregulated generation fleet"
+        ],
+        "avoid_confusion_with": [
+            "Electric Utilities (regulated)"
+        ]
+        },
+        "Renewable Energy": {
+        "description": "Solar, wind, hydroelectric generation, battery storage, and clean energy infrastructure.",
+        "keywords": [
+            "solar farm developer",
+            "wind farm operator",
+            "battery energy storage system",
+            "renewable energy credit",
+            "utility-scale solar project",
+            "offshore wind project",
+            "power purchase agreement for renewables"
+        ],
+        "avoid_confusion_with": [
+            "Electrical Equipment (Industrials, component makers)"
+        ]
+        },
+        "Nuclear Power": {
+        "description": "Nuclear electricity generation, reactor operations, and long-term power contracts.",
+        "keywords": [
+            "nuclear power plant",
+            "nuclear reactor operator",
+            "small modular reactor",
+            "nuclear fuel management",
+            "nuclear plant license renewal"
+        ],
+        "avoid_confusion_with": []
+        },
+        "Grid Infrastructure": {
+        "description": "Transmission lines, distribution networks, smart grids, and grid reliability infrastructure.",
+        "keywords": [
+            "transmission grid operator",
+            "smart grid technology",
+            "grid modernization investment",
+            "grid reliability standard",
+            "grid interconnection queue"
+        ],
+        "avoid_confusion_with": [
+            "Electrical Equipment (Industrials, the hardware makers)"
+        ]
+        },
+        "Operating Metrics": {
+        "keywords": [
+            "rate base growth",
+            "allowed return on equity",
+            "load growth",
+            "peak demand forecast",
+            "generation mix",
+            "capacity factor"
+        ]
+        },
+        "Regulatory Catalysts": {
+        "keywords": [
+            "utility commission rate case decision",
+            "regulatory lag",
+            "renewable portfolio standard mandate"
+        ]
+        },
+        "Market Catalysts": {
+        "keywords": [
+            "extreme weather grid impact",
+            "data center power demand growth",
+            "wildfire liability",
+            "nuclear plant restart"
+        ]
+        },
+        "Financial Metrics": {
+        "keywords": [
+            "funds from operations (utility)",
+            "rate-base growth rate",
+            "regulated return on equity"
+        ]
+        },
+        "Industry Drivers": {
+        "keywords": [
+            "electrification trend",
+            "data center electricity demand",
+            "grid modernization need"
+        ]
+        }
+    },
+    "Real Estate": {
+        "_sector_notes": "Distinguish from Utilities (data center power vs. data center real estate) and Financials 'Mortgage Finance' (loan origination vs. property ownership).",
+        "Residential REITs": {
+        "description": "Apartment buildings, single-family rentals, manufactured housing, and student housing.",
+        "keywords": [
+            "apartment REIT",
+            "single-family rental operator",
+            "manufactured housing community",
+            "student housing REIT",
+            "multifamily occupancy rate"
+        ],
+        "avoid_confusion_with": [
+            "Real Estate Development (building vs. owning/operating)"
+        ]
+        },
+        "Office REITs": {
+        "description": "Office buildings, corporate properties, and commercial office leasing.",
+        "keywords": [
+            "office REIT",
+            "central business district office tower",
+            "office leasing activity",
+            "office vacancy rate",
+            "return-to-office trend impact on leasing"
+        ],
+        "avoid_confusion_with": []
+        },
+        "Retail REITs": {
+        "description": "Shopping centers, malls, and commercial retail real estate.",
+        "keywords": [
+            "shopping center REIT",
+            "mall operator",
+            "grocery-anchored shopping center",
+            "retail REIT occupancy",
+            "anchor tenant lease"
+        ],
+        "avoid_confusion_with": [
+            "Retail (Consumer Discretionary, the tenants themselves)"
+        ]
+        },
+        "Industrial and Logistics REITs": {
+        "description": "Warehouses, distribution centers, and supply-chain real estate.",
+        "keywords": [
+            "warehouse REIT",
+            "logistics real estate",
+            "last-mile distribution facility",
+            "fulfillment center lease",
+            "industrial REIT rent growth"
+        ],
+        "avoid_confusion_with": [
+            "E-Commerce (Consumer Discretionary, the tenant operations)"
+        ]
+        },
+        "Data Center REITs": {
+        "description": "Data centers, colocation facilities, and digital infrastructure real estate ownership.",
+        "keywords": [
+            "data center REIT",
+            "colocation provider",
+            "hyperscale data center lease",
+            "data center power capacity",
+            "data center REIT development pipeline"
+        ],
+        "avoid_confusion_with": [
+            "Cloud Computing (Technology, the compute service, not the building)"
+        ]
+        },
+        "Hotel and Resort REITs": {
+        "description": "Hotels, resorts, and lodging properties held by REITs.",
+        "keywords": [
+            "hotel REIT",
+            "lodging REIT",
+            "hotel property portfolio",
+            "RevPAR for REIT-owned hotels"
+        ],
+        "avoid_confusion_with": [
+            "Hotels and Resorts (Consumer Discretionary, the operating brands)"
+        ]
+        },
+        "Healthcare REITs": {
+        "description": "Hospitals, senior housing, skilled nursing, and medical office buildings held by REITs.",
+        "keywords": [
+            "senior housing REIT",
+            "medical office building REIT",
+            "skilled nursing facility REIT",
+            "healthcare REIT lease"
+        ],
+        "avoid_confusion_with": [
+            "Health Care Providers (operators, not landlords)"
+        ]
+        },
+        "Self-Storage REITs": {
+        "description": "Self-storage facilities and rental storage properties.",
+        "keywords": [
+            "self-storage REIT",
+            "storage unit occupancy",
+            "self-storage same-store revenue"
+        ],
+        "avoid_confusion_with": []
+        },
+        "Specialized REITs": {
+        "description": "Cell towers, timberland, casinos, labs, and other specialized real estate assets.",
+        "keywords": [
+            "cell tower REIT",
+            "timberland REIT",
+            "gaming REIT (casino real estate)",
+            "lab space REIT",
+            "billboard REIT"
+        ],
+        "avoid_confusion_with": [
+            "Telecommunications (tower tenants vs. tower REIT landlords)"
+        ]
+        },
+        "Real Estate Development": {
+        "description": "Property development, land acquisition, and construction of residential/commercial projects.",
+        "keywords": [
+            "property developer",
+            "land acquisition for development",
+            "mixed-use development project",
+            "residential subdivision developer",
+            "development pipeline"
+        ],
+        "avoid_confusion_with": [
+            "Engineering and Construction (Industrials, the contractor vs. the developer/owner)"
+        ]
+        },
+        "Property Management": {
+        "description": "Property operations, leasing, tenant management, and real estate administration.",
+        "keywords": [
+            "third-party property manager",
+            "tenant leasing services",
+            "facility maintenance for property owners",
+            "rent collection services"
+        ],
+        "avoid_confusion_with": []
+        },
+        "Operating Metrics": {
+        "keywords": [
+            "occupancy rate",
+            "same-store net operating income",
+            "leasing spread",
+            "tenant retention rate",
+            "capitalization rate",
+            "funds from operations"
+        ]
+        },
+        "Market Catalysts": {
+        "keywords": [
+            "Treasury yield movement impact on REITs",
+            "commercial property transaction volume",
+            "office vacancy trend",
+            "REIT refinancing wall"
+        ]
+        },
+        "Financial Metrics": {
+        "keywords": [
+            "adjusted funds from operations",
+            "net asset value (REIT)",
+            "loan-to-value (REIT)",
+            "price-to-FFO"
+        ]
+        },
+        "Industry Drivers": {
+        "keywords": [
+            "interest rate impact on cap rates",
+            "tenant demand trends",
+            "construction cost inflation for real estate"
+        ]
+        }
+    }
+    }
