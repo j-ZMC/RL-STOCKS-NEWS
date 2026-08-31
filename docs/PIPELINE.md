@@ -28,13 +28,15 @@ Defaults:
 # Use a small pre-filter before FAISS to reduce the GDELT volume
 & ".\venv\Scripts\python.exe" pipeline_sentimiento_diario.py --keywords "Tesla,Apple,Nvidia"
 
-# Reuse an existing raw CSV and skip network collection/enrichment
+# Reuse completed URL extraction and run only preparation/models
 & ".\venv\Scripts\python.exe" pipeline_sentimiento_diario.py --skip-fetch --skip-enrich
 ```
 
 ## Processing Rules
 
 - Article publication time is preserved in `published_at`.
+- `URL_TO_TEXT_Working.py` writes full extracted page text to `article_text` while preserving the raw URL in `title`.
+- FAISS and FinBERT both consume the prepared `headline` field, which is sourced from `article_text` with a title/summary fallback.
 - FAISS can assign multiple taxonomy sub-industries to one article.
 - FinBERT sentiment is represented as `score_positive - score_negative`.
 - `sentiment_mean` is the arithmetic daily mean for a sub-industry.

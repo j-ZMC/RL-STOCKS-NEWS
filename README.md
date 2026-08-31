@@ -39,8 +39,8 @@ docs/                            Architecture and workflow documentation
 ## Active News Workflow
 
 1. Fetch GDELT articles from `2022-01-01` through `2024-12-31`.
-2. Enrich GDELT URL records with article titles and summaries.
-3. Preserve the publication timestamp and build classifier text.
+2. Extract full visible article text from the URL stored in `title`.
+3. Preserve the publication timestamp and build classifier text from `article_text`.
 4. Use FAISS against every taxonomy category and retain all labels over the confidence threshold.
 5. Run FinBERT once per unique article, even when an article has multiple category labels.
 6. Calculate the daily mean per sub-industry.
@@ -50,6 +50,7 @@ Generated files are written under `data/`:
 
 ```text
 noticias_2022_2024_raw.csv
+noticias_2022_2024_extracted.csv
 noticias_2022_2024_prepared.csv
 noticias_2022_2024_classified.csv
 noticias_2022_2024_finbert.csv

@@ -27,11 +27,25 @@ def fetch_news(start_date: str, end_date: str, output_path: str, keywords: Optio
     writer.flush()
 
 
-def enrich_news(input_path: str) -> None:
-    """Replace GDELT URL proxies with article titles and summaries."""
-    from Internet_scraper.URL_news_bot import enrich_gdelt_rows
+def enrich_news(
+    input_path: str,
+    output_path: str,
+    max_workers: int = 8,
+    timeout: int = 10,
+    checkpoint_every: int = 1000,
+    fetch_urls: bool = True,
+) -> None:
+    """Extract full article text from URLs in the raw news CSV."""
+    from Internet_scraper.URL_TO_TEXT_Working import extract_csv_text
 
-    enrich_gdelt_rows(input_path)
+    extract_csv_text(
+        input_path,
+        output_path,
+        max_workers=max_workers,
+        timeout=timeout,
+        checkpoint_every=checkpoint_every,
+        fetch_urls=fetch_urls,
+    )
 
 
 def prepare_news(
@@ -56,7 +70,12 @@ def prepare_news(
 
     title = news.get("title", news.get("headline", pd.Series("", index=news.index))).fillna("")
     summary = news.get("news_summary", pd.Series("", index=news.index)).fillna("")
-    news["headline"] = (title.astype(str) + ". " + summary.astype(str)).str.strip()
+    fallback_text = (title.astype(str) + ". " + summary.astype(str)).str.strip()
+    article_text = news.get("article_text", pd.Series("", index=news.index)).fillna("").astype(str)
+    source = news.get("article_text_source", pd.Series("web", index=news.index)).fillna("web")
+    url_text = (article_text + ". " + summary.astype(str)).str.strip()
+    classifier_text = article_text.where(source.ne("url"), url_text)
+    news["headline"] = classifier_text.where(classifier_text.str.strip().ne(""), fallback_text)
     news["article_id"] = range(len(news))
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
     news.to_csv(output_path, index=False, encoding="utf-8")
@@ -162,9 +181,19 @@ def run_pipeline(args: argparse.Namespace) -> None:
         keywords = args.keywords.split(",") if args.keywords else None
         fetch_news(args.start_date, args.end_date, raw_path, keywords)
     if not args.skip_enrich:
-        enrich_news(raw_path)
+        enrich_news(
+            raw_path,
+            args.extracted_news,
+            max_workers=args.extraction_workers,
+            timeout=args.extraction_timeout,
+            checkpoint_every=args.extraction_checkpoint_every,
+            fetch_urls=args.extraction_mode == "web",
+        )
+        preparation_input = args.extracted_news
+    else:
+        preparation_input = args.extracted_news if Path(args.extracted_news).exists() else raw_path
 
-    prepare_news(raw_path, prepared_path, args.start_date, args.end_date)
+    prepare_news(preparation_input, prepared_path, args.start_date, args.end_date)
     classify_news(
         prepared_path,
         classified_path,
@@ -199,6 +228,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--start-date", default=DEFAULT_START_DATE)
     parser.add_argument("--end-date", default=DEFAULT_END_DATE)
     parser.add_argument("--raw-news", default="data/noticias_2022_2024_raw.csv")
+    parser.add_argument("--extracted-news", default="data/noticias_2022_2024_extracted.csv")
     parser.add_argument("--prepared-news", default="data/noticias_2022_2024_prepared.csv")
     parser.add_argument("--classified-news", default="data/noticias_2022_2024_classified.csv")
     parser.add_argument("--scored-news", default="data/noticias_2022_2024_finbert.csv")
@@ -207,6 +237,15 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--threshold", type=float, default=0.55)
     parser.add_argument("--classification-batch-size", type=int, default=128)
     parser.add_argument("--sentiment-batch-size", type=int, default=32)
+    parser.add_argument("--extraction-workers", type=int, default=8)
+    parser.add_argument("--extraction-timeout", type=int, default=10)
+    parser.add_argument("--extraction-checkpoint-every", type=int, default=1000)
+    parser.add_argument(
+        "--extraction-mode",
+        choices=["url", "web"],
+        default="url",
+        help="Use URL text locally, or request each publisher page",
+    )
     parser.add_argument(
         "--device",
         choices=["auto", "cuda", "cpu"],
